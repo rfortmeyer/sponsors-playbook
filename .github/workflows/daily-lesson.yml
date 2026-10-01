@@ -1,0 +1,74 @@
+name: Daily lesson
+
+on:
+  schedule:
+    # 09:00 UTC = 5:00 a.m. Eastern (summer) / 4:00 a.m. Eastern (winter), Monday to Friday
+    - cron: "0 9 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      lesson:
+        description: "Lesson number to produce or redo (leave blank for the next one)"
+        required: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-lesson
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install ffmpeg
+        run: sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
+
+      - name: Install Python packages
+        run: pip install -r requirements.txt
+
+      - name: Produce lesson
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GOOGLE_TTS_API_KEY: ${{ secrets.GOOGLE_TTS_API_KEY }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          LISTENER_CONTEXT: ${{ secrets.LISTENER_CONTEXT }}
+          TTS_PROVIDER: ${{ vars.TTS_PROVIDER }}
+          TTS_VOICE: ${{ vars.TTS_VOICE }}
+          TTS_MODEL: ${{ vars.TTS_MODEL }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+        run: |
+          if [ -n "${{ github.event.inputs.lesson }}" ]; then
+            python podcast.py --lesson "${{ github.event.inputs.lesson }}"
+          else
+            python podcast.py
+          fi
+
+      - name: Save episode to the repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Publish lesson $(date -u +%F)"
+          git push
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deploy
+        uses: actions/deploy-pages@v4
