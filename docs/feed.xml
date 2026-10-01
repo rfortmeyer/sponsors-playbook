@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Sponsor&#x27;s Playbook</title>
+    <link>https://rfortmeyer.github.io/sponsors-playbook/</link>
+    <atom:link href="https://rfortmeyer.github.io/sponsors-playbook/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A daily 15-minute lesson on the business principles an executive in a private-equity-backed company needs to know, from fund basics to advanced deal and capital structures.</description>
+    <language>en-us</language>
+    <itunes:author>The Sponsor&#x27;s Playbook</itunes:author>
+    <itunes:summary>A daily 15-minute lesson on the business principles an executive in a private-equity-backed company needs to know, from fund basics to advanced deal and capital structures.</itunes:summary>
+    <itunes:image href="https://rfortmeyer.github.io/sponsors-playbook/cover.png"/>
+    <itunes:category text="Business"><itunes:category text="Management"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>1. GPs, LPs, and the anatomy of a PE fund</title>
+      <description>Module 1: How private equity works.
+
+Key takeaways:
+- A PE fund is typically a limited partnership: LPs supply capital passively and are liable only up to their commitment, while the GP makes the decisions and carries legal responsibility.
+- Capital is committed up front but called only as needed, and the closed-end fund runs about ten years, so your sponsor&#x27;s behavior is shaped by where the fund sits in its life.
+- Your sponsor answers to LPs and reports valuations to them, and lenders lend to your company, not the fund, so understanding the fund helps you read board, lender, and capital-allocation decisions.
+
+Transcript: https://rfortmeyer.github.io/sponsors-playbook/transcripts/lesson-01.txt</description>
+      <enclosure url="https://rfortmeyer.github.io/sponsors-playbook/episodes/lesson-01.mp3" length="5852935" type="audio/mpeg"/>
+      <guid isPermaLink="false">sponsors-playbook-1-20261001140220</guid>
+      <pubDate>Thu, 01 Oct 2026 14:02:20 +0000</pubDate>
+      <itunes:duration>0:12:12</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

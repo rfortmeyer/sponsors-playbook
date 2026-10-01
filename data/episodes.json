@@ -1,0 +1,20 @@
+{
+  "episodes": [
+    {
+      "lesson_idx": 0,
+      "title": "GPs, LPs, and the anatomy of a PE fund",
+      "file": "lesson-01.mp3",
+      "bytes": 5852935,
+      "duration": "0:12:12",
+      "pub_date": "Thu, 01 Oct 2026 14:02:20 +0000",
+      "generated": "20261001140220",
+      "words": 2135,
+      "takeaways": [
+        "A PE fund is typically a limited partnership: LPs supply capital passively and are liable only up to their commitment, while the GP makes the decisions and carries legal responsibility.",
+        "Capital is committed up front but called only as needed, and the closed-end fund runs about ten years, so your sponsor's behavior is shaped by where the fund sits in its life.",
+        "Your sponsor answers to LPs and reports valuations to them, and lenders lend to your company, not the fund, so understanding the fund helps you read board, lender, and capital-allocation decisions."
+      ],
+      "tts": "openai:default"
+    }
+  ]
+}

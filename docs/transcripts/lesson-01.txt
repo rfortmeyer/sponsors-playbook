@@ -1,0 +1,83 @@
+The Sponsor's Playbook
+Lesson 1: GPs, LPs, and the anatomy of a PE fund
+
+Welcome to The Sponsor's Playbook. This is lesson 1: GPs, LPs, and the anatomy of a PE fund.
+
+Picture this. It's a Tuesday. Your CEO tells you the sponsor's partner wants a call. Not a board call, just a call. The partner says the firm is looking at your growth plan differently this year. Nothing is wrong with the business. Volume is up, margins are steady. But the firm is closing out its current fund's buying period, and they want to know what "ready for a sale" looks like in about two years.
+
+You wonder where that came from. Your numbers didn't change. Something changed on the sponsor's side, in a place you can't see.
+
+That place is the fund. Today we open it up. If you understand how a fund is built, a lot of sponsor behavior stops being mysterious.
+
+Let's start with the basic idea. A private equity firm, which people call the sponsor, usually isn't investing its own money. Mostly, it's investing other people's money. It raises that money into a vehicle called a fund. The fund buys companies. Your company is one of them. We call these companies portfolio companies.
+
+Now the two terms in today's title. The GP is the general partner. The LPs are the limited partners.
+
+The fund is typically structured as a limited partnership. That's a legal form with two kinds of partners. The limited partners put in the capital. They're passive. They don't run the fund, they don't pick the deals, and in exchange their liability is limited to what they've committed. The general partner makes the decisions. It finds the deals, negotiates them, sits on the boards, and decides when to sell. In exchange, the general partner carries the legal responsibility for the partnership.
+
+Who are the limited partners? Pension funds, university endowments, sovereign wealth funds, insurance companies, foundations, family offices, and wealthy individuals. Think of a state teachers' retirement system. It has billions of dollars that need to earn returns over decades. It allocates some slice of that to private equity, and that slice goes into funds like the one that owns your company.
+
+Here's a point that trips people up. When people say "the GP," they can mean a few different things. There's the general partner entity, a legal shell that is the formal partner in the fund. There's the management company, which employs the investment professionals and gets paid fees to run the fund. And there's the firm itself, the brand with the offices and the partners. In casual conversation these blur together. In legal documents, they're separate. As a general counsel, you'll care about that distinction. When a document says "the General Partner" or "the Manager," it means a specific entity, and the two are not interchangeable.
+
+Next: the governing document. The fund is run under a limited partnership agreement, often called the LPA. It's the constitution of the fund. It says how much the fund can invest in a single company, what industries or geographies are off limits, how long the fund lives, how fees and profits are split, who the key people are, and what happens if those people leave. It also sets conflict-of-interest rules and reporting duties. You will probably never read your sponsor's LPA. But it shapes what your sponsor can and can't do with your company.
+
+Now, how the money actually moves. This is the part most executives don't know. Limited partners don't wire the whole amount on day one. They make a commitment. Say a pension fund commits fifty million dollars. That's a legal promise to provide up to that amount when asked. The general partner then issues a capital call, sometimes called a drawdown notice, when it needs cash. A deal is signed, the GP calls the money, and the limited partners typically have around ten business days to wire it. That varies by fund, and many funds also use a credit line to bridge the gap, but the principle holds. The money arrives when there's a use for it.
+
+This is what makes it a closed-end fund. The LPs commit up front. Once the fund closes to new investors, nobody else gets in. And the LPs can't pull their money out whenever they like. They get cash back only when the fund sells investments and distributes the proceeds.
+
+Then the timeline. A typical buyout fund runs about ten years, often with two one-year extensions available. The first five years or so are the investment period. That's when the GP is allowed to make new acquisitions. After that comes the harvest period, when the GP manages the portfolio, can make follow-on investments in existing companies, and works toward selling. The fund has a clock. That clock matters a lot to you, and we'll come back to it.
+
+One more feature. The general partner usually invests its own money alongside the LPs. This is called the GP commitment. A common range is one to three percent of the fund, though it differs across firms and sizes. Sometimes it's higher. The idea is simple: the people steering should have some personal money at risk too.
+
+Let's walk through an example with round numbers.
+
+Imagine a fund called Ridgeline Partners Fund Three. It raises five hundred million dollars in commitments. The general partner commits two percent, so ten million dollars. Limited partners commit the other four hundred ninety million.
+
+Now the fund finds your kind of company. A regional freight brokerage, say, with strong shipper relationships and solid gross margin. The purchase price, the enterprise value, is one hundred fifty million dollars. The firm finances the deal half with debt and half with equity. So seventy-five million comes from lenders, and seventy-five million comes from the fund as equity. In real deals, management also rolls some of its own equity, but let's keep it simple.
+
+Where does the fund's seventy-five million come from? The general partner sends a capital call to all the limited partners and itself. Each partner pays its share of the call in proportion to its commitment. The GP's two percent means it puts in about one and a half million. The LPs together put in the rest, around seventy-three and a half million.
+
+Notice a few things. First, the fund has now used seventy-five million of its five hundred million. That's fifteen percent. Many LPAs cap how much a single deal can take, and ten to twenty percent of the fund is a common range. So this is a big position, but a normal one.
+
+Second, the money was called only when needed. LPs didn't pay five hundred million up front. Most of their commitment is still sitting with them, waiting.
+
+Third, the fund owns the company. Not the GP personally, and not any single LP. The fund does, through holding entities set up for the deal.
+
+Now fast-forward. The firm holds your company for five years. Revenue grows, the new branches mature, and earnings climb. Debt gets paid down. The firm sells the company, and after repaying the lenders, the fund's equity is worth one hundred eighty-seven million, five hundred thousand dollars. That's two and a half times the seventy-five million invested. The fund distributes that cash to the partners, again in proportion to their stakes. The pension fund gets its share and can put it to work elsewhere.
+
+How the profit gets split between GP and LPs, including the fees and the GP's performance cut, is the subject of the next lesson. For now, just see the flow. Commitment, capital call, investment, hold period, sale, distribution.
+
+So what does this mean for you as an operator?
+
+First, your sponsor works against a fund clock. If your firm bought you in year two of a ten-year fund, there's room to be patient. You may have time to build the new branch unit, mature the data platform, and let a longer-term bet play out. If your firm bought you in year four and it's now year seven, the questions change. The partner will care about what story the next buyer sees, which means trailing earnings, clean financials, and a business that looks less risky. That's the call from our cold open. The sponsor's calendar was driving the conversation, not your business.
+
+So one of the first things to learn is the vintage of your fund. That's the year it started investing. Ask your CEO or CFO, or just look at the sponsor's website. It tells you a lot.
+
+Second, how the board sees you. The sponsor's representatives on your board work for the firm, and they report to the LPs through the firm. Every quarter the firm must report the value of your company to its investors. That means the partner will want reliable, timely numbers from you, and will care about anything that could change your valuation. A lost key customer, a regulatory problem, a lawsuit, or a data breach isn't just a company problem. It's something the partner has to explain upstairs.
+
+As general counsel, expect to field questions that come from the fund structure. Sponsors have obligations to their LPs on things like sanctions screening, anti-corruption compliance, cybersecurity, and conflicts of interest. Some LPs, especially public pension funds, send detailed questionnaires. Those questions flow down to portfolio companies. Treat them as part of the job, and answer them cleanly.
+
+Third, how lenders see it. Lenders to your company are lending to your company, not to the fund. In the typical leveraged buyout, the fund doesn't guarantee your debt. The lenders rely on your cash flow and your collateral, and they pay attention to who owns you. A well-regarded sponsor with a long record gives them comfort. A sponsor with reserves for follow-on investment gives them more. Sometimes the credit agreement lets the sponsor cure a covenant breach by injecting equity. Whether the sponsor does that depends on how much capital the fund has left and how the partner sees the deal versus the others in the fund. So the fund's remaining dry powder matters to you in a hard year. Also, many credit agreements treat a change of control as a default, tied to the sponsor losing control. Know what your definition says.
+
+Fourth, the growth projects. When you ask for money for a new branch, a recruiting push, or a marketing program, the sponsor is weighing it against everything else the fund can do with that capital. Some of the fund's money is reserved for follow-ons, and some for new deals. Your ask competes for it. A request framed in terms of return on invested capital and timing against the exit lands much better than one framed only in terms of operations.
+
+Now, common mistakes.
+
+The first mistake is thinking the sponsor is investing its own money, like a founder or a family owner. It isn't. The partner on your board answers to LPs, and has duties laid out in the fund documents. That's why the partner may decline something that seems sensible to you. It might not fit the fund's rules, or its timeline, or its reporting.
+
+The second mistake is treating "the sponsor" as one voice. There's the deal team, the partner on your board, the firm's operating group, the portfolio finance team, the investor relations people, and the firm's senior partners. They have different priorities. The deal partner cares about your plan. The finance team cares about lender compliance and valuation. Investor relations cares about how your results look to LPs. Learn who owns which question, and you'll get to answers faster.
+
+The third mistake is ignoring the fund's life stage until it becomes urgent. Many executives only find out the fund is nearing its end when the sale process starts. By then, decisions have narrowed. Learn the clock early, and plan your initiatives around it.
+
+Let's recap.
+
+A private equity fund is usually a limited partnership. The limited partners provide the capital and are passive. The general partner makes the decisions and carries the legal responsibility. LPs commit money up front, and the GP calls it as deals happen. The fund is closed-end and has a life of about ten years, with a buying period and a harvest period. The GP typically invests a small slice of its own money too. For you, that means the sponsor has a clock, reports to its own investors, has limited capital to support you, and has lenders watching who owns you.
+
+Here's your question for today. Do you know which fund owns your company, what year it started investing, and how much of its life is left? And if you don't, what would change in how you plan the next eighteen months once you find out?
+
+Next time, we'll look at fund economics: how management fees, hurdle rates, carry, and the waterfall decide who gets paid, and when.
+
+Key takeaways:
+- A PE fund is typically a limited partnership: LPs supply capital passively and are liable only up to their commitment, while the GP makes the decisions and carries legal responsibility.
+- Capital is committed up front but called only as needed, and the closed-end fund runs about ten years, so your sponsor's behavior is shaped by where the fund sits in its life.
+- Your sponsor answers to LPs and reports valuations to them, and lenders lend to your company, not the fund, so understanding the fund helps you read board, lender, and capital-allocation decisions.
