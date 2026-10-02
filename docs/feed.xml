@@ -14,6 +14,25 @@
     <itunes:type>serial</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>2. Fund economics: management fees, hurdle rates, carry, and the waterfall</title>
+      <description>Module 1: How private equity works.
+
+Key takeaways:
+- The management fee, often about two percent, pays the GP firm to operate and is usually charged on committed capital early on; the real upside is carry, typically twenty percent of profit, paid only after LPs clear a hurdle, often eight percent compounded.
+- In a waterfall, cash flows in order: return of capital, preferred return, GP catch-up, then an eighty-twenty split; whole-fund and deal-by-deal versions change when the GP gets paid and how much risk it has an incentive to take.
+- For an operating executive, carry is earned at exit, so timing, EBITDA quality, and clean numbers matter. Sponsor fees paid by your company are watched and capped by lenders, and the sponsor reads your results against the whole fund.
+
+Transcript: https://rfortmeyer.github.io/sponsors-playbook/transcripts/lesson-02.txt</description>
+      <enclosure url="https://rfortmeyer.github.io/sponsors-playbook/episodes/lesson-02.mp3" length="5680945" type="audio/mpeg"/>
+      <guid isPermaLink="false">sponsors-playbook-2-20261002153310</guid>
+      <pubDate>Fri, 02 Oct 2026 15:33:10 +0000</pubDate>
+      <itunes:duration>0:11:50</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1. GPs, LPs, and the anatomy of a PE fund</title>
       <description>Module 1: How private equity works.
 

@@ -1,0 +1,83 @@
+The Sponsor's Playbook
+Lesson 2: Fund economics: management fees, hurdle rates, carry, and the waterfall
+
+Welcome to The Sponsor's Playbook. This is lesson 2: Fund economics: management fees, hurdle rates, carry, and the waterfall.
+
+Picture a board meeting. Your freight brokerage had a decent year. Margins held, volume was up, and the new branch is finally covering its payroll. You present the numbers and expect some satisfaction. Instead, the partner from your sponsor asks one question: "What does this do to our exit timeline?"
+
+That question can sound out of touch. It isn't. It comes straight from how the sponsor gets paid. Today we're going to open the sponsor's pay stub.
+
+Last lesson, we covered the structure. LPs, the limited partners, supply the capital. The GP, the general partner, makes the decisions. Capital is committed up front, called as needed, and the fund runs about ten years. Today we cover the money flows inside that structure. Who pays whom, how much, and in what order. That order is called the waterfall.
+
+There are four pieces. The management fee, the hurdle rate, carried interest, and the waterfall that ties them together. We'll define each plainly, run one example, and then talk about what it means for you.
+
+Start with the management fee. The GP has a team, offices, analysts, lawyers, and travel. Someone has to pay for all that while the fund waits years for a payoff. So the LPs pay the GP firm an annual fee. The classic number is two percent a year. During the investment period, usually the first five or so years, that fee is typically charged on committed capital. Not on money actually invested. On the total promise.
+
+That connects back to lesson 1. Remember, LPs commit a pot of money but it's called over time. The fee runs on the whole commitment, even for dollars not yet put to work. After the investment period ends, the fee usually steps down, either to a lower rate or to a base of invested capital, meaning what's still sitting in the portfolio.
+
+Two percent is the textbook figure, not a universal one. Very large funds often charge less, sometimes closer to one and a half percent or lower on big commitments. Smaller funds can charge more. And LPs who commit early or commit big often negotiate discounts.
+
+The important thing about the fee is what it is not. It's not the main prize. It pays the bills and gives the firm a stable living. The real wealth comes from the next piece.
+
+That piece is carried interest, or carry. Carry is the GP's share of the fund's profits. The standard is twenty percent. Again, it varies. Some top-performing firms charge twenty-five or even thirty percent. Some funds, particularly in certain strategies, charge less. But twenty is the anchor.
+
+Now, the GP doesn't get carry on every dollar of profit from the first dollar. First the LPs get a minimum return, and that's the hurdle rate, also called the preferred return, or pref. The typical pref is eight percent a year, compounded. The idea is simple. LPs could have put their money in safer places. The GP only earns carry if it beats a reasonable baseline.
+
+Then comes a feature people find confusing, the catch-up. Once LPs have received their capital back plus the pref, the GP often gets a large share of the next dollars, sometimes all of them, until the GP has caught up to twenty percent of total profit. After that, profits split eighty-twenty. With a full catch-up, the hurdle works like a gate, not a discount. Clear the gate, and the GP ends up with twenty percent of all profit. Miss the gate, and the GP gets nothing. Some deals use a partial catch-up, which leaves the GP a bit under twenty percent of total profit. It's negotiated.
+
+One more definition. The waterfall is the written order in which cash is distributed when the fund sells companies. Think of water flowing down a series of pools. Each pool has to fill before the next one gets any. There are two common styles. A whole-fund waterfall, sometimes called European, says LPs get back all contributed capital and the pref on the entire fund before the GP sees any carry. A deal-by-deal waterfall, often called American, lets the GP take carry on each winning sale as it happens, usually with protections. Whole-fund is more LP-friendly. Deal-by-deal is more GP-friendly and more common in some parts of the market, especially with smaller or older-style funds.
+
+That protection I mentioned is the clawback. If the GP took carry early on a few winners, and later deals lose money, the GP may have to give some carry back so the LPs end up where the waterfall says they should. Clawbacks are only as good as the GP's ability and willingness to repay, which is why LPs care about the details.
+
+Last small piece. Most GPs also invest their own money in the fund, commonly one to three percent of commitments. That's the GP commitment. It's meant to keep them exposed to the downside too.
+
+Let's walk through an example. I'll keep it simple, and I'll ignore the management fee so the numbers stay clean.
+
+Say a fund has one hundred million dollars from LPs, fully invested. Carry is twenty percent, the pref is eight percent, and there's a full catch-up. The whole-fund waterfall applies.
+
+After some years, the fund sells everything and collects two hundred million dollars in total proceeds. A doubling. Here's the flow.
+
+Step one. Return of capital. The first one hundred million goes to the LPs. That's their money back.
+
+Step two. The preferred return. Say the eight percent compounding over the holding period works out to about forty-five million dollars. That also goes entirely to the LPs. So far, LPs have received one hundred forty-five million. The GP has received nothing.
+
+Step three. The catch-up. Now the GP gets every dollar until its carry equals twenty percent of the profits distributed so far. LPs have received forty-five million in profit. For the GP to hold twenty percent of the combined profit, it needs eleven and a quarter million dollars. Check it: forty-five plus eleven and a quarter is fifty-six and a quarter. Twenty percent of that is eleven and a quarter. So the GP gets eleven and a quarter million.
+
+Step four. The remaining split. We've distributed one hundred fifty-six and a quarter million so far, out of two hundred. That leaves forty-three and three-quarter million. That splits eighty-twenty. LPs get thirty-five million. The GP gets eight and three-quarter million.
+
+Now add up the GP's carry. Eleven and a quarter plus eight and three-quarters is twenty million dollars. Exactly twenty percent of the one hundred million dollar profit. LPs end up with one hundred eighty million. That's the full-catch-up logic at work.
+
+Now change the story. Suppose the fund only returns one hundred forty million. Profit is forty million. That's below the forty-five million pref. Every dollar goes to LPs. The GP's carry is zero. A forty percent total gain, and the GP earns nothing from carry. The hurdle is a real cliff.
+
+Notice what that does to behavior. Just below the hurdle, the GP has almost no personal upside from a marginal improvement, until it gets past the gate. Above the gate, the catch-up makes every extra dollar enormously valuable to them. The GP's payoff looks like an option. That shapes how sponsors think about risk, timing, and which portfolio companies deserve their attention.
+
+So what does this mean for you, running legal, compliance, recruiting, a new branch unit, data, and marketing at a freight brokerage?
+
+First, understand what your sponsor is optimizing. Carry is paid when companies are sold. Not when they have a good quarter, and not when they build long-term value that's hard to measure. Value at exit is typically a multiple of earnings, so the sponsor will focus on EBITDA growth, durable margins, and clean, defensible numbers. And they'll think in two measures, IRR, the annualized return, and multiple of money, how many times they got their capital back. Time matters to IRR. A given gain delivered a year earlier is worth more. That's why timing questions come up in every board meeting.
+
+Second, your new branch business unit. Startup losses drag on current EBITDA. A sponsor may tolerate that, even like it, if you can show a credible path to payback and the buyer at exit will give credit for it. They'll be skeptical if the story is vague. So bring a clear view: what each branch costs to launch, how many months to break even, and what the mature branch looks like. In freight, the cycle matters too. Brokerages live on the spread between what shippers pay and what carriers cost, and that spread swings with market conditions. The sponsor will ask how much of your growth is cycle and how much is structural.
+
+Third, the fees your company itself might pay. Many sponsors charge portfolio companies a monitoring or advisory fee, and sometimes a transaction fee at closing, an acquisition, or an exit. Practice varies, and the trend in many funds is for those fees to be offset, partly or entirely, against the management fee that LPs pay. So some of that money is effectively rebated to LPs. As General Counsel, you'll likely be the person reading the management services agreement. Look at how the fee is calculated, whether it accelerates on a sale, and how it's treated if you ever fall behind on lender covenants.
+
+Which brings us to lenders. They lend to your company, not the fund, as we said in lesson 1. A lender sees sponsor fees as cash leaving the business. So credit agreements typically cap them, often as a fixed dollar amount or a percentage of EBITDA, and they often block payment if there's a default or a covenant problem. Lenders also watch dividends and distributions for the same reason. When you plan capital allocation, assume the credit agreement is the real boundary, not the sponsor's preference.
+
+And the board. Directors from the sponsor are looking at your company as one position in a portfolio that has its own waterfall. If other deals in the fund are struggling, your company's performance matters more, because the fund needs to clear the hurdle overall. If the fund is already well above the hurdle, the sponsor may behave differently. You usually can't see that math. But knowing it exists helps you read the room.
+
+Now, common mistakes.
+
+Mistake one. Treating two and twenty as a law of nature. It's a reference point. Fee levels, hurdle rates, catch-ups, and waterfall style differ by fund size, strategy, vintage, and how much leverage LPs had at the time. When someone quotes the numbers as universal, be a little skeptical.
+
+Mistake two. Confusing the fund's hurdle with what the sponsor expects from your company. Eight percent is the LPs' minimum at the fund level. Sponsors typically underwrite individual deals to much higher returns, because some deals will fail and the fund needs the winners to carry the rest. If you assume eight percent is the bar, you'll underestimate the pressure.
+
+Mistake three. Assuming your company's results stand alone. Under a whole-fund waterfall, one great company can be diluted by a weak one elsewhere. The sponsor's patience, appetite for risk, and desire to sell may reflect the whole portfolio. When behavior seems puzzling, consider that the explanation might sit in another company you'll never see.
+
+Let's recap. The management fee, typically around two percent, pays the GP firm to operate, and it's usually based on committed capital early on. The hurdle, often eight percent compounded, is the minimum LPs get before the GP earns carry. Carry, commonly twenty percent of profit, is where the GP's real upside lives, and a catch-up can bring the GP to twenty percent of total profit once the hurdle is cleared. The waterfall is the order of payment, and whether it runs whole-fund or deal-by-deal changes the GP's incentives. And for you, that means exits drive the sponsor's wealth, timing matters, fees paid by your company are watched closely by lenders, and your results are one input into a bigger fund-level calculation.
+
+Here's your question for today. Do you know, in dollars, what your company pays its sponsor each year, and what your credit agreement says about how those payments are limited? If you don't, find out. Then ask yourself how the sponsor's economics shape the next big decision on your desk.
+
+Next time, in lesson 3, we look at the fund lifecycle and why the clock drives every decision.
+
+Key takeaways:
+- The management fee, often about two percent, pays the GP firm to operate and is usually charged on committed capital early on; the real upside is carry, typically twenty percent of profit, paid only after LPs clear a hurdle, often eight percent compounded.
+- In a waterfall, cash flows in order: return of capital, preferred return, GP catch-up, then an eighty-twenty split; whole-fund and deal-by-deal versions change when the GP gets paid and how much risk it has an incentive to take.
+- For an operating executive, carry is earned at exit, so timing, EBITDA quality, and clean numbers matter. Sponsor fees paid by your company are watched and capped by lenders, and the sponsor reads your results against the whole fund.

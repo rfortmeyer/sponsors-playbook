@@ -15,6 +15,22 @@
         "Your sponsor answers to LPs and reports valuations to them, and lenders lend to your company, not the fund, so understanding the fund helps you read board, lender, and capital-allocation decisions."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 1,
+      "title": "Fund economics: management fees, hurdle rates, carry, and the waterfall",
+      "file": "lesson-02.mp3",
+      "bytes": 5680945,
+      "duration": "0:11:50",
+      "pub_date": "Fri, 02 Oct 2026 15:33:10 +0000",
+      "generated": "20261002153310",
+      "words": 2099,
+      "takeaways": [
+        "The management fee, often about two percent, pays the GP firm to operate and is usually charged on committed capital early on; the real upside is carry, typically twenty percent of profit, paid only after LPs clear a hurdle, often eight percent compounded.",
+        "In a waterfall, cash flows in order: return of capital, preferred return, GP catch-up, then an eighty-twenty split; whole-fund and deal-by-deal versions change when the GP gets paid and how much risk it has an incentive to take.",
+        "For an operating executive, carry is earned at exit, so timing, EBITDA quality, and clean numbers matter. Sponsor fees paid by your company are watched and capped by lenders, and the sponsor reads your results against the whole fund."
+      ],
+      "tts": "openai:default"
     }
   ]
 }
