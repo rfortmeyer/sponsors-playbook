@@ -1,0 +1,87 @@
+The Sponsor's Playbook
+Lesson 3: The fund lifecycle and why the clock drives every decision
+
+Welcome to The Sponsor's Playbook. This is lesson 3: The fund lifecycle and why the clock drives every decision.
+
+Picture two companies. Both are freight brokerages, about the same size, with similar margins and similar leadership. Each COO walks into a board meeting and proposes the same thing: open three new branches over the next two years. It costs real money up front, and the branches won't turn profitable for about eighteen to twenty-four months.
+
+At the first company, the board leans in. They ask about hiring plans, carrier capacity, and which markets to hit first. At the second company, the board gets quiet. Someone asks, "What does this do to trailing twelve-month EBITDA?" Someone else asks, "Could we phase it later?"
+
+Same proposal, same quality of idea, two different reactions. The difference usually isn't the people in the room. It's the calendar. The first sponsor is early in its fund's life. The second is much later. Today is about that calendar.
+
+In Lesson 1, we said a private equity fund is a closed-end limited partnership that runs about ten years. In Lesson 2, we covered how the GP gets paid: management fees, then carry at exit. Now we put those two together and ask what a fund's life looks like from the inside, and why it shapes almost every decision your sponsor makes.
+
+A typical buyout fund moves through four phases. They overlap a little, and the exact numbers vary by fund.
+
+Phase one is fundraising. The GP goes to LPs, pensions, endowments, insurers, and sovereign funds, and collects commitments. This can take a year or more. When the fund closes, the clock starts.
+
+Phase two is the investment period. It usually runs about five years, sometimes three to six. During this window the GP can make new platform acquisitions, meaning new companies. Capital is called from LPs as deals happen, which is the capital-call mechanism from Lesson 1. This is also when your company probably got bought, if you joined recently.
+
+Phase three is the harvest period, roughly years five through ten. The GP mostly stops buying new platforms. It can still put money into existing companies, for add-on acquisitions or follow-on funding, but the main job becomes growing those companies and selling them. Selling is called realizing an investment, or an exit. The exit might be a sale to a strategic buyer, a sale to another sponsor, or an IPO.
+
+Phase four is wind-down. The fund's stated term is often ten years, and many agreements allow one or two extensions of a year each, typically with approval from an LP advisory committee or the LPs themselves. Extensions are common, but they are not free. LPs don't love them, and the GP is usually still collecting fees at a lower rate and feeling the pressure.
+
+That brings up fees. Recall from Lesson 2 that the management fee is often charged on committed capital during the investment period. After that, it commonly steps down and is calculated on invested capital, meaning what's still sitting in portfolio companies. As companies get sold, the fee base shrinks. So the GP's steady income declines as the fund ages, and carry becomes the main prize. That is one reason a late-stage fund focuses so hard on exits.
+
+Now two terms you'll hear in board rooms. The first is vintage year, which is simply the year a fund started investing. Funds are compared with other funds of the same vintage, because market conditions at the time of purchase affect returns so much. The second is the J-curve. Early in a fund's life, returns look poor on paper. Fees are being paid, and investments are held at cost and haven't had time to grow. Over time, if things go well, value shows up and the line swoops upward. The shape looks like a J.
+
+Here's the part that explains your board's behavior. LPs don't only care about paper value. They care about cash coming back. You'll hear the term DPI, distributions to paid-in capital. It asks: for every dollar we sent you, how many dollars have you actually returned? There is also TVPI, total value to paid-in capital, which counts both cash returned and the current estimated value of what's left. TVPI includes the sponsor's own valuations. DPI is cash in hand.
+
+Why does that matter? Because the GP will want to raise its next fund. Sponsors typically go back to market every three to five years, often once the current fund is largely invested. When they pitch LPs, the track record of the prior fund is the main exhibit. A prior fund that has returned real cash, with strong DPI, is a much easier story to tell than one with a lot of unrealized value. So the GP's need for realizations isn't just about carry. It's about staying in business as a franchise.
+
+That is the clock. Early in a fund, the sponsor has time and capital. Late in a fund, it has a stack of companies it needs to turn into cash, and a fundraising calendar that won't wait.
+
+Let me make this concrete with a simple example. It's a stylized one. Real deals have fees, interim dividends, and messier cash flows.
+
+Say your sponsor invests one hundred million dollars of equity in a company. Five years later it sells the company, and that equity is worth two and a half times what went in. So one hundred million becomes two hundred fifty million. A 2.5 times money multiple is a strong result.
+
+Now look at how long it took, because the annualized return, the IRR, depends on time. If they got that 2.5 times in five years, the IRR is about 20 percent a year. That's well above the typical eight percent hurdle from Lesson 2, so everyone's happy.
+
+Same company, same 2.5 times, but it takes seven years. The IRR drops to about 14 percent. The money is identical, two hundred fifty million. The annualized return fell by roughly a third, just because the clock ran longer.
+
+And if the sponsor could have gotten that same 2.5 times in three years, the IRR would be about 36 percent. Same multiple. Three very different outcomes for the GP's track record.
+
+This is why sponsors talk about both: the multiple of money, and the IRR. LPs look at both. Multiple tells you how much wealth was created. IRR tells you how efficiently, given time. A sponsor with a fund that's aging will often prefer a good-enough exit sooner over a great exit later, because waiting costs IRR, and the fund's end date is approaching.
+
+Now bring it back to those two freight brokerages and the three new branches. Say each branch costs about one and a half million dollars in losses before breakeven. That's four and a half million total, hitting EBITDA over roughly two years.
+
+At the early-fund sponsor, imagine they plan to exit in about five years. The branches lose money in years one and two, ramp in year three, and by year four they're contributing real EBITDA. A buyer in year five sees a growing business with proven new markets. The investment pays off inside the hold period.
+
+At the late-fund sponsor, imagine the exit is eighteen months away. Those same branches are still losing money during the period buyers will look at. Buyers pay a multiple of EBITDA, so four and a half million of drag, at a multiple of, say, eight, could cost thirty-six million in enterprise value. A buyer might credit the future branch profits, but they'd want proof, and eighteen months isn't much. The expansion that's smart for the business may hurt the sale. So the sponsor hesitates.
+
+Neither sponsor is wrong. They're running the same math against different calendars.
+
+So what does this mean for you, as a COO and general counsel in a PE-backed company?
+
+First, know where your sponsor's fund is in its life. It's not secret. Ask your sponsor's deal partner directly, or listen for clues: Is the firm raising a new fund? Are they still doing new platforms? Are they talking about "returning capital" or "monetizing" more than "building"? A fund in year two thinks differently than one in year seven.
+
+Second, translate your initiatives into the fund's clock. Don't just present a business case; present a timing case. When does the spend hit EBITDA? When does it pay back? Does the benefit land before the likely exit window? If it doesn't, you can still make the case, but you should know you're asking the sponsor to carry a cost whose benefit may go to the next owner. Sometimes that's fine, because a buyer will pay for a credible growth story. Just make the argument knowingly.
+
+Third, understand what the board and lenders see. The board represents the sponsor, so it will look at your plan through exit readiness: clean financials, quality of earnings, customer concentration, and so on. Lenders look through a different lens. They care about covenants, cash flow, and repayment, not the fund's calendar. Your credit facility may mature in five to seven years, and some structures run shorter or longer depending on the credit market. If the sponsor wants to sell before maturity, the lender is typically repaid at exit. If the sponsor wants to extend the hold, you may need to amend or refinance. Either way, the lender's timeline and the sponsor's timeline have to fit together.
+
+Fourth, and this is where your legal hat matters, exit readiness is largely a legal and compliance project that begins well before a sale. In freight brokerage, think about the basics a buyer will test. Are your carrier contracts and customer agreements clean? Do any of them have change-of-control or assignment clauses that a sale would trigger? Is your operating authority, your surety bond, and your insurance in good order? Are there open claims, misclassification issues, or data-security gaps? Fixing these takes months. If you wait until a banker calls, you'll fix them under pressure, and buyers price in the chaos.
+
+Fifth, your recruiting and retention plan lives on this clock too. Management equity usually pays out at exit, which means key people are being asked to stay through the hold. If the exit is delayed, retention gets harder. If the exit is coming, buyers will want to know who's staying. So align your hiring plan and your retention conversations with the sponsor's likely timeline.
+
+Let me flag a nuance. A late-stage fund isn't automatically in a hurry to dump companies. Sponsors have options. They can extend the fund. They can sell a company into a continuation vehicle, which is a new vehicle, often run by the same GP, that buys the asset from the old fund and lets existing LPs cash out or roll over. They can do a partial sale or a dividend recapitalization. These tools exist because the clock is real and the market doesn't always cooperate. And exits depend on the market too. Freight is cyclical, and credit availability changes. A sponsor can't sell on a schedule if the market isn't open. So treat the fund's clock as a strong pressure, not an exact date.
+
+Now, three common mistakes.
+
+Mistake one is assuming "five years" is a promise. People hear that the typical hold period is four to six years and treat that as a contract. It's a rule of thumb. The real exit date depends on the fund's age, the market, and how the company is performing. A strong company may be sold early, while a company hit by a downturn may be held longer. Plan for a range, not a date.
+
+Mistake two is pitching long-payback ideas without acknowledging the clock. Executives often argue that something is "right for the business," and it might be. But your sponsor is asking, "Right for the business, and does it pay back before we sell?" If you haven't answered the second question, the board will answer it for you, often with a no.
+
+Mistake three is taking the sponsor's urgency personally, or misreading it. When a late-fund sponsor suddenly cares about cash, cost cuts, or deferring investments, it may have nothing to do with your performance. The pressure may come from the fund. Likewise, an early-fund sponsor's enthusiasm for growth spending may not survive into year six. Read the context before you read the message.
+
+Let's recap.
+
+A PE fund has a life: fundraising, an investment period of about five years, a harvest period, and a wind-down around year ten, with possible extensions. Fees step down as the fund ages, so carry matters more and more. LPs judge the GP by cash returned, DPI, as well as paper value, and the GP's next fundraise depends on that record. Time affects returns: the same 2.5 times money gives a 20 percent IRR in five years and about 14 percent in seven. That's why the clock affects decisions about growth spending, hold periods, and exits. For you, the job is to know where the fund sits, present initiatives with a timing case, and prepare your legal, compliance, and people foundations for an exit well before one is called.
+
+Here's your question for today. Do you know which year of its fund your sponsor is in right now, and if you looked at your own plan for the next twenty-four months, which initiatives pay off inside that window and which don't?
+
+Next time, in Lesson 4, we'll look at the three return levers, EBITDA growth, multiple expansion, and deleveraging, and how they explain where the value in a deal actually comes from.
+
+Key takeaways:
+- A PE fund runs about ten years: roughly five years of investing, then a harvest period focused on exits, with possible extensions. Fees step down as it ages, so carry and realized cash matter more.
+- Time changes returns: the same 2.5 times money multiple is about a 20 percent IRR over five years but only about 14 percent over seven, and LPs judge the GP by cash returned (DPI) when it raises the next fund.
+- Know where your sponsor's fund is in its life, present initiatives with a timing case that shows payback before the likely exit window, and start legal, compliance, and retention readiness well before a sale.
