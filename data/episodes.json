@@ -47,6 +47,22 @@
         "Know where your sponsor's fund is in its life, present initiatives with a timing case that shows payback before the likely exit window, and start legal, compliance, and retention readiness well before a sale."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 3,
+      "title": "The three return levers: EBITDA growth, multiple expansion, and deleveraging",
+      "file": "lesson-04.mp3",
+      "bytes": 4411812,
+      "duration": "0:09:11",
+      "pub_date": "Tue, 06 Oct 2026 15:53:26 +0000",
+      "generated": "20261006155326",
+      "words": 2076,
+      "takeaways": [
+        "Sponsor returns come from three levers: EBITDA growth, multiple expansion, and debt paydown. EBITDA growth is the most controllable, deleveraging depends on cash conversion, and multiple expansion is the least controllable, so disciplined sponsors treat it as a bonus rather than a plan.",
+        "In the example, ten million dollars of added EBITDA at a ten times multiple created one hundred million dollars of value, thirty million of debt repayment added thirty million more, and a one-turn swing in the exit multiple moved the result by thirty million either way.",
+        "Executives should show that EBITDA is high quality and backed by cash, including working capital in a brokerage, and tie each initiative to a timing case, because buyers discount low-quality earnings and lenders are repaid with cash, not EBITDA."
+      ],
+      "tts": "openai:default"
     }
   ]
 }

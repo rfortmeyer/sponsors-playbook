@@ -1,0 +1,83 @@
+The Sponsor's Playbook
+Lesson 4: The three return levers: EBITDA growth, multiple expansion, and deleveraging
+
+Welcome to The Sponsor's Playbook. This is lesson 4: The three return levers: EBITDA growth, multiple expansion, and deleveraging.
+
+Picture a board meeting. Your sponsor's deal partner puts one slide on the screen. It's a simple chart with three colored bars stacked on top of each other, and it shows how the firm expects to turn the money it put into your company into something much bigger in five years.
+
+One bar says earnings growth. One says multiple. One says debt paydown.
+
+You may have seen a slide like this and thought of it as finance's business. It isn't. Almost every request you make this year, whether it's a new hire, a compliance project, a software build, or a new branch, will be judged by which of those bars it feeds. So today we're going to learn to read that slide.
+
+Let's start with the basic idea. When a private equity firm buys a company, it pays an enterprise value. That's the price for the whole business, debt and equity together. Most of the time the firm funds part of that price with borrowed money and part with equity, meaning its own fund's capital, as we discussed in lesson 1.
+
+When the firm sells, the same arithmetic runs in reverse. It takes the sale price of the whole business, subtracts whatever debt is still outstanding, and what's left belongs to the equity holders. The sponsor's profit is the difference between the equity it put in and the equity it gets out.
+
+Now ask what can make that difference larger. Only three things can.
+
+First, EBITDA can grow. EBITDA is earnings before interest, taxes, depreciation, and amortization. It's the standard shorthand for operating earnings power. If the business earns more, it's worth more, even at the same price per dollar of earnings.
+
+Second, the multiple can expand. The multiple is the enterprise value divided by EBITDA. If a company was bought at ten times EBITDA and sold at eleven times, the buyer paid more for each dollar of earnings. Multiples reflect what the market thinks of a business's growth, stability, risk, and quality, and also how hot the market is that year.
+
+Third, the company can pay down debt. If the business generates cash and uses it to repay borrowings, the debt shrinks. If the sale price stays the same, the equity slice gets bigger by exactly the amount of debt repaid. That's deleveraging.
+
+That's the whole framework. Value creation is earnings growth, multiple change, and debt reduction. The sponsor's job is to decide which of these it can count on.
+
+Let's make it real with a worked example. I'll keep the numbers round so you can follow them in the car.
+
+Say a sponsor buys a freight brokerage. It has twenty million dollars of EBITDA. The sponsor pays ten times EBITDA, so the enterprise value is two hundred million dollars. Ten times is purely for illustration. Real multiples for brokerages vary with size, margin profile, customer mix, and where the freight market is in its cycle.
+
+The sponsor funds the deal with one hundred million dollars of debt, which is five times EBITDA, and one hundred million dollars of equity. How much debt lenders will provide varies a lot with the credit cycle. I'm ignoring fees to keep things clean.
+
+Five years later, the sponsor sells. Here's the base case. EBITDA has grown from twenty million to thirty million. That's fifty percent growth, which is a bit over eight percent a year. The multiple is the same, ten times. And the company has used its cash flow to pay the debt down from one hundred million to seventy million.
+
+Now run the sale. Thirty million of EBITDA at ten times is a three hundred million dollar enterprise value. Subtract seventy million of remaining debt. The equity is worth two hundred thirty million. The sponsor put in one hundred million. So it made a profit of one hundred thirty million, and the money multiple is two point three times.
+
+Now split that one hundred thirty million among the levers. EBITDA growth was ten million dollars of added earnings. At the entry multiple of ten, that's one hundred million dollars of value. Multiple expansion was zero, because the multiple didn't change. Deleveraging was thirty million, the debt we repaid. One hundred plus zero plus thirty is one hundred thirty. It adds up.
+
+A quick note. Firms attribute returns in slightly different ways, especially when earnings and the multiple both change at once. But the logic is always the same.
+
+Now change one thing. Suppose the market is cooler at exit, and the buyer will only pay nine times. Same thirty million of EBITDA, same seventy million of debt. The enterprise value is two hundred seventy million. The equity is two hundred million. The money multiple falls from two point three to two point zero. The business performed exactly as planned, and the sponsor still gave up thirty million dollars to the multiple.
+
+Now flip it. Suppose the buyer pays eleven times. The enterprise value is three hundred thirty million, the equity is two hundred sixty million, and the money multiple is two point six. Same operations, a very different outcome.
+
+That's why sophisticated sponsors don't treat these three levers as equals. EBITDA growth is the one management can influence the most. Deleveraging is largely mechanical, and it depends on cash conversion. Multiple expansion is the lever you control least, because it depends on the buyer universe, interest rates, and the mood of the market. Many sponsors underwrite deals assuming the exit multiple equals the entry multiple, or even a bit lower, so that any expansion is a bonus rather than a requirement. Practice varies, and in a hot market some firms get more optimistic. But the disciplined ones don't pay for a plan that needs the multiple to cooperate.
+
+Remember lesson 3 as well. A two point three times return over five years is about an eighteen percent IRR. If the sale slips to seven years with the same two point three, it drops to roughly thirteen percent. So there's a hidden fourth variable behind the three levers, and it's time. The levers tell you how much value you make. The clock tells you how well that value is rewarded.
+
+Let's turn to what this means for you, in your seat.
+
+You oversee legal, compliance, recruiting, a new branch business, data and development, and marketing. Each of those touches the levers differently. Let me walk through them.
+
+On EBITDA growth, the sponsor will ask whether growth is real and repeatable. In brokerage, that means gross margin per load, volume, and the productivity of your sales reps and branches. Your recruiting and retention work matters directly here. So does your new branch unit. A startup branch usually costs EBITDA before it adds EBITDA. That's fine if you present it with a timing case: when does it break even, and when does it contribute meaningfully, relative to the likely exit window? A branch that turns positive in year six of a five-year hold looks very different from one that's contributing by year three.
+
+You'll also hear about the quality of EBITDA. A buyer, or a lender, will often commission a quality-of-earnings review. That's an outside accounting analysis of whether reported earnings are clean and sustainable. Adjusted EBITDA usually includes add-backs for one-time costs, and every add-back gets challenged. Legal settlements, claims costs, and recurring cleanup expenses are favorite targets. If you keep calling the same cost one-time, buyers will stop believing you. Clean books are worth real money, because they protect the earnings number the whole valuation sits on.
+
+On the multiple, think about what makes a buyer pay more for the same dollar of earnings. In freight brokerage, that often means diversified customers rather than a few big shippers, stable gross margins, good technology and data, a deep carrier network, and a low-drama risk profile. Your function shapes much of that. Carrier vetting and contract practices affect your exposure to claims. Compliance records, insurance, and clean litigation history affect how diligence goes. Your data and development work affects whether a buyer sees a platform or just a collection of reps with phones. Marketing and customer concentration matter too. None of this guarantees a higher multiple, but it can keep you from losing one.
+
+Retention matters here as well. In a business where relationships can walk out the door, buyers worry about whether customer relationships belong to the company or to individual reps. Employment agreements, restrictive covenants, and enforceability vary by state, so that's squarely in your territory and worth planning early.
+
+On deleveraging, this is where lenders enter. As we discussed in lesson 1, lenders lend to your company, not the fund. They care about whether you can cover interest and repay principal, so they watch cash flow and covenants. Cash flow isn't the same as EBITDA. Interest, taxes, capital spending, and working capital come out before any debt gets repaid.
+
+Working capital is especially important in brokerage. You typically pay carriers quickly, often within days, while shippers pay you in thirty, sixty, or more days. When volume grows, receivables grow, and that consumes cash. So fast growth can look wonderful in EBITDA and still slow debt paydown. Your sponsor knows this, which is why you'll hear questions about days sales outstanding and cash conversion. It's also why a line item that looks small on the income statement can matter on the cash slide.
+
+One more point on cash. Sponsors don't always use free cash to pay down debt. Sometimes they fund acquisitions, or they refinance and take a dividend out. Those moves change the leverage picture and the timing of returns. So when you hear the term deleveraging in a board meeting, ask what the plan for the cash actually is.
+
+Let me cover three common mistakes.
+
+The first is treating multiple expansion as a strategy. It isn't. You can position the company to deserve a better multiple, but you can't schedule one. If a plan only works when the exit multiple goes up, that's a bet on the market, not a plan. As an executive, be cautious about justifying an initiative with a line that says the story will earn us a higher multiple, unless you can name the specific buyer behavior behind it.
+
+The second mistake is chasing EBITDA in ways that damage its quality. You can juice earnings by taking on low-quality freight, by relying on one or two big customers, by cutting compliance or insurance spending, or by leaning on aggressive add-backs. The number goes up, but buyers and lenders discount it, and the discount shows up in the multiple. It's the same dollar of EBITDA, but worth less. In your world, a corner cut in vetting or contracting can come back as a claim that dwarfs the savings.
+
+The third mistake is ignoring cash. Teams talk about growth and margin and forget that the debt doesn't get repaid with EBITDA. It gets repaid with cash. If your growth plan eats working capital, or your projects overrun, the deleveraging bar on that slide shrinks, and so does your credibility. The reverse mistake is also real: starving the business of investment to hit a paydown number, and then having nothing growing when the sale process starts.
+
+So let's recap. A sponsor makes money from three levers: growing EBITDA, changing the multiple, and paying down debt. In our example, a ten million dollar rise in EBITDA at a ten times multiple produced one hundred million dollars of value, and thirty million of debt repayment added thirty more. A one-turn change in the exit multiple, either way, moved the outcome by thirty million. EBITDA growth is the lever you influence most, deleveraging depends on cash conversion, and the multiple is the one you control least. Disciplined sponsors lean on the first two and treat the third as a bonus. And everything runs against the clock we discussed in lesson 3.
+
+Here's your question for today. Think about the sponsor's slide for your company. Which of the three bars is carrying the most weight in their model? And in your area, whether that's recruiting, the new branch, compliance, data, or marketing, what is one thing you could point to that makes that bar more believable?
+
+In the next lesson, we'll put the clock and the multiple together and look at IRR versus MOIC, and why sponsors watch both.
+
+Key takeaways:
+- Sponsor returns come from three levers: EBITDA growth, multiple expansion, and debt paydown. EBITDA growth is the most controllable, deleveraging depends on cash conversion, and multiple expansion is the least controllable, so disciplined sponsors treat it as a bonus rather than a plan.
+- In the example, ten million dollars of added EBITDA at a ten times multiple created one hundred million dollars of value, thirty million of debt repayment added thirty million more, and a one-turn swing in the exit multiple moved the result by thirty million either way.
+- Executives should show that EBITDA is high quality and backed by cash, including working capital in a brokerage, and tie each initiative to a timing case, because buyers discount low-quality earnings and lenders are repaid with cash, not EBITDA.
