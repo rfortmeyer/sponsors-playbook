@@ -1,0 +1,83 @@
+The Sponsor's Playbook
+Lesson 5: IRR versus MOIC, and why sponsors watch both
+
+Welcome to The Sponsor's Playbook. This is lesson 5: IRR versus MOIC, and why sponsors watch both.
+
+Picture a board meeting. Your sponsor has two offers for the company. One is a buyer who will pay a strong price this year. The other is a bigger number, but only if you wait three more years. The operating partner turns to you and asks, "What does your plan say about year four?"
+
+You might think the answer is obvious. Take the bigger number. But the sponsor is doing two calculations at once. One asks how many dollars come back for every dollar invested. The other asks how fast they come back. Those two questions can point in opposite directions, and today we're going to see why.
+
+The first measure is MOIC, which stands for multiple on invested capital. You'll also hear "money multiple," "multiple of money," or just "the multiple." It's simple. Take the total value you get back and divide it by the total you put in. If a sponsor invests fifty million dollars of equity and eventually gets back one hundred and fifty million, that's a three times MOIC. It answers one question: how many dollars did we make per dollar invested?
+
+MOIC is easy to calculate and easy to explain. Its weakness is that it ignores time. A two times multiple in three years and a two times multiple in twelve years are the same number. They are not the same outcome.
+
+The second measure is IRR, or internal rate of return. It is the annualized rate of return that accounts for when each dollar went out and when each dollar came back. More precisely, it's the discount rate that makes the present value of all the cash flows equal zero. You don't need to run that formula in your head. Think of it as the annual compounding rate, like the interest rate on a savings account that would produce the same result as the investment.
+
+IRR rewards speed. Money returned earlier counts for more than money returned later, because it could be reinvested. IRR is the number that makes time visible.
+
+In lesson 3, we used a quick example. The same two point five times money multiple is about a twenty percent IRR if it takes five years, and only about fourteen percent if it takes seven years. That is the core relationship. MOIC is the size of the win. IRR is the size of the win adjusted for how long it took.
+
+Now, why do sponsors watch both? Because each one hides something the other reveals.
+
+MOIC alone can mislead you toward patience. If you only cared about multiples, you'd always hold a little longer, because there's usually another year of growth to capture. But the fund has a clock, as we covered in lesson 3. LPs commit capital for a limited life, and they judge the GP partly on how quickly cash comes back.
+
+IRR alone can mislead you toward quick flips. You can post a very high IRR by selling fast at a modest gain. A thirty-five percent IRR on a nine-month hold sounds wonderful, but it may produce only a one point three times multiple. You can't pay a pension fund's retirees with a percentage. You pay them with dollars. And a fund can't easily redeploy a small gain at the same rate, so a fast, small win doesn't scale.
+
+So the sponsor wants both. A strong IRR shows efficiency. A strong MOIC shows that the investment moved the needle in absolute terms. Targets vary by fund strategy, deal size, and the credit and pricing environment. Many buyout funds talk about gross IRRs in the twenties and gross multiples of roughly two to three times. Those are guideposts, not rules. Lower-risk or larger deals may accept less, and smaller or riskier ones may demand more.
+
+That word "gross" matters. Gross returns are measured at the deal level, before fund fees, expenses, and carry. Net returns are what LPs actually receive after those costs, which we covered in lesson 2. A deal with a twenty-five percent gross IRR will deliver a noticeably lower net number to LPs. When someone quotes you a return, ask whether it's gross or net, and whether it's for one deal or the whole fund.
+
+Now let's work an example with a freight brokerage. Keep it simple and stay with me.
+
+Say the sponsor invests fifty million dollars of equity to buy the company. For simplicity, assume no interim cash comes out, so all the money returns at exit.
+
+Scenario one is a fast exit. After three years, the company is sold and the sponsor's equity is worth one hundred million dollars. The MOIC is one hundred divided by fifty, which is two times. The IRR is the rate that turns fifty into one hundred in three years. Doubling in three years works out to about twenty-six percent a year.
+
+Scenario two is a longer hold. The company keeps growing, and after six years, the sponsor's equity is worth one hundred and fifty million. The MOIC is one hundred and fifty divided by fifty, which is three times. The IRR is the rate that triples money in six years. That's about twenty percent a year.
+
+So, which is better? The honest answer is that it depends. Scenario one has the higher IRR, twenty-six percent versus twenty. Scenario two has the higher multiple, three times versus two times. In scenario two, the sponsor makes one hundred million dollars of profit, versus fifty in scenario one.
+
+Here's the key question: what could the sponsor do with the money from scenario one? If the sponsor takes that one hundred million at year three and reinvests it elsewhere at a good rate, scenario one may be the better path. If good reinvestment options are scarce, or the fund is nearly out of time to invest, waiting for the larger absolute gain may make more sense. And if the fund is deep in its harvest period, the clock may decide for them.
+
+Now one more twist, which matters to you. Suppose that in scenario two, the company does a dividend recapitalization in year two. That means it borrows more and pays a dividend to the sponsor. Say twenty-five million dollars comes back at year two, and one hundred million more at year five when the company sells. The total cash returned is one hundred and twenty-five million. The MOIC is two point five times, exactly what you'd get with a single exit of one hundred and twenty-five million. But the IRR comes out around twenty-four percent, versus about twenty percent for the single exit. Same multiple, higher IRR, simply because some cash came back earlier.
+
+That is why sponsors like early distributions. It's also why they ask about dividend recaps, and why lenders have a say. A recap raises the company's debt, so it only works if the lenders allow it and the business can carry the leverage. As an executive, you won't set the recap, but you may have to prove the business can support it.
+
+Let's bring this into your seat as COO and General Counsel.
+
+First, understand that every major proposal you bring to the board will be read through both lenses, even if nobody says "IRR" out loud. When you propose spending money, the sponsor hears two questions. How much value does this create, and how soon?
+
+Take your new branch startup unit. A new branch usually costs money before it makes money. Hiring brokers, building a book of customers, and absorbing losses in the early months all pull cash down first. The sponsor doesn't object to that. But they want to know when the branch turns cash-positive, what the payback period looks like, and whether it will be visible in the numbers before the likely exit window. A branch that adds big EBITDA in year six is worth much less to a sponsor planning to sell in year four. A branch that is showing real gross profit and a clear path to breakeven by year three is a far easier conversation. That's the timing case from lesson 3, and now you know the math behind it.
+
+The same logic applies to your technology and data investments, and to marketing. If a data project saves money or improves margin, show when the savings appear. Early, measurable, cash-backed benefits move IRR. Slow, speculative ones move neither number soon enough.
+
+Second, think about how each group in your orbit sees this. The sponsor and the board care about both returns, and they pay close attention to timing. They'll ask whether you can accelerate a good outcome or whether a delay is worth it. Lenders are different. They typically don't care about the sponsor's IRR or MOIC at all. They care about leverage ratios, interest coverage, and cash flow. If a plan boosts the sponsor's IRR by pulling cash out through a recap or a big dividend, the lenders will look at what it does to leverage and covenants. Often they have to consent, and the credit agreement may limit what can be paid out. So your job is to make sure the story holds for both audiences: attractive to the sponsor on return, and safe to the lenders on cash.
+
+Third, and this one is for the general counsel in you, read your management equity documents carefully. Many management incentive plans have performance vesting tied to the sponsor's return. The trigger might be a MOIC threshold, an IRR threshold, or both, though the structure varies a lot from deal to deal. The definitions matter. Which cash flows count? Are management fees and transaction costs deducted? Does a dividend recap count as a return of capital? What happens if the sale is delayed or happens in stages? A plan that vests at two and a half times but doesn't deal clearly with interim distributions can create a real dispute. If you're a participant in one of these plans, you want to understand exactly how the math will be run before you're the one being measured.
+
+Fourth, think about what the sponsor will do in a long hold. A third or fourth extra year can lower IRR even while MOIC rises. So a sponsor may decide to sell into a good market even if management believes the company has more upside. You can't always change that. But you can plan for it, including keeping contracts, licensing, compliance records, and key-employee arrangements in sale-ready condition. Getting that done early keeps options open, and options are valuable.
+
+Now, common mistakes. I'll give you three.
+
+The first mistake is assuming the sponsor only cares about the biggest possible outcome. Executives sometimes say, "If we wait, we'll make a lot more." Maybe so. But if waiting costs two or three years, the IRR may fall sharply, and the fund may have its own reasons to want cash back. Before pitching patience, show what the extra time buys and how the return looks with the added time included.
+
+The second mistake is the reverse: assuming a high IRR means a great deal. A quick, small gain can have a dazzling IRR and a modest multiple. Sponsors need real dollars of profit, not just attractive percentages. When you hear a rate, ask what the multiple is. When you hear a multiple, ask how long it took.
+
+The third mistake is mixing up company metrics with sponsor returns. Revenue growth, EBITDA growth, and gross profit margin are operating measures. IRR and MOIC are investor measures, driven by the entry price, the debt used, the timing of cash flows, and the exit price, which we looked at in lesson 4. A company can grow nicely and still deliver a disappointing IRR if the sponsor paid too much or the exit takes too long. And a company can have an average operating story and still produce a strong IRR through good structure. Don't take it personally or assume it's a comment on your performance when the sponsor's return doesn't match the operating story. But do understand which parts you can influence: EBITDA quality, cash conversion, and timing.
+
+Let's recap.
+
+MOIC measures how many dollars come back for each dollar invested. It's simple, and it ignores time. IRR is the annualized return, and it captures timing. The same multiple produces a lower IRR the longer it takes, and a higher IRR if cash comes back earlier. Sponsors watch both because one tells them how much they made, and the other tells them how efficiently they made it.
+
+In the example, doubling money in three years gave about a twenty-six percent IRR. Tripling it in six years gave about twenty percent. The bigger win was the slower one. Which is better depends on what the fund can do with the cash and where it sits in its life.
+
+For you, that means bringing a timing case with every significant investment, understanding how lenders will react to any plan that pulls cash out, reading your equity plan's return definitions closely, and keeping the legal and compliance house in order so the company can move when the sponsor wants to.
+
+Here's your question for today. Think about the biggest initiative you currently have underway, perhaps a new branch, a data project, or a hiring push. If the sponsor sold the company a year earlier than planned, how much of that initiative's benefit would show up in the numbers a buyer sees? And if it wouldn't show up, what could you change to bring some of it forward?
+
+In the next lesson, we'll look at EBITDA, adjusted EBITDA, and the add-backs that get challenged.
+
+Key takeaways:
+- MOIC measures how many dollars come back per dollar invested but ignores time, while IRR is the annualized return that rewards getting cash back sooner, so sponsors watch both to judge size and speed.
+- The same multiple produces a lower IRR the longer the hold, and early distributions like dividend recaps raise IRR without changing MOIC, which is why timing and lender consent matter.
+- Executives should show payback timing for each initiative, understand that lenders care about cash and leverage rather than sponsor returns, and read management equity plans closely for how MOIC and IRR hurdles are defined.

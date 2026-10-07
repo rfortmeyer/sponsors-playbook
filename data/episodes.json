@@ -63,6 +63,22 @@
         "Executives should show that EBITDA is high quality and backed by cash, including working capital in a brokerage, and tie each initiative to a timing case, because buyers discount low-quality earnings and lenders are repaid with cash, not EBITDA."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 4,
+      "title": "IRR versus MOIC, and why sponsors watch both",
+      "file": "lesson-05.mp3",
+      "bytes": 6113324,
+      "duration": "0:12:44",
+      "pub_date": "Wed, 07 Oct 2026 16:13:37 +0000",
+      "generated": "20261007161337",
+      "words": 2275,
+      "takeaways": [
+        "MOIC measures how many dollars come back per dollar invested but ignores time, while IRR is the annualized return that rewards getting cash back sooner, so sponsors watch both to judge size and speed.",
+        "The same multiple produces a lower IRR the longer the hold, and early distributions like dividend recaps raise IRR without changing MOIC, which is why timing and lender consent matter.",
+        "Executives should show payback timing for each initiative, understand that lenders care about cash and leverage rather than sponsor returns, and read management equity plans closely for how MOIC and IRR hurdles are defined."
+      ],
+      "tts": "openai:default"
     }
   ]
 }
