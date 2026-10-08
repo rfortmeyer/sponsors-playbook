@@ -79,6 +79,22 @@
         "Executives should show payback timing for each initiative, understand that lenders care about cash and leverage rather than sponsor returns, and read management equity plans closely for how MOIC and IRR hurdles are defined."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 5,
+      "title": "EBITDA, adjusted EBITDA, and the add-backs that get challenged",
+      "file": "lesson-06.mp3",
+      "bytes": 5636641,
+      "duration": "0:11:45",
+      "pub_date": "Thu, 08 Oct 2026 16:15:30 +0000",
+      "generated": "20261008161530",
+      "words": 1952,
+      "takeaways": [
+        "EBITDA is a convention, not a GAAP measure, so adjusted EBITDA is only as good as the add-backs behind it. Buyers, lenders, and the board each test them differently, and buyers do it through a quality of earnings review.",
+        "Add-backs survive when they are truly non-recurring, documented, measurable, and applied consistently. Recurring \"one-time\" items, blended startup branch costs, and unrealized run-rate savings are the ones most often cut.",
+        "A gap between management's number and the diligenced number is multiplied by the exit multiple, so a five million dollar cut at ten times costs fifty million in value. Track one-time items as they happen, keep one reconciled bridge across all versions of EBITDA, and show how EBITDA converts to cash."
+      ],
+      "tts": "openai:default"
     }
   ]
 }

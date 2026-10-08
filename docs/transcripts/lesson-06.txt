@@ -1,0 +1,93 @@
+The Sponsor's Playbook
+Lesson 6: EBITDA, adjusted EBITDA, and the add-backs that get challenged
+
+Welcome to The Sponsor's Playbook. This is lesson 6: EBITDA, adjusted EBITDA, and the add-backs that get challenged.
+
+Picture this. Your company is about to go to market. The sponsor's banker has put together a presentation with a big number on page three: adjusted EBITDA of twenty-nine million dollars. Everyone in the room is happy with it. Then a buyer's accounting team spends six weeks in your books and comes back with a different number: twenty-four million.
+
+Nothing was fabricated. Nobody lied. But five million dollars of EBITDA just vanished. At a ten times multiple, that's fifty million dollars of purchase price. Today we're going to talk about where that gap comes from, because as COO and General Counsel, a lot of the evidence in that fight sits in your files.
+
+Let's start with the basics. EBITDA stands for earnings before interest, taxes, depreciation, and amortization. You take net income and add back what you paid in interest, what you paid in taxes, and the non-cash charges for depreciation and amortization. What's left is a rough picture of operating profit before financing choices, tax situation, and accounting for past investments.
+
+Why do sponsors love it? Because it lets you compare companies with different debt loads, different tax positions, and different asset ages. And in lesson 4, we saw that EBITDA is the lever that matters most. It's what the multiple gets applied to. Ten million dollars more EBITDA at a ten times multiple is a hundred million dollars more value.
+
+But here's the first thing to know. EBITDA is not a GAAP measure. There is no rulebook that says exactly how to calculate it. It's a convention, and conventions get negotiated.
+
+Which brings us to adjusted EBITDA. Adjusted EBITDA starts with that basic number and then adds back, or sometimes subtracts, items that management and the sponsor argue don't reflect the true ongoing earning power of the business. These adjustments are called add-backs.
+
+Some add-backs are routine and rarely fought. Transaction costs for an acquisition or a sale. The sponsor's monitoring or management fee, which we touched on in lesson 2. Non-cash stock compensation, though treatment varies, and some buyers push back. Severance tied to a genuine, one-time restructuring. A true one-time legal settlement.
+
+Other add-backs live in a gray zone. Owner-related costs in a founder-run business, like above-market pay to a family member, which get normalized to market rates. Pro forma adjustments, where you include a full year of EBITDA for a business you only owned for four months. And the most contested category, run-rate cost savings or synergies, where you add back savings you expect to achieve but haven't yet.
+
+There's a simple test that buyers and lenders apply, even if they phrase it differently. Is it truly non-recurring or non-operating? Is it documented? Is it measurable? Is it consistent with how you've treated similar items in the past? And does the cost actually go away, or does it just get renamed?
+
+Now, who's doing the challenging? Three groups, and they each have different incentives.
+
+First, a prospective buyer. Their accounting advisors produce what's called a quality of earnings report, often shortened to QoE. This is a diligence exercise that rebuilds your EBITDA from the ground up and decides which add-backs survive. The buyer has every incentive to shrink the number, because every dollar of EBITDA they accept costs them a multiple of that dollar in price.
+
+Second, your lenders. Your credit agreement has its own defined term, usually called Consolidated EBITDA, and it spells out exactly which add-backs count for covenants and for leverage tests. Market practice varies a lot here. In a hot credit market, sponsor-backed companies often negotiate generous add-backs, including projected cost savings over a look-forward window of twelve to twenty-four months, often with a cap expressed as a percentage of EBITDA. In a tighter market, or with a smaller middle-market lender, the definition is tighter. So you can't assume yours looks like a headline you read about a large company.
+
+Third, your own sponsor and board. They want an honest number too, because they're going to be the ones defending it to a buyer, and to their own LPs when they report valuations, which we covered in lesson 1.
+
+Let's walk through an example with simple numbers. Your freight brokerage reports EBITDA, before adjustments, of twenty million dollars.
+
+Management builds an adjusted number with five add-backs. One: the sponsor's management fee, one million dollars. Two: severance from a sales reorganization, one million. Three: a legal settlement, two million. Four: losses from new branch offices that haven't matured yet, three million. And five: projected savings from consolidating two technology platforms, two million, not yet realized.
+
+Add those up. One plus one plus two plus three plus two is nine million. Twenty plus nine gives you adjusted EBITDA of twenty-nine million. That's the number on page three.
+
+Now watch what the buyer's QoE team does.
+
+The sponsor fee: accepted. It goes away at a change of control, it's documented, and it's a classic.
+
+The severance: accepted, as long as you can show it was a one-time restructuring, with board approval and a paper trail.
+
+The legal settlement: this is where it gets interesting. The buyer's team looks at your history and sees similar claims in each of the last three years. Cargo disputes, a carrier-selection claim, a contractor classification matter. They conclude that in a brokerage, legal losses are part of doing business. They accept one million of the two and treat the rest as recurring.
+
+The new branch losses: they'll accept the portion tied to specific branches you can isolate, with clear start dates and a visible maturation curve. If you can show the first cohort of branches reached breakeven in about eighteen months, that helps a lot. But if the branch costs are blended into general overhead, or the earlier branches never actually matured, they'll cut it. In our example, they accept one million of the three.
+
+The projected tech savings: they accept none. The savings haven't shown up yet. They might give credit later when they appear in actual results.
+
+So now the diligence-adjusted number is twenty, plus one, plus one, plus one, plus one. Twenty-four million. The gap is five million.
+
+Two consequences. At a ten times multiple, five million dollars of EBITDA is fifty million dollars of value. And if you carry, say, a hundred million dollars of debt, the leverage ratio looks different. On twenty-nine million, that's about three and a half times. On twenty-four million, it's just over four times. Same company, same debt, very different conversation with a buyer's lender.
+
+Note that your lender's definition might still let you use the higher number for covenant purposes, even when a buyer won't pay on it. These are separate tests, and both matter.
+
+So what does this mean for you as an operating executive?
+
+First, you're the evidence. Every add-back is a claim about what happened inside the business, and the support for that claim lives in legal files, HR records, board minutes, and operating data. As General Counsel, you know whether a settlement is truly isolated or part of a pattern. As COO, you know whether the branch losses are really startup investment or just underperformance. A good sponsor wants you to say so early, not late.
+
+Second, you can shape the case before anyone is challenging it. Track one-time items as they happen, and tag them in the ledger with a short explanation. If you're running a new branch program, build a separate P&L for each location from day one, with open dates, headcount, and monthly results. Then the argument that these are investment losses becomes something a diligence team can verify in an afternoon instead of a debate.
+
+Third, watch the items that move EBITDA without changing cash. A classic one in a technology-heavy brokerage is capitalized software development. If your data and development team's labor gets capitalized instead of expensed, EBITDA looks higher, but the cash still left the building. Buyers and lenders know this, and a good QoE will look at it closely. It's a legitimate accounting choice, but be ready to explain it and show the policy has been consistent.
+
+Fourth, think about symmetry. If you add back one-time costs, you also have to take out one-time gains. A big carrier-rate windfall or a favorable legal recovery that won't repeat should come out. Buyers trust sellers who cut both ways.
+
+And fifth, connect it back to lesson 4. Lenders are repaid in cash, not EBITDA. An adjusted number that looks great but doesn't convert to cash through working capital, capex, and capitalized costs will lose credibility fast. In brokerage, where you pay carriers faster than you collect from shippers, working capital can swallow growth. Be ready to show the bridge from EBITDA to cash.
+
+Now, three common mistakes.
+
+Mistake one: calling something one-time when it happens every year. If you've added back a legal settlement, a recruiting-related charge, or a restructuring cost in three consecutive years, it's no longer an exception. It's a cost of the business. Buyers read the history, and a long list of recurring one-time items damages your credibility on everything else.
+
+Mistake two: using different definitions in different places. The board deck uses one adjusted EBITDA, the lender compliance certificate uses another, and the sale materials use a third. Sometimes there are good reasons, since credit agreements have their own formulas. But if you can't reconcile them in a clean bridge, someone will assume the worst. Keep one master schedule that walks from reported EBITDA to each version, with support for every line.
+
+Mistake three: leaning too hard on projected savings and pro forma adjustments. It's tempting, because a run-rate savings number can add a lot. But a buyer will pay for savings that have already shown up in results far more readily than for savings on a slide. If you tell the board that a platform consolidation will save two million, treat that as a commitment to deliver and document it, not just a way to inflate the number. The best defense of a run-rate add-back is a few months of actual results that prove it.
+
+One more caution. Don't treat this as a game of making the number bigger. A sponsor who pushes an aggressive number into a sale process and then watches it get cut in diligence loses time, leverage, and sometimes the deal. As we saw in lesson 3, the clock matters. A repricing late in a process can push an exit past the window the fund needed. So credibility isn't just ethics. It's economics.
+
+Let's recap.
+
+EBITDA is earnings before interest, taxes, depreciation, and amortization, and it's a convention, not a GAAP standard. Adjusted EBITDA adds back items management argues are non-recurring or non-operating. Buyers test those through a quality of earnings review, lenders define their own version in the credit agreement, and the sponsor and board have to defend the number to everyone else.
+
+In our example, twenty million dollars of reported EBITDA became twenty-nine million adjusted, but diligence supported only twenty-four. That five million dollar gap meant fifty million in value at ten times, and a visibly higher leverage ratio.
+
+Your job is to make add-backs boring. Document them, isolate them, apply them consistently, and prove the savings with actual results.
+
+Here's your question for today. If a buyer's accounting team opened your books tomorrow, which single add-back in your current adjusted EBITDA would they challenge first, and what evidence could you hand them in the next hour to defend it?
+
+In the next lesson, we'll learn how to read the income statement, balance sheet, and cash flow statement the way a sponsor does.
+
+Key takeaways:
+- EBITDA is a convention, not a GAAP measure, so adjusted EBITDA is only as good as the add-backs behind it. Buyers, lenders, and the board each test them differently, and buyers do it through a quality of earnings review.
+- Add-backs survive when they are truly non-recurring, documented, measurable, and applied consistently. Recurring "one-time" items, blended startup branch costs, and unrealized run-rate savings are the ones most often cut.
+- A gap between management's number and the diligenced number is multiplied by the exit multiple, so a five million dollar cut at ten times costs fifty million in value. Track one-time items as they happen, keep one reconciled bridge across all versions of EBITDA, and show how EBITDA converts to cash.
