@@ -95,6 +95,22 @@
         "A gap between management's number and the diligenced number is multiplied by the exit multiple, so a five million dollar cut at ten times costs fifty million in value. Track one-time items as they happen, keep one reconciled bridge across all versions of EBITDA, and show how EBITDA converts to cash."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 6,
+      "title": "Reading the three financial statements like a sponsor",
+      "file": "lesson-07.mp3",
+      "bytes": 5903717,
+      "duration": "0:12:18",
+      "pub_date": "Fri, 09 Oct 2026 15:57:24 +0000",
+      "generated": "20261009155724",
+      "words": 2024,
+      "takeaways": [
+        "Sponsors read the statements in a particular order: cash flow first, then the balance sheet to explain the gap between profit and cash, then the income statement to test the earnings story.",
+        "In a growing freight brokerage, receivables can grow faster than carrier payables, so strong EBITDA can still produce little free cash, as in the example where eight million dollars of EBITDA became one million.",
+        "Be ready to explain every large balance sheet and cash movement, and keep the statements, board reports, and lender definitions reconciled, because covenant calculations follow the credit agreement rather than GAAP."
+      ],
+      "tts": "openai:default"
     }
   ]
 }

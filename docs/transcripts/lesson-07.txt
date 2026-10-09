@@ -1,0 +1,109 @@
+The Sponsor's Playbook
+Lesson 7: Reading the three financial statements like a sponsor
+
+Welcome to The Sponsor's Playbook. This is lesson 7: Reading the three financial statements like a sponsor.
+
+Picture a board meeting. Your freight brokerage just had a great quarter. Revenue is up twelve percent. Gross profit is up. EBITDA beat the plan. You feel good walking in.
+
+Then the sponsor's operating partner asks a question. "Why did we draw two million dollars on the revolver in a quarter when EBITDA was up?"
+
+The room goes quiet. The answer isn't on the page you prepared. It's on the balance sheet and the cash flow statement, two pages you skimmed on the way in.
+
+Today we fix that. A sponsor reads financial statements in a different order than most operators do, and for a different purpose. By the end of this lesson, you'll read them the way your board does.
+
+Start with the basics. There are three statements, and they are three views of the same business.
+
+The income statement shows performance over a period of time. Revenue comes in at the top. Costs come out. What's left is profit. It answers one question: did the business earn money?
+
+The balance sheet is a snapshot at a single moment. It shows what the company owns, which are assets. It shows what it owes, which are liabilities. And the difference is equity, the owners' stake. Assets always equal liabilities plus equity. That's the balancing in balance sheet.
+
+The cash flow statement explains how cash moved between two balance sheet dates. It's split into three parts. Operating cash flow is cash from running the business. Investing cash flow is cash spent on things like software development, equipment, or acquisitions. Financing cash flow is cash moving between the company and its lenders and owners: borrowing, repaying, dividends.
+
+Now the key point. These three are linked. Net income from the income statement flows into equity on the balance sheet. Changes in balance sheet accounts, like receivables and payables, explain the gap between profit and cash. And the ending cash on the cash flow statement is the cash line on the balance sheet. If they don't tie, something is wrong.
+
+Why does this matter to a sponsor? Because the income statement is where judgment lives. Accounting rules let you choose when to recognize some revenue and when to record some costs. Remember lesson six, where we saw how adjusted EBITDA can be pushed around by add-backs. The income statement is the most flexible of the three.
+
+Cash is much harder to argue with. Either the money is in the bank or it isn't. So sponsors tend to read in a particular order. They start with the cash flow statement, to see what the business actually produced. They go to the balance sheet to see why cash differs from profit, and what obligations are sitting there. Then they go to the income statement to see whether the earnings trend supports the story.
+
+Remember lesson four. Lenders get repaid in cash, not EBITDA. And deleveraging, one of the three return levers, depends entirely on cash conversion. The cash flow statement is where that lever lives.
+
+Let's walk through an example for a freight brokerage. I'll keep the numbers round so you can follow along.
+
+Say your company has two hundred million dollars in revenue this year. That's gross revenue, what customers pay you for moving freight. You paid carriers one hundred seventy million dollars. That cost is often called purchased transportation. So your net revenue, or gross profit, is thirty million dollars. That's a fifteen percent gross margin, which is realistic for many brokerages, though it swings by mode, customer mix, and the freight cycle.
+
+Operating costs, mostly people and technology and excluding depreciation, are twenty-two million dollars. So EBITDA is eight million dollars.
+
+Below EBITDA, depreciation and amortization is one million. Interest is three million. That leaves four million of pretax profit. Taxes at about twenty-five percent are one million. Net income is three million dollars.
+
+So far, a decent year. Now the cash flow statement.
+
+Start with net income, three million. Add back depreciation, one million, because it's a non-cash expense. That's four million. Now the balance sheet changes.
+
+You grew about ten percent this year. Customers pay you on terms, say forty-five days or so. So as revenue grew, your accounts receivable grew too. Say receivables rose by three million dollars. That's cash you earned on paper but haven't collected. It reduces operating cash flow by three million.
+
+Carriers, meanwhile, often get paid faster than your customers pay you. Many want payment in thirty days or less, and some use quick-pay programs. Say your accounts payable to carriers rose by one million dollars. That helps, because you haven't paid them yet. But it only offsets a third of the receivable build.
+
+Net working capital absorbed two million dollars of cash. So operating cash flow is four million minus two million. Two million dollars.
+
+Investing: you spent one million dollars on your platform and technology. That's capital expenditure. Free cash flow, roughly, is operating cash flow minus capex. One million dollars.
+
+Financing: you have forty million dollars of term debt, which is five times EBITDA. Leverage levels vary a lot with deal size and credit conditions, but five times is plausible. You repay one million dollars of scheduled principal. So the net change in cash is zero.
+
+Look at what happened. EBITDA was eight million. Free cash flow after interest, taxes, working capital, and capex was one million. The income statement said a good year. The cash flow statement said you barely covered your debt payments.
+
+Here's the bridge in words. Eight million of EBITDA. Subtract three million of interest. Subtract one million of taxes. Subtract two million of working capital. Subtract one million of capex. You're left with one million.
+
+Nothing is wrong here. This is what growth looks like in a brokerage. But a sponsor reading only the income statement would think the business threw off cash. The sponsor reading all three statements knows growth is consuming cash, and that every extra point of growth needs funding.
+
+Now connect that to your revolver. Many brokerages borrow on an asset-based revolving credit facility. Availability depends on a borrowing base, which is typically a percentage of eligible receivables. The advance rate varies by lender and credit quality. And lenders exclude receivables that are too old, too concentrated in one customer, or disputed.
+
+So if receivables swell with slow-paying customers, you may have more receivables but not more borrowing capacity. And your cash need grows exactly when your flexibility shrinks. The balance sheet tells that story. The income statement never will.
+
+Now, what does this mean for you, wearing your COO and general counsel hats?
+
+First, understand that your areas touch all three statements, not just the cost lines of the income statement.
+
+Take the new branch business. On the income statement, it shows up as startup losses. We talked in lesson six about blending those into adjusted EBITDA. But on the cash flow statement, a branch that wins freight business also builds receivables before it earns a profit. So it can consume cash twice: once through losses, and again through working capital. A sponsor will want to see both in your branch model, along with payback timing, as we discussed in lesson three.
+
+Recruiting is another one. Signing bonuses, guaranteed draws for new sales reps, and relocation costs hit cash up front. The accounting may spread or defer some of it, or expense it immediately. Either way, the cash is out the door before the rep produces gross profit. Show your hiring plan with the cash timing, not only the annual expense.
+
+On the legal side, the balance sheet is where your judgment becomes visible. Reserves for litigation, accrued claims, contingent liabilities, and indemnification obligations all sit on or near the balance sheet. In freight brokerage, think about contingent cargo claims and accident litigation, where plaintiffs allege negligent carrier selection. Whether and how you reserve for these matters affects reported earnings. A sponsor and a buyer's diligence team will read them closely. Disclosed early and sized sensibly, they build credibility. Discovered late, they look like hidden debt.
+
+Compliance and data also matter. Revenue recognition, carrier payment controls, and fraud prevention all affect whether the numbers can be trusted. Freight brokerages face real exposure from double-brokering and payment fraud. A loss there hits cash directly.
+
+Second, know how each audience reads these statements differently.
+
+The sponsor looks at cash conversion and trend. How much of EBITDA becomes free cash? Is working capital stable, or is it growing faster than revenue? Is the balance sheet clean enough for an eventual sale?
+
+The board asks whether the plan is funded. Can you pursue the branch expansion and the technology build and still meet debt service? Or does something give?
+
+Lenders focus on covenants and liquidity. Common tests include a leverage ratio, which is debt compared to EBITDA, and a fixed charge coverage ratio, which compares cash earnings to required payments like interest, taxes, capex, and scheduled principal. Some ABL facilities only test covenants when availability falls below a threshold. Practice varies by lender and deal. The point is that covenant definitions come from your credit agreement, not from accounting standards. So the number the lender uses may not match your GAAP statements. Know where the definitions differ, because a surprise there can be expensive.
+
+Third, be able to explain every large movement. When the operating partner asks why you drew on the revolver, you want an answer like this: "Receivables grew three million because of the new branch and two large customers stretching terms. We've started collection steps, and we expect about half of that back next quarter." That answer is specific, tied to cause, and has a timeline. It's the sort of answer that earns trust.
+
+Now, common mistakes.
+
+The first is treating net income or EBITDA as cash. They aren't. Between EBITDA and cash sit interest, taxes, capex, and working capital. In a growing brokerage, working capital can be the biggest of those. Always ask where the cash went.
+
+The second is presenting statements that don't tie or don't match your other reports. If the board deck, the lender compliance certificate, and the monthly close each use a slightly different version of cash, debt, or EBITDA, the sponsor won't think you have three views. They'll think you have a control problem. This is the reconciled bridge idea from lesson six, applied to the full set of statements.
+
+The third is ignoring the balance sheet until something goes wrong. Many executives only look at the balance sheet at audit time or in a crisis. But slow collections, aging payables, growing accruals, and unresolved claims build up quietly. A sponsor reads those as early warnings. If you spot them first and bring the explanation yourself, you control the conversation.
+
+Let's recap.
+
+The income statement shows performance, the balance sheet shows position, and the cash flow statement shows how cash moved. They're linked, and they should tie.
+
+Sponsors tend to start with cash flow, then check the balance sheet to see why cash differs from profit, and only then look at the income statement.
+
+In our example, a brokerage with eight million dollars of EBITDA produced only one million dollars of free cash after interest, taxes, working capital, and capex. Growth consumed cash.
+
+Your decisions on branches, hiring, legal reserves, and controls all show up in these statements, sometimes before they show up in profit. And lenders, the board, and the sponsor each read them through a different lens, so you want one consistent, explainable set of numbers.
+
+Here's your question for today. Think about one decision in your own area that you'd normally describe as an expense or an investment. A new hire, a branch launch, a legal settlement, a marketing campaign. Now ask: which statement shows its effect first, and when does it finally turn into cash? If you can answer that, you're reading it like a sponsor.
+
+Next time, in lesson 8, we'll go deeper into free cash flow and working capital, and why that's where brokerage value is won or lost.
+
+Key takeaways:
+- Sponsors read the statements in a particular order: cash flow first, then the balance sheet to explain the gap between profit and cash, then the income statement to test the earnings story.
+- In a growing freight brokerage, receivables can grow faster than carrier payables, so strong EBITDA can still produce little free cash, as in the example where eight million dollars of EBITDA became one million.
+- Be ready to explain every large balance sheet and cash movement, and keep the statements, board reports, and lender definitions reconciled, because covenant calculations follow the credit agreement rather than GAAP.
