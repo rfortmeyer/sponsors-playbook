@@ -111,6 +111,22 @@
         "Be ready to explain every large balance sheet and cash movement, and keep the statements, board reports, and lender definitions reconciled, because covenant calculations follow the credit agreement rather than GAAP."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 7,
+      "title": "Free cash flow and working capital",
+      "file": "lesson-08.mp3",
+      "bytes": 1853484,
+      "duration": "0:03:52",
+      "pub_date": "Tue, 13 Oct 2026 17:04:06 +0000",
+      "generated": "20261013170406",
+      "words": 1971,
+      "takeaways": [
+        "Free cash flow is EBITDA minus cash taxes, capex, and the increase in working capital (and cash interest for the levered version), so always confirm which definition a sponsor or lender is using.",
+        "In a freight brokerage, growth traps cash because receivables from shippers grow faster than payables to carriers, so a twenty percent revenue increase can turn twenty million of EBITDA into only a million or so of free cash.",
+        "Attach a working capital and payment-terms estimate to every growth plan, branch case, and contract, and improve cash through process rather than period-end timing, since lenders' borrowing bases and covenants depend on it."
+      ],
+      "tts": "openai:default"
     }
   ]
 }

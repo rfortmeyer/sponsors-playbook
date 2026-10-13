@@ -1,0 +1,91 @@
+The Sponsor's Playbook
+Lesson 8: Free cash flow and working capital
+
+Welcome to The Sponsor's Playbook. This is lesson 8: Free cash flow and working capital.
+
+Picture a board meeting. Your freight brokerage just had its best quarter ever. Volume is up twenty percent. Two new branches are ahead of plan. EBITDA is the highest it has ever been. The CEO is presenting, and everyone is smiling.
+
+Then the sponsor's operating partner asks one question. "Great. So why did we draw on the revolver?"
+
+The room gets quiet. The company grew and made more profit, and it still needed more borrowing to keep the lights on. That feels like a contradiction. It isn't. It's what happens when a company's growth eats its own cash. Today we're going to learn how to see that coming.
+
+Let's start with definitions, because this term gets used loosely.
+
+Free cash flow is the cash a business generates after paying for everything it needs to keep operating and growing. The short version is this: start with EBITDA, then subtract the cash that leaves the business for other reasons. Cash taxes. Capital expenditures, which for you includes capitalized software development. Any increase in working capital. And then, depending on which version you mean, cash interest.
+
+That last part matters. Unlevered free cash flow is measured before interest and debt payments. It tells you how much cash the business throws off regardless of how it's financed. Levered free cash flow is after interest. It's what's left to repay debt, fund acquisitions, or pay the sponsor. Different people use these terms differently, and sponsors and lenders often have their own definitions. So whenever someone says "free cash flow," ask which one they mean. Better yet, ask to see the bridge.
+
+Now the piece that trips up most executives: working capital.
+
+Working capital, in the way we use it here, is net working capital. It's the short-term operating assets minus the short-term operating liabilities. Mostly that means accounts receivable, what customers owe you, minus accounts payable, what you owe your suppliers. Cash and debt are excluded.
+
+The key idea is this. When net working capital goes up, cash goes down. If you're owed more money by customers, that's cash you earned on paper but don't have. If you owe suppliers more, that's cash you've kept for now. So an increase in receivables is a use of cash, and an increase in payables is a source of cash.
+
+A freight brokerage is a nearly pure working capital story. You don't own trucks. You don't own much equipment. Your capital expenditures are small. What you do own is a timing gap. Shippers pay you in thirty, forty-five, sometimes sixty or more days. Carriers want to be paid in a couple of weeks, and many want quick pay in a few days. You are financing the space in between. Every dollar of new revenue has to be financed for however many days that gap lasts.
+
+And here's the part that matters for a growth company. That gap is not a one-time cost. It scales with revenue. The faster you grow, the more cash gets trapped. In Lesson 7, we saw eight million dollars of EBITDA turn into one million of free cash. Today we'll build that kind of result from the ground up.
+
+Let's do a worked example. I'll keep the numbers round so you can follow along.
+
+Imagine a brokerage with three hundred sixty-five million dollars in annual revenue. That conveniently works out to about one million dollars of revenue per day. Over the next year, revenue grows twenty percent, to about four hundred thirty-eight million. At the end of the year, that's roughly one point two million dollars per day.
+
+Assume customers pay in forty-five days, on average. Before growth, receivables are about forty-five million dollars. That's forty-five days times one million. After growth, it's forty-five days times one point two million, or about fifty-four million. Receivables went up by nine million. That's nine million dollars of cash that is now sitting in customers' hands.
+
+Now the carrier side. Say purchased transportation, what you pay carriers, is about eighty-five percent of revenue. And say you pay carriers in an average of twenty days. Before growth, carrier cost is eighty-five cents per revenue dollar, or about eighty-five hundred thousand a day. Twenty days of that is about seventeen million in payables. After growth, carrier cost is about one point oh two million per day. Twenty days of that is about twenty point four million. Payables rose by about three point four million.
+
+So net working capital increased by nine million minus three point four million. That's five point six million dollars. Growth absorbed five point six million in cash.
+
+Now build the rest. Suppose EBITDA for the year is twenty million. Cash taxes are three million. Capital expenditures, including capitalized software and branch build-out, are three million. Cash interest on the term loan and revolver is seven million.
+
+Start with twenty. Subtract three for taxes. Subtract three for capex. Subtract five point six for working capital. That leaves eight point four million. That's the unlevered free cash flow. It's about forty-two percent of EBITDA. People call that ratio cash conversion, and forty-two percent is low for most businesses, though a fast-growing brokerage can look like this.
+
+Now subtract seven million of interest. Levered free cash flow is about one point four million. Twenty million of EBITDA, and about one point four million of cash to pay down debt. If the sponsor's model assumed meaningful debt paydown, as we discussed in Lesson 4, that model just missed its target. And it missed it with no sign of trouble on the income statement.
+
+Now look at the levers. Suppose your collections team improves average collection time by three days. Three days times one point two million of daily revenue frees up about three point six million in cash. That's more than double the free cash flow we just calculated, with no new customer and no price increase.
+
+Now flip it. Suppose sales promises faster pay to carriers to win capacity, say two days faster. Two days times about one point oh two million of daily carrier cost is about two million of cash that leaves. Quick pay may be the right commercial decision, but it has a price, and that price should be visible.
+
+That's the whole mechanism. Days of receivables, days of payables, and the speed of growth. Three variables that decide whether EBITDA turns into cash.
+
+Now, what does this mean for you as an operating executive?
+
+First, understand how the sponsor sees it. In Lesson 7, we said sponsors read cash flow first. Free cash flow is how they judge whether growth is healthy. They'll often track cash conversion, meaning free cash flow, or EBITDA minus capex, as a percentage of EBITDA. They'll watch days sales outstanding, which is how long customers take to pay, and days payable outstanding, which is how long you take to pay carriers. And they'll want an explanation for every large movement.
+
+Second, understand the board. Boards generally want a forecast of cash, not just profit. If your plan adds revenue, they'll expect a working capital assumption attached to it. A plan that assumes growth with flat working capital will be challenged.
+
+Third, understand the lender. Many brokerages finance themselves with an asset-based revolver, where the amount you can borrow depends on a borrowing base. The borrowing base is typically a percentage of eligible receivables. The advance rate varies by lender and by credit quality, but it is often in the range of eighty to ninety percent. And here's the catch: "eligible" is a defined term. Invoices that are too old, often past ninety days from the invoice date, disputed invoices, or receivables from a customer that makes up too large a share of the total, may be excluded. Terms differ by lender, so check your own credit agreement. When your collections slow down or your customer base concentrates, your borrowing capacity can shrink at the exact moment you need it most.
+
+Also, remember that covenants follow the credit agreement, not your internal dashboard. Many agreements include a fixed charge coverage ratio, which looks at cash earnings against things like interest, taxes, capex, and scheduled debt payments. So working capital decisions and capex decisions can show up in covenant math.
+
+Now, your portfolio is wider than most COOs'. Let me connect this to it.
+
+Your legal role: customer contracts set the payment terms, and terms are cash. A customer asking for sixty days instead of forty-five isn't a minor edit. On a million dollars a day, fifteen extra days is fifteen million dollars of financing. Carrier agreements, quick pay programs, dispute and chargeback provisions, and collection rights all affect the cycle. Raise these with the finance team before signing, not after.
+
+Your startup branches: a new branch's business case should include the working capital it will consume. A branch that looks profitable at the branch level can still be a cash drain for a year or more while receivables build. If you present branch economics to the board without the cash curve, someone will ask, and you want to have the answer.
+
+Recruiting: hiring a rep with a big book of business sounds great, but if those shippers pay in seventy-five days, you've just bought a slow-cash customer base. Ask about payment terms when you evaluate books of business.
+
+Data and development: a customer-level DSO view, updated weekly, is one of the most valuable dashboards you can build. Averages hide the story. Usually a handful of customers cause most of the slow pay.
+
+And marketing: target customers with an eye on payment behavior and credit quality, not just freight volume.
+
+Now, three common mistakes.
+
+The first mistake is treating growth as free. Executives pitch a twenty percent growth plan without a funding plan. The sponsor then discovers the cash needed and assumes the plan wasn't well thought out. Always attach a working capital estimate to a growth plan.
+
+The second mistake is managing to the period-end number. Some teams push collections hard right before quarter-end and stretch carrier payments just to make the balance sheet look better. That may help a covenant test for a few days, but sponsors and buyers notice. In a sale process, a quality of earnings team will look at average working capital across months, not just the closing balance. And stretching carriers can cost you capacity and goodwill. Real improvement comes from process, not timing tricks.
+
+The third mistake is confusing financing with cash generation. If the revolver goes up to fund working capital, the company didn't generate cash. It borrowed it. A cash balance that looks healthy because of a revolver draw says nothing about free cash flow. Look at the movement, not just the balance.
+
+Let's recap.
+
+Free cash flow is EBITDA less cash taxes, capex, and the increase in working capital, and then, for the levered version, less cash interest. Know which definition is being used. In a freight brokerage, working capital is the main swing factor, because you're financing the gap between what shippers pay and what carriers expect. Growth makes that gap bigger in dollars even when the number of days doesn't change. Sponsors, boards, and lenders all care, because debt gets repaid with cash, not EBITDA, and your borrowing capacity can depend on the quality and age of your receivables.
+
+Here's your question for the day. Think about the last customer contract, or the last new branch plan, that you reviewed. How many days of cash would each new dollar of revenue lock up, and who inside the company agreed to that?
+
+In the next lesson, we'll move from cash to value and look at enterprise value versus equity value, and why the debt in your structure changes what a sale is really worth to owners.
+
+Key takeaways:
+- Free cash flow is EBITDA minus cash taxes, capex, and the increase in working capital (and cash interest for the levered version), so always confirm which definition a sponsor or lender is using.
+- In a freight brokerage, growth traps cash because receivables from shippers grow faster than payables to carriers, so a twenty percent revenue increase can turn twenty million of EBITDA into only a million or so of free cash.
+- Attach a working capital and payment-terms estimate to every growth plan, branch case, and contract, and improve cash through process rather than period-end timing, since lenders' borrowing bases and covenants depend on it.
