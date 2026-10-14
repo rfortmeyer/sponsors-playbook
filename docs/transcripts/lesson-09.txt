@@ -1,0 +1,75 @@
+The Sponsor's Playbook
+Lesson 9: Enterprise value versus equity value
+
+Welcome to The Sponsor's Playbook. This is lesson 9: Enterprise value versus equity value.
+
+Picture a Tuesday board meeting. Your sponsor's deal partner says the business is "worth about one hundred eighty million dollars." Your CFO nods. Then the partner says the equity is "worth about ninety." You're sitting there thinking: which is it? Did half the company just disappear between two sentences?
+
+Nothing disappeared. They're both right, and they're answering different questions. Today we sort out what those questions are, because nearly every conversation about valuation, debt, and exit proceeds depends on keeping them straight.
+
+Start with enterprise value. Enterprise value is what the operating business is worth, no matter how it's financed. Think of it as the price of the whole machine. The machine is your freight network, your shipper relationships, your carrier base, your technology, and your people. Enterprise value is what a buyer would pay for all of that, and it belongs to everyone who funded the business: the lenders and the owners together.
+
+Equity value is the slice of that which belongs to the owners. It's what's left after the lenders and other claims are paid ahead of them.
+
+The bridge between them is simple in concept. Enterprise value, minus net debt, equals equity value. Net debt is total debt minus cash. So equity value is enterprise value, minus debt, plus cash.
+
+Here's the home analogy. Your house is worth six hundred thousand dollars. You owe four hundred thousand on the mortgage, and you have fifty thousand in a savings account. Your house is the enterprise. What you actually own, after paying off the mortgage, is the equity. Same house, different number, depending on what you owe.
+
+Now, the word "debt" does more work here than it first appears. In a deal, buyers and sellers argue about what counts as debt. The obvious items are the term loan, the revolver, and any notes. But the list usually goes further: finance leases, deferred purchase price owed to sellers of businesses you've acquired, earnouts that are probably going to be paid, unpaid taxes, and sometimes accrued bonuses, deferred compensation, or settlements you've already agreed to pay. People call these debt-like items. If it's a real obligation to hand cash to someone outside the ordinary course of operating the business, a buyer will try to treat it as debt and subtract it from the price.
+
+Also, equity value isn't always one tidy number. If there's preferred equity ahead of the common, that comes out before common holders see anything. And management's options or profit interests take a share of the upside. So when someone says "equity value," ask: equity for whom? Total equity, the sponsor's piece, or the common?
+
+Let's run one example, and I'll keep the numbers round.
+
+Say your company has twenty million dollars of adjusted EBITDA. Remember from lesson 6 that this number is only as good as its add-backs. A buyer values the business at nine times EBITDA. Nine times twenty is one hundred eighty million dollars. That's the enterprise value.
+
+Now look at the claims ahead of the owners. You have a term loan of eighty million. You have ten million drawn on the revolver. You have five million of finance leases, mostly equipment and some vehicles. And you owe five million on an earnout from a small acquisition last year. Add those up: eighty, plus ten, plus five, plus five. That's one hundred million of debt and debt-like items.
+
+On the other side, you have cash of ten million. So net debt is one hundred minus ten, which is ninety million.
+
+Enterprise value of one hundred eighty, minus net debt of ninety, gives equity value of ninety million. That's your board meeting. Both numbers were right. Half the enterprise belongs to the claims ahead of the owners.
+
+Now here's why this matters. Watch what happens when the enterprise value moves a little.
+
+Suppose a quality of earnings review cuts two million dollars out of your adjusted EBITDA. Back in lesson 6, we talked about how an EBITDA gap gets multiplied by the exit multiple. Two million times nine is eighteen million dollars of enterprise value. But the debt didn't change. The lenders are still owed the same one hundred million. So all eighteen million comes out of equity. Equity falls from ninety to seventy-two. The enterprise value dropped ten percent. The equity value dropped twenty percent.
+
+That is leverage, and it cuts both ways. Debt magnifies changes in enterprise value into bigger percentage changes in equity value. When the business does well, the owners capture all the upside above the debt. When it stumbles, the owners absorb the loss first, because the lenders sit ahead of them.
+
+Let's push it forward to see the good side. Say in four years EBITDA grows from twenty to thirty million, the multiple holds at nine, and you've paid net debt down from ninety to sixty. Enterprise value is two hundred seventy million. Subtract sixty of net debt, and equity is two hundred ten. The equity went from ninety to two hundred ten, more than doubling. The enterprise value went up by fifty percent. This is the engine from lesson 4. EBITDA growth raises the top of the bridge, and deleveraging shrinks the net debt in the middle. Both push equity value up, and the sponsor's return lives in that equity number.
+
+So what does this mean for you, as the operating executive?
+
+First, understand how each party looks at this. Your sponsor thinks in both numbers, but for different jobs. Enterprise value is how they judge the business and compare it to what others have sold for. Equity value is how they judge their return, and it's what they report to their own investors. Your board will often track net debt and leverage every quarter, since movement there changes equity value even when operations are flat.
+
+Your lenders think about enterprise value too, but from the other direction. They ask: how much cushion sits beneath us? If the business is worth one hundred eighty and they're owed ninety net, there's a lot of equity absorbing losses before they're at risk. That cushion is part of why they lend at the terms they do, and why covenants and leverage ratios are tested against EBITDA.
+
+Second, remember that the definitions in documents decide real money. As General Counsel, you're in a good position here. A credit agreement defines Indebtedness. A purchase agreement defines Indebtedness, Transaction Expenses, and Working Capital, usually in a deal done on a cash-free, debt-free basis with a target level of working capital. Each definition is a negotiation, and each item you include or exclude moves equity proceeds dollar for dollar. Does the earnout count? What about a settlement that's agreed but unpaid? What about accrued bonuses, or insurance claims you self-fund? These are not drafting details. They're price.
+
+Third, think about working capital, which ties straight to lesson 8. In a typical sale, the buyer and seller agree on a normal level of working capital, often called the peg, and the price adjusts up or down at closing based on where it actually lands. In a freight brokerage, receivables and carrier payables are big numbers and they swing. If you've been stretching carrier payables to make cash look good at quarter-end, a buyer will notice, and they may argue that the stretched amount is really debt, or that the working capital is abnormally low and the price should adjust. Cash that comes from process improvement holds up. Cash that comes from timing tricks gets taken back.
+
+Fourth, be careful with cash itself. Not all cash is equal. In a brokerage, you may hold cash that's needed to pay carriers on quick-pay programs, cash that's pledged or restricted for insurance or other collateral, or cash sitting in accounts the lenders control. A buyer may say that's not excess cash and refuse to credit it in the bridge. Know which cash is truly free, and be able to document it.
+
+Fifth, understand what your own equity is worth. If you hold options or profit interests, their value depends on equity value, not enterprise value. Because equity is the thin slice after debt, it's more sensitive than the headline number. Read your plan to see the strike price or threshold, and understand how the company's debt, preferred equity, and the sponsor's return hurdles affect it.
+
+Now, some common mistakes.
+
+The first is treating enterprise value as what the owners will take home. It's the headline number in the press release, and it's tempting to think of it as your payout. It isn't. Debt, debt-like items, and transaction costs come off first, and then preferred holders, management plans, and the sponsor's structure share what's left.
+
+The second is missing the debt-like items. Operators tend to look at the term loan and revolver, and stop. But earnouts, leases, accrued liabilities, pending legal settlements, and unpaid taxes can all end up in the bridge. If you've got a dispute that's heading toward a payment, or a tax exposure you've been assuming is fine, raise it early. A buyer who finds it in diligence will use it to cut the price, and it's much worse if it looks like you hid it. Surprises cost more than bad news.
+
+The third is assuming all cash is equal. Counting every dollar on the balance sheet as excess cash overstates equity value. Trapped, restricted, or operationally required cash may not count.
+
+A fourth, if you'll allow one more: forgetting how much leverage magnifies. When enterprise value moves ten percent, equity might move twenty or more. That's why sponsors fuss over a one-turn change in multiple, or a single add-back. Small changes up top are big changes at the bottom.
+
+Let's recap.
+
+Enterprise value is the value of the operating business to all its capital providers. Equity value is what's left for the owners after net debt and other claims. The bridge is enterprise value, minus debt and debt-like items, plus cash, with preferred equity and minority interests also coming out. Because debt is fixed, changes in enterprise value get magnified in equity value, which is the reason leverage makes returns bigger in good times and smaller in bad. As an operator, you influence both sides: the EBITDA and multiple that drive the top, and the debt, cash, and working capital that drive the bridge. And the legal definitions in your credit agreement and any sale agreement decide what counts, so they deserve real attention.
+
+Here's your question for today. If your company were sold next year, what's one item in your area, a pending claim, a lease, an earnout, an accrued obligation, or a cash balance, that a buyer might push into the bridge as debt, or exclude as not truly free cash? And what documents would you need in hand to make your case?
+
+Next time, we'll look at valuation multiples and comparable companies, and how that enterprise value number actually gets set.
+
+Key takeaways:
+- Enterprise value is the worth of the operating business to all capital providers; equity value is what remains for owners after net debt, debt-like items, preferred equity, and other senior claims.
+- Because debt is fixed, a ten percent change in enterprise value can move equity value by twenty percent or more, so small EBITDA cuts, multiple shifts, or reclassified liabilities hit owners hard.
+- Executives should know what counts as debt, debt-like items, and free cash in their credit agreement and any sale agreement, document trapped cash and legal or earnout exposures early, and keep working capital improvements process-driven rather than timing-driven.

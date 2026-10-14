@@ -127,6 +127,22 @@
         "Attach a working capital and payment-terms estimate to every growth plan, branch case, and contract, and improve cash through process rather than period-end timing, since lenders' borrowing bases and covenants depend on it."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 8,
+      "title": "Enterprise value versus equity value",
+      "file": "lesson-09.mp3",
+      "bytes": 2542907,
+      "duration": "0:05:18",
+      "pub_date": "Wed, 14 Oct 2026 14:59:28 +0000",
+      "generated": "20261014145928",
+      "words": 1831,
+      "takeaways": [
+        "Enterprise value is the worth of the operating business to all capital providers; equity value is what remains for owners after net debt, debt-like items, preferred equity, and other senior claims.",
+        "Because debt is fixed, a ten percent change in enterprise value can move equity value by twenty percent or more, so small EBITDA cuts, multiple shifts, or reclassified liabilities hit owners hard.",
+        "Executives should know what counts as debt, debt-like items, and free cash in their credit agreement and any sale agreement, document trapped cash and legal or earnout exposures early, and keep working capital improvements process-driven rather than timing-driven."
+      ],
+      "tts": "openai:default"
     }
   ]
 }
