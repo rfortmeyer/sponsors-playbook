@@ -14,6 +14,25 @@
     <itunes:type>serial</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>10. Valuation multiples and comparable companies</title>
+      <description>Module 1: How private equity works.
+
+Key takeaways:
+- A valuation multiple divides enterprise value by a metric like EBITDA, using comps from public companies and precedent deals, and it should be read as a range built from judgment, with matching periods (trailing versus forward) and definitions of adjusted EBITDA.
+- Because the multiple and your EBITDA multiply together, and debt is fixed, small changes in either swing equity value far more than enterprise value, so quality of earnings and credible positioning within the range matter.
+- Executives influence where the company lands in the range by documenting customer concentration, compliance record, retention, data quality, and standalone branch economics, and by remembering that multiples shift with the freight cycle and credit markets.
+
+Transcript: https://rfortmeyer.github.io/sponsors-playbook/transcripts/lesson-10.txt</description>
+      <enclosure url="https://rfortmeyer.github.io/sponsors-playbook/episodes/lesson-10.mp3" length="5607175" type="audio/mpeg"/>
+      <guid isPermaLink="false">sponsors-playbook-10-20261016135110</guid>
+      <pubDate>Fri, 16 Oct 2026 13:51:10 +0000</pubDate>
+      <itunes:duration>0:11:41</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>9. Enterprise value versus equity value</title>
       <description>Module 1: How private equity works.
 

@@ -1,0 +1,79 @@
+The Sponsor's Playbook
+Lesson 10: Valuation multiples and comparable companies
+
+Welcome to The Sponsor's Playbook. This is lesson 10: Valuation multiples and comparable companies.
+
+Picture this. You're in a board meeting. Your sponsor's deal partner puts one slide on the screen. It lists seven companies, a column of numbers, and at the bottom, a single line: "Median, nine times." Then she says, "That's where we think this business should trade."
+
+Everyone nods. But you're sitting there asking yourself some questions. Why those seven? Why not eight, or five? Are those numbers from last year, or next year? And do those companies look anything like ours?
+
+Those questions are exactly the right ones. Today we're going to unpack that slide, because the number at the bottom drives what the sponsor pays, what the fund reports to its investors, and what you could eventually be paid at exit.
+
+Start with the basic idea. A valuation multiple is a price tag divided by a measure of performance. It lets you say, "The market pays this many dollars for every dollar of something." The price tag, in almost every case we care about, is enterprise value. That's the value of the operating business to all its capital providers, which we covered in the last lesson. The something is usually a financial metric.
+
+The most common multiple in private equity is enterprise value divided by EBITDA. If a company has an enterprise value of one hundred million dollars and EBITDA of ten million, it trades at ten times EBITDA. People say "ten turns."
+
+There are other multiples. Enterprise value to revenue is common for fast-growing software companies that don't have profits yet. In freight brokerage, revenue is a poor yardstick. Gross revenue includes everything you pass through to carriers. Two brokers can have the same revenue and very different businesses, depending on their margin. So in this industry, people often look at enterprise value to net revenue, which is gross profit, or look at gross profit per load alongside EBITDA. Think of those as cross-checks. EBITDA is still the anchor.
+
+Now, where do the multiples come from? From comparable companies, which people call comps. There are two main families.
+
+The first is trading comps. These are publicly traded companies that look like yours. You take their market value, add their net debt, and get an enterprise value. You divide that by their EBITDA and get a multiple. For a freight brokerage, that might be the publicly traded brokers and asset-light logistics firms. The advantage is that the prices are live and visible. The weakness is that public companies tend to be much larger than a typical sponsor-backed business, and they trade as minority stakes with daily liquidity.
+
+The second family is precedent transactions. These are deals where companies like yours were actually bought and sold. The multiple reflects what a buyer paid to take control. That usually includes a control premium, meaning buyers pay extra for the right to run the business and change it. The weakness is that deal terms are often private. Reported multiples can be rough, they might rest on an adjusted EBITDA that nobody can verify, and the deal may have been priced at a different point in the freight cycle.
+
+Two more terms you need. LTM means last twelve months. It's trailing EBITDA, what the company has actually produced. NTM, or forward, means next twelve months, which is a forecast. A multiple on forward EBITDA is lower than the same company's multiple on trailing EBITDA if earnings are growing. Mixing them is a classic way to get a wrong answer, and we'll come back to that.
+
+Let me walk through a simple example with your type of company.
+
+Say you run a freight brokerage with twelve million dollars of adjusted EBITDA over the last twelve months. Your sponsor wants a view on what the business is worth.
+
+Step one: the analyst builds the comp set. Five precedent deals in asset-light logistics. The multiples are eight times, nine times, nine and a half times, ten times, and twelve times. The median, the middle one, is nine and a half.
+
+Step two: the analyst looks at public brokers. Their median trades at eight times trailing EBITDA. They're far bigger than you, but that's the market's read on the sector today.
+
+Step three, and this is where judgment comes in: adjusting for how your company differs. Say you're smaller than most of those peers. Your largest customer is fifteen percent of gross profit. Your margins per load have been volatile. And you have a new branch unit that is still losing money. Those facts argue for the lower half of the range. On the other hand, suppose you have strong carrier relationships, a clean compliance record, and a proprietary tech stack that actually lowers cost per load. Those facts argue for the upper half.
+
+So the sponsor lands on a range of eight to nine and a half times, not a single point.
+
+Step four: do the math. Twelve million times eight is ninety-six million. Twelve million times nine and a half is one hundred fourteen million. So the enterprise value range is ninety-six to one hundred fourteen million dollars. That's an eighteen million dollar spread, from only a one-and-a-half-turn difference in the multiple.
+
+Step five: bring in what we learned last time. Suppose net debt, including debt-like items, is fifty million. Equity value runs from forty-six million to sixty-four million. The enterprise value moved about nineteen percent from bottom to top. The equity value moved nearly forty percent. Same leverage effect we talked about in lesson 9.
+
+And one more wrinkle. Suppose a diligence team trims one million dollars from your adjusted EBITDA. At nine times, that's nine million dollars off enterprise value, all of it coming out of the equity. This is the lesson 6 point again. Your EBITDA and the multiple are two halves of the same multiplication, and a mistake in either gets magnified.
+
+So what does this mean for you, as the person overseeing legal, compliance, recruiting, the new branch, data, and marketing?
+
+First, understand who uses these multiples and for what. The sponsor uses them at entry, to decide what it can pay and what return that implies. It uses them every quarter, too, because the fund has to report the value of each holding to its investors, and comps are central to that mark. A softer multiple in the market can lower your company's reported value even if your operations haven't changed. It uses them again at exit, to frame the sale. And in an add-on strategy, the sponsor may buy smaller brokerages at six or seven times and have them valued at your higher multiple once they're folded in. That's multiple arbitrage, a cousin of the multiple expansion we covered in lesson 4. It only works if the acquired business integrates cleanly, so legal diligence, compliance integration, and retention are what make that math real.
+
+The board uses comps to judge strategy. If your peers command higher multiples because of faster growth or more diversified customers, the board will ask what it would take to earn that. Boards also use valuation work when setting the strike price on management options. So your equity plan depends on the same comp set. As General Counsel, you'll want to know how that valuation is done and who signs off on it.
+
+Lenders look at this differently. They care less about the multiple and more about cushion. They lend against EBITDA and cash flow, often expressed as debt to EBITDA. But they also think about how much value sits beneath their loan. If the sector's multiples compress, say in a weak freight market, the cushion shrinks, and lenders get more cautious on amendments and consents.
+
+Second, your job is to help justify where in the range you sit. The multiple is not set by your slide deck. But the facts behind it come from you. Which of those are in your area? Customer concentration, and the contract terms that go with it. A clean regulatory record: broker authority, insurance, and your handling of contingent liability claims. Low employee and sales turnover. Reliable data on gross profit per load, carrier retention, and cost to serve. Buyers pay more for businesses that are predictable and easy to diligence.
+
+Third, handle the new branch unit carefully. As we said in lesson 6, blended startup costs are challenged. In a comps discussion, a buyer might value the mature business at a standard multiple and treat the branch as either a free option or a drag. Which one it is depends on whether you have separate numbers: branch revenue, gross profit, direct costs, working capital needs, and a path to breakeven. Without those, the branch looks like noise.
+
+Fourth, think about timing, which we discussed in lesson 3. Multiples move with the freight cycle and with credit markets. Brokers often earn their best margins when capacity is loose and carriers are cheap. Those are the earnings buyers will see in trailing numbers. A sophisticated buyer will ask whether those margins are normal or cyclical. If you're ready with an answer, you protect your multiple.
+
+Now, some common mistakes.
+
+Mistake one: treating the multiple as a fact instead of an opinion. A comp set is a set of choices. Add a high-growth software-enabled logistics platform and the median goes up. Add a distressed sale and it goes down. If someone shows you a multiple, ask which companies are in it and why. And be wary of comps that aren't really comparable. An asset-based trucking carrier, with trucks, trailers, and heavy capital spending, is a very different business from an asset-light broker. Their multiples don't translate cleanly.
+
+Mistake two: mismatched metrics. Applying a forward multiple to trailing EBITDA, or a multiple based on adjusted EBITDA to an unadjusted number, gives you a false answer. Let me make it concrete. If a comp trades at eight times forward earnings and you apply that eight to your trailing figure, you've probably undervalued your company if you're growing. Flip it around and you'll overvalue. Always ask: same period, same definition of adjusted, same treatment of one-time items.
+
+Mistake three: anchoring on a peak. Executives sometimes remember the best deal in the sector, the one at fourteen times during a boom, and treat it as the standard. Sponsors know that's a trap. Good practice is to look at a range across the cycle, and to remember that size, growth, margin quality, and customer mix explain a lot of why one deal sold for more than another. Also, in a smaller deal, you often get a lower multiple than in a larger one. Buyers pay more for scale and diversification, though how big that gap is varies a lot by sector and by credit conditions.
+
+Let's recap.
+
+A valuation multiple is enterprise value divided by a performance measure, most often EBITDA. In brokerage, gross profit is a useful cross-check because revenue includes pass-through costs. Comps come from two places: trading comps from public companies, and precedent transactions from actual deals, which include a control premium. Pick a range, not a point, and be clear on whether you're using trailing or forward numbers. The multiple and your EBITDA multiply together, so every quality issue you leave unresolved gets scaled up. Because debt is fixed, those swings land even harder on equity.
+
+For you, the practical part is this. Know which comp set your sponsor uses. Understand the case for where you sit in the range. Keep concentration, compliance, retention, and branch economics documented, so you can defend a better position. And don't assume today's multiple is tomorrow's.
+
+Here's the question for you to think about today. If your sponsor's analyst rebuilt the comp set this week, which two or three facts about your company would push you up in the range, and which two or three would push you down? And which of those could you change, or at least prove, before the next board meeting?
+
+Next time, we'll turn from valuing a business to planning its first months under new ownership: the investment thesis and the 100-day plan.
+
+Key takeaways:
+- A valuation multiple divides enterprise value by a metric like EBITDA, using comps from public companies and precedent deals, and it should be read as a range built from judgment, with matching periods (trailing versus forward) and definitions of adjusted EBITDA.
+- Because the multiple and your EBITDA multiply together, and debt is fixed, small changes in either swing equity value far more than enterprise value, so quality of earnings and credible positioning within the range matter.
+- Executives influence where the company lands in the range by documenting customer concentration, compliance record, retention, data quality, and standalone branch economics, and by remembering that multiples shift with the freight cycle and credit markets.
