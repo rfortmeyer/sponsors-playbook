@@ -1,0 +1,81 @@
+The Sponsor's Playbook
+Lesson 11: The investment thesis and the 100-day plan
+
+Welcome to The Sponsor's Playbook. This is lesson 11: The investment thesis and the 100-day plan.
+
+Picture this. The deal closed on a Friday. On Monday morning, two people from the sponsor are in your conference room, and they are friendly. One of them slides a single page across the table. It has three bullets on it, and a timeline underneath. Then she says, "This is why we bought the company. Walk us through how your areas get us there."
+
+You have never seen this page. But everyone else at the table has been living with it for months.
+
+That page is the investment thesis. What happens in the next hundred days is how you turn it into something real. Today we'll cover both, and why a COO and General Counsel should care about them more than almost anyone.
+
+Start with the definition. An investment thesis is the sponsor's short, specific argument for why this company is worth buying at this price, and how the sponsor expects to make money. A good one answers four questions. Why is this a good business? What will we change to make it worth more? What could go wrong? And who will buy it from us, and why?
+
+Notice that the thesis is not a description of the company. It is a claim about the future. It says that if certain things happen, in a certain order, the business will be worth substantially more in about five years.
+
+Tie that back to lesson 4, the three return levers: EBITDA growth, multiple expansion, and deleveraging. A thesis is really a story about those levers. A disciplined sponsor builds it mostly on EBITDA growth and cash generation, and treats a higher exit multiple as a bonus. So when you hear a thesis, listen for the EBITDA story, and then listen for what has to be true for that story to work.
+
+Now, where does the thesis come from? It was written before you had a say, during diligence, by deal team members using the information they had. That means it rests on assumptions. Some will be right. Some will be a little off. A few will be wrong.
+
+That is the job of the 100-day plan. The 100-day plan is the structured work program for roughly the first three months after closing. Its purpose is to do three things. Stabilize the business and protect what you bought. Test the assumptions in the thesis against reality. And launch the few initiatives that matter most. Some sponsors call the longer version a value creation plan, which usually runs the full hold period, three to five years. The 100-day plan is its opening chapter. Practice varies. Some firms draft the plan before closing, others build it with management in the first weeks, and in a founder-owned company it looks very different from a carve-out where you also have to separate systems. But the logic is the same.
+
+Let's make this concrete with an example from a freight brokerage.
+
+Say the sponsor buys a brokerage with twenty million dollars of adjusted EBITDA at ten times. That is an enterprise value of two hundred million dollars. Assume the sponsor funds it with one hundred million of debt and one hundred million of equity. We'll ignore fees to keep it simple.
+
+The thesis has three pillars. Pillar one: open new branches in underpenetrated regions, adding about five million dollars of EBITDA over five years. Pillar two: use better data and technology to raise gross profit per load and per sales rep, adding about four million. Pillar three: improve carrier sourcing and pricing discipline, adding about three million.
+
+Add those up. Twelve million dollars of new EBITDA, on top of the twenty, gives thirty-two million at exit.
+
+At the same ten times, that is an enterprise value of three hundred twenty million. Now suppose the company also pays down thirty million of debt, so debt falls from one hundred million to seventy. Equity value at exit is three hundred twenty minus seventy, which is two hundred fifty million. The sponsor put in one hundred million and gets back two hundred fifty. That is two and a half times its money.
+
+Remember lesson 3. Two and a half times over five years is roughly a twenty percent IRR. Over seven years, it is closer to fourteen. So the thesis carries a clock inside it. The sponsor is not only betting on twelve million dollars of new EBITDA. It is betting on getting it in time.
+
+Now the 100-day plan. Its job is to take each pillar and ask hard, practical questions. For each one: Who owns it? What is the metric? What has to be true in the first hundred days for this to stay on track? What does it cost? What does it do to cash? And what legal, compliance, or people constraint could slow it down?
+
+Take pillar one, the new branches. Your listener runs the startup branch business unit, so this is your world. The thesis says five million dollars of EBITDA. The 100-day plan has to make that real. You would define a standalone branch profit and loss, so that branch costs are not blended into the corporate number. Lesson 6 warned that blended startup costs are one of the add-backs buyers challenge. You would set a hiring plan, including how many brokers and in what order. You would estimate working capital, because lesson 8 told us that growth traps cash. A new branch that books ten million dollars of revenue is not just earning margin. It is also carrying receivables from shippers while paying carriers faster. So the branch case has to include that cash drag.
+
+Then you would check the constraints. Can the company recruit brokers from competitors without taking on avoidable litigation risk? Non-competes and trade secret claims are real issues in brokerage hiring, and enforceability of non-competes varies a lot by state. Are the licenses, bonding, and insurance in place for the new footprint? Does the credit agreement allow the capital spending and investment you need? Those are not side issues. If the thesis assumes forty new brokers in a year, and legal and recruiting can only safely onboard twenty-five, then the thesis has a gap, and the 100-day plan is where you want to find that out.
+
+Pillar two, data and technology, has its own early work. In the first hundred days you would agree on one set of definitions: what counts as gross profit per load, what counts as a productive rep, what counts as margin. You would check data quality, because a sponsor can only manage what it can measure, and a buyer later will test those same numbers. You would build a monthly reporting package that ties to the financial statements and to the lender's definitions. Lesson 7 told us that covenant calculations follow the credit agreement, not GAAP, so the reporting must reconcile.
+
+Pillar three, carrier sourcing and pricing, touches commercial teams, but marketing and legal matter here too. Customer concentration matters. So do contract terms, liability and indemnity language in shipper agreements, and carrier compliance records. Those affect risk, and risk affects the multiple, as we saw in lesson 10.
+
+So what is the pattern? A thesis is a handful of big claims. A 100-day plan breaks each into owners, metrics, milestones, costs, cash effects, and risks.
+
+Now, what does this mean for you as an operating executive in a PE-backed company? A few things.
+
+First, learn the thesis early, and ask for it directly. Many executives are told bits and pieces. Ask the sponsor, in a constructive way: "What are the three or four things that must go right for this investment to work, and where do you see the biggest risks?" That is a normal question. Good sponsors respect it, because it shows you think like an owner.
+
+Second, understand who is looking at what. The sponsor's deal team looks at whether the thesis is on track, and they will ask for early signs: hiring pace, margin trends, pipeline, customer wins. The board will see this in a regular cadence, usually monthly or quarterly. We'll cover governance next lesson. Lenders look at something different. They do not care about the sponsor's multiple of money. They care about cash, leverage, and compliance with the credit agreement. So a plan that is great for the thesis can still worry a lender if it burns cash or pushes leverage up. You need to be able to show both views.
+
+Third, remember that your functions are not support for the thesis. They are part of it. Legal and compliance determine whether the plan is executable. Recruiting determines how fast branches can scale. Data determines whether the story can be proven. Marketing influences customer mix and pricing power. When you present your area, do not talk about what you do. Talk about which thesis pillar you affect, what you need to deliver in the first hundred days, and what could slow it down.
+
+Fourth, expect your compensation and equity to be connected. Management equity plans often vest or pay out based on returns, as lesson 5 pointed out, so the thesis is not abstract. It is the path to your own outcome. Read the plan, and understand how it defines the hurdles.
+
+One more point on timing. The first hundred days is when you build credibility. The sponsor is forming a view of who is strong, who is candid, and who surprises them. Bringing a problem early, with a proposed fix, builds trust. Hiding it until the quarterly meeting does the opposite.
+
+Let's talk about common mistakes.
+
+Mistake one: treating the thesis as the sponsor's document, not yours. Some executives nod along, and then months later say the assumptions were unrealistic. By then, the board has seen the plan, lenders may have seen the model, and the bonus targets may be set. If you think a pillar is too aggressive, say so in the first weeks, with data and an alternative. That is much easier than resetting expectations after a missed quarter.
+
+Mistake two: trying to do everything. A 100-day plan with thirty priorities is not a plan. Most successful plans focus on a handful of priorities, with a clear owner for each. Basic foundations come first: reporting, controls, key hires, retention of critical people. Then the two or three initiatives that move the thesis. If your list is long, ask the sponsor which items truly drive value, and which can wait.
+
+Mistake three: ignoring cash and constraints. It is easy to build a plan around EBITDA. But recall lesson 8: in freight brokerage, growth can turn twenty million of EBITDA into very little free cash. And recall lesson 4: lenders are repaid in cash. If your branch plan or customer plan does not include working capital and payment terms, the plan is incomplete. The same goes for legal constraints, such as credit agreement baskets, licensing, and employment restrictions. Find them in the first hundred days, not in month nine.
+
+Let's pull this together.
+
+An investment thesis is the sponsor's specific argument for why the company is worth buying and how it will become worth more. It is usually built on EBITDA growth, cash generation, and a clear exit story, with multiple expansion treated as upside. It is written before you arrive, so it rests on assumptions.
+
+The 100-day plan is where those assumptions meet reality. It stabilizes the business, tests the thesis, and launches the few initiatives that matter most. For each pillar, you want an owner, a metric, a milestone, a cost, a working capital estimate, and a list of legal, compliance, and people constraints. And you want to present that in a way that works for the sponsor, the board, and the lenders.
+
+Your role as COO and General Counsel is not to wait for the thesis to reach you. It is to understand it, translate it into work, and tell the truth early about what it will take.
+
+Here is your question for today. If you had to write the sponsor's thesis for your company on one page, what would the three pillars be, and which one depends most on a part of the business you oversee?
+
+Next time, in lesson 12, we'll look at board governance in PE-backed companies, and how the people who approved the thesis oversee whether you are delivering it.
+
+Key takeaways:
+- An investment thesis is the sponsor's specific claim for why the company is worth buying and how it will grow in value, usually built on EBITDA growth and cash generation, with a higher multiple treated as a bonus.
+- The 100-day plan tests the thesis assumptions against reality and turns each pillar into an owner, metric, milestone, cost, working capital estimate, and list of legal, compliance, and people constraints.
+- Learn the thesis early, challenge unrealistic assumptions with data in the first weeks, and show how your functions affect each pillar in terms the sponsor, board, and lenders each care about.

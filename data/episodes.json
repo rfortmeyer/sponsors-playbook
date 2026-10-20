@@ -159,6 +159,22 @@
         "Executives influence where the company lands in the range by documenting customer concentration, compliance record, retention, data quality, and standalone branch economics, and by remembering that multiples shift with the freight cycle and credit markets."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 10,
+      "title": "The investment thesis and the 100-day plan",
+      "file": "lesson-11.mp3",
+      "bytes": 4233761,
+      "duration": "0:08:49",
+      "pub_date": "Tue, 20 Oct 2026 14:18:02 +0000",
+      "generated": "20261020141802",
+      "words": 2065,
+      "takeaways": [
+        "An investment thesis is the sponsor's specific claim for why the company is worth buying and how it will grow in value, usually built on EBITDA growth and cash generation, with a higher multiple treated as a bonus.",
+        "The 100-day plan tests the thesis assumptions against reality and turns each pillar into an owner, metric, milestone, cost, working capital estimate, and list of legal, compliance, and people constraints.",
+        "Learn the thesis early, challenge unrealistic assumptions with data in the first weeks, and show how your functions affect each pillar in terms the sponsor, board, and lenders each care about."
+      ],
+      "tts": "openai:default"
     }
   ]
 }
