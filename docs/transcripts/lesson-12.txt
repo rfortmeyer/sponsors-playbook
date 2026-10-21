@@ -1,0 +1,85 @@
+The Sponsor's Playbook
+Lesson 12: Board governance in PE-backed companies
+
+Welcome to The Sponsor's Playbook. This is lesson 12: Board governance in PE-backed companies.
+
+Picture this. It's Tuesday afternoon. Your head of the new branch unit has found a small brokerage in Texas that could be bought. The founder wants an answer by Friday. Your CEO loves it. The partner at the sponsor texted him, "Interesting, let's talk." Everyone is excited.
+
+Then you ask three questions. Who actually has to approve this? Does anyone else have a veto? And does the credit agreement even allow it?
+
+If nobody knows the answers, you have a governance problem. And in a PE-backed company, governance is not a formality. It is the machinery that decides who can say yes, who can say no, and in what order.
+
+Today we'll walk through that machinery.
+
+Start with what a board is. A board of directors is the group of people legally responsible for overseeing the company. Directors do not run daily operations. Management does that. The board hires and fires the CEO, approves the big strategic and financial moves, and oversees risk and controls.
+
+In a public company, the board represents a wide base of shareholders. In a PE-backed company, the board is much smaller and much closer to the owner. Typical sizes run from five to nine people, though it varies with the size of the deal.
+
+Who sits on it? Usually three groups. First, sponsor directors, people from the private equity firm who are designated by the sponsor. They might be partners, principals, or vice presidents. Second, the CEO, who almost always has a seat. And third, in many deals, independent directors. These are often industry veterans or former CEOs, sometimes called operating partners or board advisors when they work closely with the sponsor. Their value is judgment, and sometimes credibility with lenders and customers.
+
+The sponsor typically controls the board, either by having a majority of seats or by holding the right to appoint them. Those rights are written down in a document, usually called a stockholders agreement if the company is a corporation, or an LLC agreement if it is an LLC. Alongside it sit the charter and bylaws. If you're the General Counsel, those documents are your map. If you're the COO, learn at least the outline.
+
+Now, here's the part executives often miss. The board is only one gate. There are usually three.
+
+Gate one is the board itself. Most significant decisions require a board vote, according to a majority.
+
+Gate two is the set of consent rights, sometimes called reserved matters or protective provisions. These are specific actions that need the sponsor's approval, or sometimes a particular director's approval, even beyond a normal board vote. Common examples include approving the annual budget, taking on new debt, making acquisitions above a dollar threshold, issuing new equity, paying dividends, hiring or firing the CEO or CFO, settling major litigation, doing deals with affiliates, and changing auditors. The thresholds differ widely. A larger company might set an acquisition threshold at twenty or fifty million dollars. A smaller one might set it at one or two million.
+
+Gate three is outside the company's own documents entirely. It's the lenders. The credit agreement has negative covenants, which are limits on what the company may do without lender consent. Those cover things like additional debt, acquisitions, asset sales, dividends, and investments. Lenders do not sit on the board. But their agreement can block the same decisions the board approves. We touched on this in lesson 7, when we said covenant calculations follow the credit agreement, not GAAP. The same principle applies here. The credit agreement is its own rulebook.
+
+So a major decision has to clear the board, the sponsor consent rights, and the lender restrictions. Miss one, and the deal can stall, or worse, create a default or a legal violation.
+
+One more concept before the example: fiduciary duties. Directors owe duties of care and loyalty to the company and its stockholders. That includes the sponsor's designees. In a company with management holding equity, the directors' duties run to all stockholders, not just the sponsor. Most PE-backed companies are Delaware entities, so Delaware law usually frames this, though your documents will say. That creates real tension when the sponsor's interest and the company's interest diverge, for example in a transaction between the company and another sponsor portfolio company. Good governance means those situations are flagged, disclosed, and handled by process, often with independent directors or a conflicts review.
+
+Now let's make this concrete with an example.
+
+Say your freight brokerage has forty million dollars of adjusted EBITDA and one hundred forty million dollars of debt. That's three and a half times leverage, to use the language from our earlier lessons.
+
+The target is that Texas brokerage. It earns three million dollars of EBITDA. The founder wants twelve million dollars, which is four times EBITDA. You plan to pay for it with eight million dollars drawn from your revolving credit facility and four million dollars of cash on the balance sheet.
+
+Step one, the board. Let's say the board has five people: three from the sponsor, the CEO, and one independent. The stockholders agreement says any acquisition over five million dollars needs board approval. Twelve is over five. So it goes to the board.
+
+Step two, the sponsor consent right. Suppose the same agreement also says acquisitions over ten million dollars need the written consent of the sponsor, separate from the board vote. Twelve is over ten. So the board vote isn't enough by itself. You need that consent documented.
+
+Step three, the lenders. Suppose the credit agreement permits acquisitions up to five million dollars a year without asking. Twelve million is more than that. So you either need lender consent or an amendment, or you structure the purchase to fit inside a permitted acquisition basket, if one exists with conditions you can meet.
+
+Now the math lenders will run. Debt goes from one hundred forty to one hundred forty-eight million, because of the eight million drawn on the revolver. EBITDA, on a pro forma basis, goes from forty to forty-three million, if the lender lets you include the target's earnings. Debt over EBITDA is about three and four-tenths times. That's actually a bit lower than where you started, so the leverage story is good. But note the dependency: the lender has to accept the target's EBITDA. Remember lesson 6. If lenders cut the add-backs in the target's numbers, say by one million dollars, EBITDA is forty-two, not forty-three, and the ratio ticks up. Still fine here, but in a tighter deal that could matter.
+
+Notice also the four million dollars of cash. If your liquidity is thin, or if cash is needed for working capital because the acquired brokerage's receivables are bigger than its payables, the board will ask about that. Lesson 8 applies here. A twelve-million-dollar purchase price is not the whole cost. Working capital and integration costs sit on top.
+
+So here is the sequence that works. Before the board meeting, the deal team and management walk the sponsor's deal lead through it informally. This is often called pre-wiring. Then the lender is approached early, because consent can take weeks. Then the board meets, with a clear memo. Then the consent paperwork is signed, then the lender documents, and only then does the company sign the purchase agreement. Get that order wrong, say by signing first and asking the lender later, and you may find yourself with a binding deal and no permission to close.
+
+Now, what does this mean for you as COO and General Counsel?
+
+First, know the authority matrix. That's the list of who can approve what, at what dollar level. Some companies have a formal delegation of authority. If yours doesn't, build one. It should cover contracts, hires, capital spending, branch openings, legal settlements, and insurance. A startup branch is a good test case. If a new branch needs a lease commitment of two million dollars over five years, does that require a board vote, a sponsor consent, or neither? You want to know before you sign.
+
+Second, think about how each audience reads your request. The sponsor is asking, does this advance the thesis, and what does it do to cash and returns? The board is asking, is the process sound, and are the risks understood? The lenders are asking, does this affect cash, leverage, collateral, and covenants? One memo can serve all three if you structure it right: the decision requested, the alternatives, the cost, the working capital need, and the legal and compliance constraints.
+
+Third, as General Counsel, you are usually the company's lawyer, not the sponsor's lawyer. That distinction matters. Attorney-client privilege protects communications with the company's counsel. When sponsor directors receive privileged advice in their board role, privilege generally can remain intact. But what happens when that information moves to the sponsor firm's own staff, or to other portfolio companies, can be less clear, and it depends on the facts and the jurisdiction. Be deliberate about what you put in board materials, how legal advice is labeled, and who sees it.
+
+Fourth, minutes and records matter. Board minutes are a legal record. They should capture decisions and key considerations, not every comment. Too little looks careless. Too much creates a transcript that someone will read aloud in a dispute or a diligence review. Buyers and lenders both ask for them.
+
+Fifth, no surprises. Directors forgive bad news delivered early. They do not forgive bad news delivered late. If a compliance issue, a major customer dispute, or a safety incident surfaces, the sponsor expects a call before the next board deck.
+
+Let's talk about common mistakes.
+
+The first is treating the board meeting as a status report. Boards are for decisions, risk oversight, and strategy. If your materials are long on updates and short on asks, you waste the room. Lead with what you need decided.
+
+The second is confusing a sponsor's enthusiasm with authorization. A text from a partner that says "sounds good" is not a board approval or a consent right exercised. Sponsor directors can only act formally, through the board or through written consent as your documents require. If management acts on a hallway comment, you may exceed authority, and the paperwork will not support you later. As General Counsel, make the formal step routine and quick, so nobody is tempted to skip it.
+
+The third is forgetting the lenders. Executives think about the board and the sponsor, and then find out in week three that the credit agreement blocked the move. Build a habit: before any significant decision, check the covenant package. Debt, liens, investments, acquisitions, dividends, affiliate deals. A five-minute check can save a month.
+
+A smaller fourth one, if you're the General Counsel: don't let conflicts go unmanaged. If a sponsor-affiliated company wants to do business with your company, surface it, document the terms, and get the right approvals. These deals can be perfectly fine. Undisclosed ones are what create trouble.
+
+Let's recap.
+
+A PE-backed board is small, sponsor-influenced, and decision-focused. Its powers come from the stockholders agreement or LLC agreement, the charter, and the bylaws. Big decisions pass through up to three gates: a board vote, sponsor consent rights, and lender restrictions in the credit agreement. In our example, a twelve-million-dollar acquisition cleared the board threshold, triggered a sponsor consent, and exceeded the lender's acquisition basket. The leverage math looked fine, but the order of operations mattered. For you, the practical work is knowing the authority matrix, writing decision memos that serve the sponsor, the board, and the lenders, protecting privilege, keeping clean minutes, avoiding surprises, and never assuming an informal yes is a formal one.
+
+Here's your question for today. Think about the last three significant decisions your team made, such as a big contract, a new branch lease, or a key hire. For each one, could you name every gate it had to clear, and in what order? If not, which one would you want to map first?
+
+Next time, in lesson 13, we'll look at the monthly reporting package, KPIs, and flash reports, the numbers that feed every board conversation.
+
+Key takeaways:
+- A PE-backed board is small and sponsor-influenced, and significant decisions often clear three separate gates: a board vote, sponsor consent rights (reserved matters), and lender restrictions in the credit agreement.
+- Know your authority matrix and the order of approvals, because a hallway "yes" from the sponsor is not formal authorization, and signing before lender consent can leave you bound but unable to close.
+- Write decision memos that serve the sponsor, board, and lenders at once, keep minutes and privileged advice handled deliberately, and bring bad news before the next board meeting, not at it.

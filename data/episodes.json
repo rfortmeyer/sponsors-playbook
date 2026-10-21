@@ -175,6 +175,22 @@
         "Learn the thesis early, challenge unrealistic assumptions with data in the first weeks, and show how your functions affect each pillar in terms the sponsor, board, and lenders each care about."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 11,
+      "title": "Board governance in PE-backed companies",
+      "file": "lesson-12.mp3",
+      "bytes": 5178558,
+      "duration": "0:10:47",
+      "pub_date": "Wed, 21 Oct 2026 14:38:33 +0000",
+      "generated": "20261021143833",
+      "words": 2027,
+      "takeaways": [
+        "A PE-backed board is small and sponsor-influenced, and significant decisions often clear three separate gates: a board vote, sponsor consent rights (reserved matters), and lender restrictions in the credit agreement.",
+        "Know your authority matrix and the order of approvals, because a hallway \"yes\" from the sponsor is not formal authorization, and signing before lender consent can leave you bound but unable to close.",
+        "Write decision memos that serve the sponsor, board, and lenders at once, keep minutes and privileged advice handled deliberately, and bring bad news before the next board meeting, not at it."
+      ],
+      "tts": "openai:default"
     }
   ]
 }
