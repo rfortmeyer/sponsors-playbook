@@ -14,6 +14,25 @@
     <itunes:type>serial</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>13. The monthly reporting package, KPIs, and flash reports</title>
+      <description>Module 2: Operating inside a portfolio company.
+
+Key takeaways:
+- The monthly package combines the statements, an adjusted EBITDA bridge, cash and covenant tracking, and a few well-defined KPIs, and each audience (sponsor, board, lender) reads it for something different.
+- A flash report is judged by how close it lands to the final number, so build a repeatable estimating method, label it preliminary, and track flash-to-final variance every month.
+- Keep KPI definitions written and stable, tie every number to a source system, and reconcile every version of EBITDA and cash across board, lender, and diligence materials.
+
+Transcript: https://rfortmeyer.github.io/sponsors-playbook/transcripts/lesson-13.txt</description>
+      <enclosure url="https://rfortmeyer.github.io/sponsors-playbook/episodes/lesson-13.mp3" length="5817617" type="audio/mpeg"/>
+      <guid isPermaLink="false">sponsors-playbook-13-20261022144007</guid>
+      <pubDate>Thu, 22 Oct 2026 14:40:07 +0000</pubDate>
+      <itunes:duration>0:12:07</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>12. Board governance in PE-backed companies</title>
       <description>Module 2: Operating inside a portfolio company.
 

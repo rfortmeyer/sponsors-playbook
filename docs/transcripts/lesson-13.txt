@@ -1,0 +1,103 @@
+The Sponsor's Playbook
+Lesson 13: The monthly reporting package, KPIs, and flash reports
+
+Welcome to The Sponsor's Playbook. This is lesson 13: The monthly reporting package, KPIs, and flash reports.
+
+Picture this. It's the third business day of the month, and your CFO sends the sponsor a quick note. Revenue is strong. Gross profit is solid. EBITDA is about one point eight million dollars, just under budget. The operating partner replies with a thumbs up.
+
+Twelve days later the full package goes out, and EBITDA is one point four million. Late carrier invoices came in. A commission accrual was trued up. A claims reserve moved. Nothing was hidden, but the operating partner's next email is short: "What else should I expect to move?"
+
+That question is what this lesson is about. Reporting is how a sponsor decides whether to trust you. Today we cover the monthly reporting package, the KPIs inside it, and the flash report that arrives before it.
+
+Start with the package. The monthly reporting package is the standard set of financial and operating information that management sends to the board, the sponsor, and usually the lenders after each month closes. Credit agreements commonly require monthly financials within thirty days or so of month end, with quarterly and annual deadlines on top. The exact timing varies by deal, so check yours.
+
+A good package usually has six parts.
+
+First, an executive summary with commentary. This is a page or two that says what happened, why, and what you're doing about it.
+
+Second, the three statements from Lesson 7: income statement, balance sheet, and cash flow. The income statement is shown against budget, against last year, and often against the latest forecast.
+
+Third, an adjusted EBITDA bridge, from Lesson 6. This takes net income to the adjusted number, with every add-back listed and documented.
+
+Fourth, cash and liquidity. That means cash on hand, revolver availability, receivables aging, and the working capital movement from Lesson 8.
+
+Fifth, covenant tracking. That's an estimate of where you stand on the financial tests in the credit agreement, calculated the way the agreement defines them, not the way your accounting software does.
+
+Sixth, the KPIs, plus updates on major initiatives, legal matters, and people.
+
+Now KPIs. A key performance indicator is a metric chosen because it tells you early whether the business is on track. The word "key" matters. If you track sixty, you're tracking none.
+
+It helps to separate lagging indicators from leading ones. Lagging indicators, like EBITDA and revenue, tell you what already happened. Leading indicators tell you what is probably coming.
+
+In a freight brokerage, the core lagging numbers are loads, revenue, gross profit, which many brokers call net revenue, and gross margin percentage. Gross profit per load is the one sponsors watch closely, because it shows whether you're earning your spread or buying volume. Then come the cash measures: days sales outstanding, which is how long shippers take to pay, and days payable outstanding, which is how fast you pay carriers. Lesson 8 showed why those two drive cash in a growing broker.
+
+The leading numbers are things like new customer wins, quote-to-win rate, contract versus spot mix, sales rep productivity, and the share of revenue from your top ten customers. For a new branch, add the ramp curve. That's gross profit per rep by month since hire, cumulative investment, and projected breakeven month.
+
+There are also numbers that belong to your world specifically. Cargo claims as a percent of revenue. Carrier vetting exceptions. Fraud or double-brokering incidents. Voluntary turnover among reps. Time to fill open roles. A sponsor doesn't usually ask about these until something goes wrong, and then it asks about them first.
+
+Two rules make a KPI trustworthy. One is a written definition. What exactly counts as a load? Is gross profit before or after claims? Is a rep "ramped" at six months or nine? The other is reconciliation. The KPI has to tie back to the general ledger or the transportation management system, and everyone has to agree which source wins.
+
+Now the third piece, the flash report. A flash is an early, rough read on the month, usually delivered in the first three to five business days, before the books fully close. It is not a mini version of the package. It's a short list of the numbers that matter most: revenue, gross profit, estimated EBITDA, cash, revolver availability, and maybe loads and gross profit per load.
+
+Why do sponsors want it? Because waiting two to three weeks to learn the month went badly is too slow. If something is off, the sponsor wants to hear it while there's still time to act, and before a lender call or a board meeting surprises them.
+
+Flashes are estimates by design. But there's a standard attached. A flash is judged by how close it lands to the final number. Many teams aim for a gap of a couple of percent on EBITDA. Practice varies by company size and how clean the close is. What matters is that the flash is consistently reliable, and that it's labeled preliminary.
+
+Let's work an example, with simple numbers.
+
+Your brokerage had a flash on business day three. Revenue was forty million dollars. Gross profit was six million, which is a fifteen percent margin. Operating expenses were four point two million. So estimated EBITDA was one point eight million. Budget for the month was one point nine.
+
+Now the close finishes. Gross profit comes in at five point seven million, three hundred thousand lower. Why? Carrier invoices on delivered loads kept arriving after the flash. The flash had used the rate quoted at booking. But carriers had added detention, lumper fees, and reweigh charges. The cost wasn't in the books yet, so gross profit looked better than it was.
+
+Operating expenses also rise, from four point two to four point three million. A hundred thousand more. Sales commissions were accrued on the flash gross profit, then corrected at close, and a legal accrual was added for a dispute that firmed up late in the month.
+
+So final EBITDA is five point seven minus four point three. That's one point four million. The flash said one point eight. The gap is four hundred thousand dollars, which is about twenty-two percent of the flash number.
+
+Walk through what that costs. Say your net debt is seventy-two million and trailing twelve-month EBITDA is twenty million. That's net leverage of three point six times. Suppose the credit agreement requires you to stay below four times. At four times, EBITDA could fall to eighteen million before you breach. So your cushion is about two million dollars of EBITDA, or ten percent.
+
+A four hundred thousand dollar surprise takes a fifth of that cushion in one month. If that pattern repeated, you'd have a covenant conversation that nobody planned. And even if it doesn't, the sponsor now discounts every flash you send.
+
+What's the fix? Not a bigger disclaimer. The fix is process. For the flash, estimate carrier cost on delivered but uninvoiced loads using your historical accessorial rate, say, the average percentage by which final carrier cost exceeds booked cost over the last six months. Accrue commissions on the same basis the close will use. Include a line for known legal and claims items. Then, each month, compare flash to final, write down why they differed, and adjust. After a few months, the gap shrinks, and so does the surprise.
+
+Notice what happened here. The business didn't change between flash and final. Only the estimate did. And the cost was still real: cushion used, trust spent.
+
+Now, what does all this mean for you as COO and General Counsel?
+
+First, understand who reads the package and how. The sponsor reads it for variance to budget and forecast, cash conversion, and whether management saw the problem before the sponsor did. The board reads it for trends, risks, and decisions. Lenders read it differently. They want liquidity, covenant compliance, and borrowing base data. Many credit agreements require a compliance certificate with the financials, signed by a financial officer, stating that the covenants are met and no default exists. Statements in it can carry legal weight. So as General Counsel, you should know what's being certified and whether anything in your area, such as a pending claim or a regulatory issue, bears on it.
+
+Second, each of your functions has a place in the package, and it should be numbers, not narrative. For legal and compliance, that's claims, reserves, open disputes with dollar ranges, carrier vetting exceptions, and regulatory matters. Be careful with commentary on litigation. Write it so it informs without waiving privilege, and agree with outside counsel and the CFO how reserves and disclosures are phrased.
+
+For recruiting, it's headcount against plan, time to fill, offer acceptance, and rep turnover. Recruiting is a leading indicator for gross profit. A rep hired this month produces meaningfully only after ramping.
+
+For the new branch unit, it's a standalone branch view. Remember from Lesson 6 that blended startup costs invite challenge. If branch economics are mixed into the consolidated numbers, a buyer or lender will separate them anyway. Show the branch on its own: revenue, gross profit, direct costs, cumulative investment, and months to breakeven versus plan.
+
+For data and development, your job is the definitions and the pipeline. One source of truth for each KPI, documented lineage, and automated flash numbers where possible. Manual spreadsheets are where flash errors live.
+
+For marketing, it's pipeline, cost to acquire a customer, and gross profit from newly won accounts, not just leads.
+
+Third, write commentary that explains why, not what. The reader can see revenue is up three percent. They need to know whether that's volume, price, or mix, and whether it will continue. Then say what you're doing, and update the forecast if the month changes the outlook.
+
+Now, three common mistakes.
+
+The first is treating the flash as final, or the reverse, sending a flash with no basis. If the flash is a guess, label it as one and explain the method. If it's reliable, prove that by tracking flash-to-final variance. Either way, never let a flash number get quoted to a lender or a buyer as if it were closed.
+
+The second is KPI drift. Definitions change quietly. Gross profit per load starts excluding claims, or "ramped rep" shifts from six months to nine. Each change may be defensible. Together they make trends meaningless and invite a diligence team to say your numbers can't be compared. Keep a definitions page, and when you change one, restate history and say so.
+
+The third is inconsistency across audiences. The board deck, the lender package, and the package used for the quality of earnings review each show a slightly different EBITDA or cash number. Lesson 7 said to keep the statements, board reports, and lender definitions reconciled. This is where that discipline pays off. Different views are fine, but only if one bridge connects them all.
+
+There's a fourth worth a quick mention: burying bad news in the middle of page twelve. Lesson 12 said to bring bad news before the board meeting, not at it. The package should reinforce that. Put the issue in the summary, with a number and a plan.
+
+Let's recap.
+
+The monthly package is the formal record of how the business performed. It includes the statements, the adjusted EBITDA bridge, cash and liquidity, covenant tracking, and KPIs, and it often has contractual deadlines. KPIs should be few, defined in writing, and tied to the ledger or source system, with a mix of leading and lagging measures. The flash is an early estimate whose value depends on how close it lands to final. In our example, a four hundred thousand dollar miss used a fifth of covenant cushion and cost credibility, and it was fixed with a better estimating method, not an apology.
+
+For you, the job is to give each function a short set of trusted numbers, write commentary that explains why, and keep every version of the story reconciled.
+
+Here's your question for today. If you had to put your function's contribution to next month's package on one page, with only three numbers the sponsor would trust, which three would you pick, and where would each one come from?
+
+Next time, in Lesson 14, we'll look at budgeting and forecasting to sponsor and lender standards.
+
+Key takeaways:
+- The monthly package combines the statements, an adjusted EBITDA bridge, cash and covenant tracking, and a few well-defined KPIs, and each audience (sponsor, board, lender) reads it for something different.
+- A flash report is judged by how close it lands to the final number, so build a repeatable estimating method, label it preliminary, and track flash-to-final variance every month.
+- Keep KPI definitions written and stable, tie every number to a source system, and reconcile every version of EBITDA and cash across board, lender, and diligence materials.

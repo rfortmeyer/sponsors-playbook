@@ -191,6 +191,22 @@
         "Write decision memos that serve the sponsor, board, and lenders at once, keep minutes and privileged advice handled deliberately, and bring bad news before the next board meeting, not at it."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 12,
+      "title": "The monthly reporting package, KPIs, and flash reports",
+      "file": "lesson-13.mp3",
+      "bytes": 5817617,
+      "duration": "0:12:07",
+      "pub_date": "Thu, 22 Oct 2026 14:40:07 +0000",
+      "generated": "20261022144007",
+      "words": 2055,
+      "takeaways": [
+        "The monthly package combines the statements, an adjusted EBITDA bridge, cash and covenant tracking, and a few well-defined KPIs, and each audience (sponsor, board, lender) reads it for something different.",
+        "A flash report is judged by how close it lands to the final number, so build a repeatable estimating method, label it preliminary, and track flash-to-final variance every month.",
+        "Keep KPI definitions written and stable, tie every number to a source system, and reconcile every version of EBITDA and cash across board, lender, and diligence materials."
+      ],
+      "tts": "openai:default"
     }
   ]
 }
