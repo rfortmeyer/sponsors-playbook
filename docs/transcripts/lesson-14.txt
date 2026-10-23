@@ -1,0 +1,77 @@
+The Sponsor's Playbook
+Lesson 14: Budgeting and forecasting to sponsor and lender standards
+
+Welcome to The Sponsor's Playbook. This is lesson 14: Budgeting and forecasting to sponsor and lender standards.
+
+Picture this. It's late November. Your CFO sends a draft budget for next year. Revenue is up ten percent, EBITDA is up fifteen, and every function head signed off. You feel fine about it.
+
+Then the sponsor's operating partner reads it and asks three questions. Where is the cash? How much room do we have under the leverage covenant if freight margins slip? And why does the new branch plan assume every branch hits breakeven in month nine, when your own history says month fourteen?
+
+Nobody has an answer ready. The budget isn't wrong exactly. It just wasn't built to be read by these three audiences: the sponsor, the board, and the lenders. Today is about building one that is.
+
+Let's start with terms, because people use them loosely.
+
+A budget is the approved plan for the coming year. It's a commitment. The board approves it, and it becomes the yardstick for performance and often for bonuses. A forecast is different. A forecast is your best current estimate of where you will actually land. The budget is set once. The forecast moves.
+
+In a PE-backed company, you run both, plus a third thing: the cash forecast. The most common version is the thirteen-week cash flow forecast. It's a week-by-week projection of cash in and cash out for the next quarter. Lenders love it, and sponsors lean on it hard when liquidity gets tight.
+
+Now, what does "sponsor standard" mean? Think about what the sponsor already has. When they bought the company, they built a model. That model contains the investment thesis from lesson 11, with growth, margin, and cash generation assumptions. Your budget is the first yearly installment of that model. So the sponsor reads your budget by asking, is this on track with the thesis? And if it's not, is the gap explained, or hidden?
+
+Sponsors want a few things. They want a budget built bottoms-up from operating drivers, not a number someone reverse-engineered to hit a target. They want a bridge from last year's EBITDA to next year's EBITDA, the same kind of bridge we talked about in lesson 6. They want free cash flow, not just EBITDA, which is lesson 8. And they want to know the risks and what you'd do about them.
+
+Now "lender standard." Lenders care less about upside and more about downside. Your credit agreement almost certainly has financial covenants. A common one is a maximum leverage ratio, meaning total debt, or net debt, divided by adjusted EBITDA as defined in the credit agreement. Some have a minimum fixed charge coverage ratio instead. Which one you have, and how tight it is, varies by deal size and by lender type. Larger syndicated loans are often "covenant-lite," with a springing covenant that only applies when the revolver is drawn past a threshold. Middle-market direct lending deals more often have maintenance covenants tested every quarter.
+
+Either way, the lender wants to see a forecast showing you stay in compliance, and they care about headroom. Headroom, sometimes called cushion, is how far EBITDA could fall before you breach. At closing, covenants are commonly set with a cushion of roughly twenty to thirty-five percent to the sponsor's model, though that range moves with the credit cycle and the deal. Over time, that cushion can shrink as the business misses plan or as covenants step down.
+
+Remember too that lenders look at liquidity. If you have an asset-based revolver, available borrowing depends on eligible receivables. In freight brokerage that's a big deal, because receivables are your main collateral, and growth consumes cash before it generates it. That's the working capital drag from lessons 7 and 8.
+
+Let me walk through an example with simple numbers.
+
+Say you run a freight brokerage with a budget of four hundred million dollars in revenue next year. That's up ten percent from three hundred sixty million. Gross margin, meaning revenue minus what you pay carriers, is fifteen percent. That's sixty million dollars of net revenue. Operating expenses, including people, technology, marketing, legal, and the new branches, come to forty-five million. Budgeted EBITDA is fifteen million.
+
+Step one is cash. The extra forty million in revenue needs working capital. Say shippers pay you in about forty days, and you pay carriers in about thirty. The extra receivables are about four and a half million dollars. The extra carrier payables are around three million, since carrier costs are about eighty-five percent of revenue. Net, growth soaks up roughly one and a half million dollars of cash. Not a disaster, but it's real, and it belongs in the budget.
+
+Step two is leverage. Suppose you start the year with fifty-two million dollars of net debt. After the working capital build, interest, taxes, and capex, you end the year around fifty-four million. Fifty-four divided by fifteen is three point six times.
+
+Step three is the covenant. Suppose the maximum leverage ratio is four point five times. At fifty-four million of debt, the minimum EBITDA you can have and stay compliant is twelve million. Your budget says fifteen. So you have three million dollars of cushion, which is twenty percent of budgeted EBITDA.
+
+Step four is the downside. This is the step lenders will do themselves, so do it first. Ask what happens if gross margin slips by one percentage point, from fifteen percent to fourteen. On four hundred million of revenue, one point is four million dollars. EBITDA drops from fifteen to eleven. Eleven million against fifty-four million of debt is about four point nine times. You've breached.
+
+So a one-point margin move wipes out your cushion and then some. And one point of margin in freight is not exotic. Spot rates can move that much in a quarter, especially when carrier capacity tightens and you pay more for loads you've already priced to shippers.
+
+Step five is your response plan. What could you do? You could slow hiring in the new branches. You could tighten pricing discipline on contract freight. You could defer some marketing spend. Say that's worth two million dollars of EBITDA protection. Now EBITDA is thirteen million, which is back above twelve. You're compliant, but with thin cushion. Some credit agreements allow an equity cure, where the sponsor can inject equity to fix a breach, but whether that exists, how often you can use it, and how it counts all depend on your documents. You never want to plan around it.
+
+Notice what we did. We didn't just produce a point estimate. We produced a base case, a downside case, a list of levers, and a clear line: this is where the covenant bites. That's the package a sponsor and lender both respect.
+
+So what does this mean for you, as COO and General Counsel?
+
+First, own the driver assumptions for your functions, because they sit inside the budget. Recruiting drives headcount timing, and headcount is your biggest cost. If the plan assumes thirty sales hires by March and your recruiting pipeline says June, the budget is overstated on cost but also overstated on revenue. Say so early. Marketing owns customer acquisition cost assumptions. Data and development owns the split between operating expense and capitalized software, which affects EBITDA, capex, and cash differently. And the new branch unit needs its own ramp curve, using actual branch history, not a hopeful straight line. Remember from lesson 6 that blended branch costs get challenged, so budget each branch separately.
+
+Second, legal and compliance have budget lines people forget. Outside counsel spend, claim and litigation reserves, cargo claims, insurance renewals, which can move a lot in a hard market, audit and regulatory costs, and any settlements you can see coming. Flag known contingencies in the budget process. If a legal exposure is likely and you didn't surface it, the surprise lands on the forecast mid-year and your credibility takes the hit.
+
+Third, understand the approval path, because lesson 12 applies directly. In many PE-backed companies, the annual budget is a board approval and a reserved matter, and spending outside the approved budget beyond some threshold needs consent. Lenders may also require delivery of the annual budget within a set number of days after year-end or fiscal-year start, and a compliance certificate each quarter. Know those dates and thresholds. If your credit agreement requires budget delivery by a specific day, that's a legal deadline, not a courtesy.
+
+Fourth, understand how each audience reads it. The sponsor reads for the thesis: growth, margin expansion, cash conversion, and whether you're sandbagging or stretching. The board reads for risk and for decisions it must make: investments, hiring, capital needs. The lender reads for compliance, liquidity, and downside protection. Write the budget narrative so one set of numbers serves all three. And keep the definitions identical to what's in your monthly package from lesson 13. If the budget uses one version of EBITDA and the covenant uses another, build the reconciliation before someone asks.
+
+Fifth, after the budget is approved, forecasting becomes the real discipline. Most PE-backed companies refresh the forecast monthly or quarterly, often as a rolling twelve-month view, and sponsors prefer that you say "we're tracking to eleven million, and here's why" early rather than defend a budget that's clearly gone. Update the forecast with a bridge from the prior one: what changed, why, and what you're doing.
+
+Now, common mistakes.
+
+Mistake one: building the budget top-down to match the sponsor model, with no one actually owning the numbers. It looks tidy, but when reality diverges, nobody can explain the gap. Every major line should have a named owner, a driver, and a source system behind it.
+
+Mistake two: budgeting EBITDA and stopping. As lessons 7 and 8 showed, a freight brokerage can grow EBITDA and still burn cash. If your budget doesn't include working capital, capex, interest, taxes, covenant calculations, and revolver availability, it isn't a sponsor or lender budget. It's an income statement forecast.
+
+Mistake three: padding or hoping. Padding means sandbagging the budget so you can beat it. Experienced sponsors see through it, and it distorts decisions. Hoping means assuming everything goes right: branches ramp early, margins hold, hires land on time. The fix is the same. Build a base case you honestly believe, a downside you've stress-tested, and a list of levers you can pull. And don't wait for the quarter to end to tell people the forecast moved.
+
+Let's recap.
+
+A budget is the approved annual commitment. A forecast is your current best estimate. A cash forecast, often thirteen weeks, shows liquidity. The sponsor reads your budget against the investment thesis. The board reads it for risk and decisions. The lender reads it for covenant compliance, headroom, and liquidity. In our freight example, fifteen million of budgeted EBITDA looked comfortable against a twelve million minimum, until a single point of gross margin turned it into a breach. That's why you build base, downside, and levers, include working capital, and know your credit agreement's definitions. Own your functional assumptions, flag legal and people risks early, and update the forecast with a clear bridge.
+
+Here's your question for today. If your gross margin per load dropped one point next quarter, which number would break first, your covenant, your revolver availability, or your sponsor's patience? And what would you tell them, and when?
+
+Next time, in lesson 15, we'll look at management incentive plans: equity, options, vesting, and ratchets.
+
+Key takeaways:
+- A budget is the approved annual commitment and a forecast is your current best estimate; in a PE-backed company you also need a cash forecast, and all three must use definitions that reconcile to the credit agreement and the monthly package.
+- Sponsors read your budget against the investment thesis, boards read it for risk and decisions, and lenders read it for covenant headroom and liquidity, so build a base case, a stress-tested downside, and a list of levers.
+- In a freight brokerage, a one-point gross margin slip or a working capital build can erase covenant cushion, so budget cash and leverage, not just EBITDA, and flag people, branch, and legal risks early with a bridge each time the forecast changes.

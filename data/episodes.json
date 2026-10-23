@@ -207,6 +207,22 @@
         "Keep KPI definitions written and stable, tie every number to a source system, and reconcile every version of EBITDA and cash across board, lender, and diligence materials."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 13,
+      "title": "Budgeting and forecasting to sponsor and lender standards",
+      "file": "lesson-14.mp3",
+      "bytes": 5500595,
+      "duration": "0:11:28",
+      "pub_date": "Fri, 23 Oct 2026 14:10:22 +0000",
+      "generated": "20261023141022",
+      "words": 1910,
+      "takeaways": [
+        "A budget is the approved annual commitment and a forecast is your current best estimate; in a PE-backed company you also need a cash forecast, and all three must use definitions that reconcile to the credit agreement and the monthly package.",
+        "Sponsors read your budget against the investment thesis, boards read it for risk and decisions, and lenders read it for covenant headroom and liquidity, so build a base case, a stress-tested downside, and a list of levers.",
+        "In a freight brokerage, a one-point gross margin slip or a working capital build can erase covenant cushion, so budget cash and leverage, not just EBITDA, and flag people, branch, and legal risks early with a bridge each time the forecast changes."
+      ],
+      "tts": "openai:default"
     }
   ]
 }
