@@ -223,6 +223,22 @@
         "In a freight brokerage, a one-point gross margin slip or a working capital build can erase covenant cushion, so budget cash and leverage, not just EBITDA, and flag people, branch, and legal risks early with a bridge each time the forecast changes."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 14,
+      "title": "Management incentive plans: equity, options, vesting, and ratchets",
+      "file": "lesson-15.mp3",
+      "bytes": 2854705,
+      "duration": "0:05:57",
+      "pub_date": "Mon, 26 Oct 2026 16:13:36 +0000",
+      "generated": "20261026161336",
+      "words": 2236,
+      "takeaways": [
+        "Incentive equity, whether options, restricted stock, or profits interests, is a share of value created above a threshold, so its worth depends on the waterfall, debt, and any preferred stock, and it swings sharply with exit value.",
+        "Vesting, performance hurdles, ratchets, leaver terms, and acceleration decide who actually earns what, so definitions like cause and adjusted EBITDA need to be precise and stable.",
+        "As COO and General Counsel, keep promises tied to board-approved documents, check repurchase and payout obligations against the credit agreement, and hold back pool capacity for key hires."
+      ],
+      "tts": "openai:default"
     }
   ]
 }

@@ -1,0 +1,93 @@
+The Sponsor's Playbook
+Lesson 15: Management incentive plans: equity, options, vesting, and ratchets
+
+Welcome to The Sponsor's Playbook. This is lesson 15: Management incentive plans: equity, options, vesting, and ratchets.
+
+Picture this. You're three months into a new role at a freight brokerage that a sponsor just bought. Your best branch leader calls you. A competitor offered her a big salary bump, and she wants to know what equity she'd get if she stays. Then the CEO says the sponsor will "take care of the team." Nobody has shown you a document yet.
+
+What do you tell her? What can you promise? What will it be worth in five years? If you can't answer those three questions, you aren't ready for this conversation. Today we fix that.
+
+Start with the basic idea. A management incentive plan, usually called an MIP, gives managers a share of the increase in the company's equity value. The sponsor wants your interests tied to its own. You get paid well if the sponsor makes money, and you get little if it doesn't. Remember lesson 9. Equity is what's left after debt and other senior claims. Because of that, a modest change in enterprise value moves equity value a lot. Incentive equity sits on the same lever. It can be worth a great deal or almost nothing.
+
+Now the vocabulary. There are a few forms this takes, and which one you get depends mostly on how the company is organized.
+
+The first is stock options. An option is the right to buy a share later at a fixed price, called the strike price. The strike is usually set at the current fair market value when the option is granted. If the share price rises above the strike, you profit on the difference. If it doesn't, the option is worth nothing. Options are common when the company is a corporation. In the US, a corporation generally needs an independent valuation to set that strike, so the option doesn't create a tax problem.
+
+The second is restricted stock. That's actual shares, usually bought at fair value, that are subject to vesting. Managers sometimes buy them with their own money, and sometimes sign a note. People often confuse this with rollover equity. Rollover is different. It's when a founder or executive sells the company and reinvests part of the proceeds into the new deal. That's real money at risk, and it usually sits alongside the sponsor's own investment. Incentive equity is the extra layer on top.
+
+The third is profits interests. Many portfolio companies are LLCs or partnerships for tax purposes. There, the usual tool is a profits interest. It works like an option in economics. It shares only in value created above a threshold set on the grant date, so it has no value for today's equity, just for growth after it. The tax treatment can be favorable, but the details matter. Your tax counsel should own them.
+
+Next, how big is the pool? Practice varies by deal size, sector, and the maturity of the company. A common range is somewhere between five and fifteen percent of fully diluted equity, with about ten percent a typical anchor. Smaller deals and earlier-stage businesses often reserve more. Larger, more mature companies often reserve less. "Fully diluted" means counting all shares plus all options and other rights as if exercised. Keep that phrase in mind, because it matters for the math.
+
+Now vesting. Vesting is the schedule that decides when your grant becomes yours. There are two main kinds.
+
+Time vesting means you earn the grant as you stay. A typical schedule is four or five years, often with a one-year cliff. A cliff means you get nothing in year one, and then a block vests at once on the anniversary. After that, you may vest monthly or quarterly.
+
+Performance vesting means you earn the grant only if the company or the sponsor hits a target. The most common target is the sponsor's return, measured as a multiple of invested capital, or sometimes an annual return rate. For example, half the options vest with time, and the other half vest only if the sponsor earns two and a half times its money at exit. Some plans use EBITDA targets instead. Those are easier to measure but easier to argue about, which we'll come back to.
+
+A very common structure is a split. Roughly half time-vesting and half performance-vesting. But again, market practice varies, so don't treat it as a rule.
+
+Then there are ratchets. This word means different things in different places, so let me be careful. In incentive plans, a ratchet is a mechanism where management's share steps up as the sponsor's return gets better. Say management starts at ten percent of the pool. If the sponsor reaches three times its money, management's share rises to twelve percent. It's a sliding scale. The point is to reward you more for outsized results.
+
+There's another ratchet in preferred stock that protects investors against a lower-priced later round. That is a different thing. When someone says ratchet in an MIP conversation, ask which one they mean.
+
+Two more terms, because they matter on the day someone leaves. First, leaver provisions. A good leaver is someone who departs under circumstances the document treats kindly, such as death, disability, or termination without cause. A bad leaver is someone who quits early or is fired for cause. Good leavers usually keep vested equity, sometimes at fair value. Bad leavers can forfeit unvested equity, and the company can often buy back the vested equity at a discount, sometimes at the lower of cost and fair value. The definition of cause is where the fights happen.
+
+Second, acceleration. If the company is sold, what happens to unvested equity? Sometimes everything vests. Sometimes only part. Sometimes performance awards vest only if the sale hits the target. Read this clause before you tell anyone it's "all good in a sale."
+
+Let me walk through an example, with numbers simple enough to follow by ear.
+
+The sponsor and its co-investors put ninety million dollars into the company's equity, buying ninety million shares at one dollar each. The plan reserves ten million options, with a strike of one dollar. So there are one hundred million shares fully diluted, and management's pool is ten percent.
+
+Half the options, five million, vest over four years with time. The other five million vest only if the sponsor reaches two and a half times its money at exit.
+
+Five years later, the company is sold. After paying off all the debt, the equity is worth two hundred seventy million dollars. That's three times the ninety million invested.
+
+Now, who gets what? The options pay a strike price when exercised, ten million dollars in total, so add that to the equity value. That's two hundred eighty million dollars, divided across one hundred million shares. That's two dollars and eighty cents a share.
+
+The sponsor's ninety million shares are worth two hundred fifty-two million dollars. That's two point eight times its money, which clears the two and a half bar. So the performance options vest too.
+
+Management's ten million options are each worth two dollars eighty cents, minus the one dollar strike. That's a dollar eighty each, or eighteen million dollars in total. Add that to the sponsor's two hundred fifty-two, and you get two hundred seventy. It ties out.
+
+Now take your branch leader. Suppose she gets half a percent of the company, five hundred thousand options. At a dollar eighty each, that's nine hundred thousand dollars before tax. That's real money. But look at the other side.
+
+Suppose the sale brings only two hundred twenty-five million dollars of equity value. Add the ten million strike, and you get two thirty-five, or two dollars thirty-five a share. The sponsor gets about two point three five times its money. That misses the two and a half hurdle, so the performance half is forfeited. Her time-vesting options, half of her grant, are still worth a dollar thirty-five each. So she gets about three hundred thirty-eight thousand dollars instead of nine hundred thousand. A seven percent drop in the sale price, from two seventy to two twenty-five would be more than that, actually about seventeen percent. And the payout falls by sixty-two percent. That's leverage, working on you.
+
+One caution. Real deals are usually messier. Sponsors often hold preferred stock that gets paid first and accrues a return. Management's common equity only shares in what's left after that. So the same exit can be worth much less to you than the simple math suggests. Always ask for the waterfall, meaning the order of payment at exit.
+
+So what does this mean for you as a COO and General Counsel?
+
+First, you'll probably run much of the administration. That means the plan document, grant agreements, the board approvals, the valuation, the securities law exemptions, the tax elections, and the restrictive covenants. Non-compete enforceability varies a lot by state, so don't assume a covenant you've seen elsewhere will hold up in your branch locations. Get state-specific advice.
+
+Second, you'll influence who gets equity. In a freight brokerage, much of the value is in people who can walk out with a book of business. Branch leaders, top sales producers, and key data and development talent matter. Equity can help retain them, but only if it's targeted. Sponsors often want to hold part of the pool back for future hires. Don't allocate everything in the first month.
+
+Third, your startup branch unit is a special case. Company-level equity is a blunt tool for a team running one branch. Sometimes a branch-level bonus or profit share fits better, with clear rules on how branch profit is measured. If you tie equity to branch results, define the metrics carefully, and tie them to the source systems we discussed in lesson 13.
+
+Now, how will the three audiences look at this?
+
+The sponsor will look for alignment and retention. Who are the people who matter most to the thesis from lesson 11, and are they properly tied in? The sponsor also cares about cost. A ten percent pool is ten percent of the upside, and it's coming from their return.
+
+The board, usually through its compensation committee, approves the plan, the pool, and the grants. Remember lesson 12. A hallway yes from the sponsor isn't a grant. Until the board approves and the paperwork is signed, no one has been given anything.
+
+Lenders look at this differently. They don't care much about the pool, but they care about cash. Buying back a departing manager's equity is a cash outflow, and credit agreements often restrict it. Cash bonuses at a sale and change-of-control payments can also hit liquidity. So if the plan promises a company repurchase on departure, check it against the credit agreement first. Otherwise you may promise something the company isn't allowed to fund.
+
+Also, check how the sale affects things. In a sale, certain large payments to executives can trigger excess parachute payment rules under section 280G of the tax code, which can cost both the company and the executive. Private companies can often handle this with a shareholder vote, but you have to plan for it well ahead.
+
+Let me give you three common mistakes.
+
+The first is treating equity as a bonus and promising it without understanding the waterfall. People hear ten percent and think of ten percent of the sale price. It isn't. It's a share of value above a threshold, after debt and often after preferred. Overpromising to a recruit or a branch leader creates a legal and morale problem when the numbers arrive.
+
+The second is sloppy process. A verbal promise in a recruiting call. A grant that's announced before the board approves it. An option with a strike set below fair value, which can create a tax penalty. Vague definitions of cause. As General Counsel, you are the person who makes sure the paper matches the promise, and that the promise was authorized.
+
+The third is poorly designed performance targets. If vesting depends on EBITDA, the adjusted EBITDA definition becomes a negotiation. We saw in lesson 13 that every version of EBITDA must reconcile. Tie performance vesting to a definition that can't be quietly changed. And be careful that a ratchet doesn't reward behavior that hurts the business, like cutting investment in people or pulling a sale forward at the wrong time.
+
+Here's the recap. A management incentive plan gives managers a share of equity value growth, through options, restricted stock, or profits interests. The pool is usually somewhere in the range of five to fifteen percent, depending on the deal. Vesting can depend on time, performance, or both. Ratchets increase management's share as sponsor returns rise. Leaver and acceleration terms decide what happens when someone departs or the company is sold. The value depends on the waterfall, and leverage makes the outcome swing widely. Your job is to understand the real economics, keep the process clean, and make sure the board, sponsor, and lenders are all aligned.
+
+Here's a question for you to think about today. If you had to explain to your most important branch leader, in plain words and without a spreadsheet, what her equity is worth at a good exit, a flat exit, and a bad exit, could you do it? And do the documents back up what you'd say?
+
+Next time, in lesson 16, we'll look at working effectively with operating partners.
+
+Key takeaways:
+- Incentive equity, whether options, restricted stock, or profits interests, is a share of value created above a threshold, so its worth depends on the waterfall, debt, and any preferred stock, and it swings sharply with exit value.
+- Vesting, performance hurdles, ratchets, leaver terms, and acceleration decide who actually earns what, so definitions like cause and adjusted EBITDA need to be precise and stable.
+- As COO and General Counsel, keep promises tied to board-approved documents, check repurchase and payout obligations against the credit agreement, and hold back pool capacity for key hires.
