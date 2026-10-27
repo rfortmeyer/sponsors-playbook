@@ -1,0 +1,81 @@
+The Sponsor's Playbook
+Lesson 16: Working effectively with operating partners
+
+Welcome to The Sponsor's Playbook. This is lesson 16: Working effectively with operating partners.
+
+Picture this. It's a Tuesday afternoon, and your CEO forwards you a note. It's from someone at your sponsor you've met twice. She's an operating partner, and she's just come back from another portfolio company. She writes, "We cut carrier onboarding from nine days to two there. Let's talk about doing the same for your new branches. Can you have a plan by Friday?"
+
+Now, what is that email? A suggestion? An instruction? A favor? And what happens to your legal review, your compliance checks, and your hiring plan if you treat it the wrong way?
+
+That's today's topic. Operating partners can be some of the most useful people in your world. They can also be a source of confusion, extra work, and risk. Let's sort it out.
+
+Start with who they are. A private equity firm has a few kinds of professionals. The deal team finds, structures, and executes investments. The partners on that team usually sit on your board. An operating partner is a different animal. They are typically a former executive, often a former CEO, COO, or functional leader, who works with or for the firm to help portfolio companies improve performance. Some are focused on one area, such as procurement, pricing, technology, talent, or commercial strategy. Others are generalists who coach CEOs or step in as interim executives.
+
+The titles vary. You might hear operating partner, operating executive, senior advisor, or executive in residence. Those terms don't mean the same thing at every firm. At some firms, operating partners are full-time employees of the sponsor. At others, they're part-time consultants who work with several portfolio companies. Market practice varies a lot by firm size and strategy. Larger firms often have sizable operating teams. Smaller firms may have a few advisors, or none.
+
+So your first job is simple. Find out which model you're dealing with. Ask three questions. Who do they work for? Who pays them? And what authority do they have? Do they sit on your board, or are they a resource outside it?
+
+That last question matters most. An operating partner usually has influence, not formal authority. They don't have a vote unless they hold a board seat. They aren't in your reporting line. But their influence is real, because they speak to the deal partners who do hold the votes. If an operating partner tells the deal team your branch plan is slow, that opinion travels. So treat them as an influential voice, not an official decision-maker. Take their input seriously, and route formal decisions through the proper channels. In lesson 12, we talked about the three gates: board vote, sponsor consent rights, and lender restrictions. A suggestion from an operating partner clears none of them.
+
+What do operating partners actually do? Mostly three things. First, they bring pattern recognition. They've seen how a pricing program or a sourcing tool played out elsewhere, and they can save you from reinventing it. Second, they bring a playbook, a set of initiatives the sponsor has used across portfolio companies. Third, and this is the part executives sometimes forget, they act as an evaluator. They help the deal team judge whether management can deliver the investment thesis from lesson 11. So you're getting help and being assessed at the same time. Both are true. The best executives accept that and use it.
+
+Let's work through an example, because this is where it gets practical. Say your brokerage has four hundred million dollars in revenue and a gross margin of fourteen percent. That's fifty-six million dollars of gross profit. The operating partner proposes a pricing discipline program. The idea is to stop quoting spot freight below a margin floor, and to reprice contract lanes that have drifted. She says it's worth half a point of gross margin.
+
+Half a point of four hundred million is two million dollars. The sponsor likes that number. At an illustrative ten times EBITDA multiple, two million dollars of EBITDA is twenty million dollars of enterprise value. That's a nice headline. Remember lesson 9. If debt stays fixed, a gain in enterprise value goes entirely to equity, so the owners feel it even more.
+
+Now do what a COO would do. Test the number in steps.
+
+Step one. What does it cost? You need a pricing tool, and two analysts to run it. Say that's five hundred thousand dollars a year. Subtract that from the two million. Now you're at one and a half million.
+
+Step two. What do you lose? Raising prices has a cost. Some shippers will move their freight to a competitor. Say the lanes you reprice include ten million dollars of revenue that walks away, and that freight carried an eight percent margin. Ten million times eight percent is eight hundred thousand dollars of gross profit gone. Now you're at seven hundred thousand.
+
+Step three. What does it do to cash? Here the news is a bit better. Less revenue means fewer receivables outstanding, so working capital need goes down slightly. But if shippers push back by asking for longer payment terms in exchange for the higher price, that could reverse. Remember lesson 8. Attach a payment-terms estimate to every plan. If your customers stretch from thirty to forty-five days, that is real cash trapped, and it can matter more than the margin gain.
+
+Step four. How will lenders count it? One-time costs, like the tool setup and consulting, might be eligible as add-backs in adjusted EBITDA. But credit agreements often cap add-backs, and the cap varies by deal. So some of those costs might hit covenant EBITDA right away, even if the sponsor treats them as one-time.
+
+So the headline was two million dollars. Your tested number is closer to seven hundred thousand in year one, with upside later as the tool costs flatten out and the churn settles. At the same multiple, that's seven million dollars of value, not twenty. The program is still worth doing. But now the sponsor, the board, and the lenders are looking at an honest number instead of an optimistic one. And you did it without arguing with the operating partner. You simply added the pieces she hadn't modeled.
+
+That's the model for working with these people. Don't say no. Say, "Here is what it takes to deliver this, here is what it costs, and here is what could go wrong." You become a partner in the analysis instead of an obstacle.
+
+Now, what does this mean day to day for you, as COO and General Counsel?
+
+First, use operating partners where they're strong. If the sponsor has someone who built a carrier-sourcing function at another brokerage, borrow their experience. Ask for their benchmarks. How long does onboarding take at their best portfolio company? What does recruiter productivity look like? What's a typical ramp for a new branch? Those benchmarks are valuable, but they come from a different company, with a different mix of customers, lanes, and people. Ask what was true there that might not be true here.
+
+Second, treat the relationship as a channel with rules. Agree early with your CEO on how requests flow. If an operating partner asks you directly for something, that's fine, but tell your CEO. If it will take real time, set priorities with the CEO instead of absorbing it silently. Your teams are finite. A request that takes recruiting two weeks has a cost.
+
+Third, watch the legal and governance side. This is where your General Counsel role matters. A few points.
+
+Check how the operating partner is paid. If their fees or expenses are charged to the company, that's often covered by a management services agreement or an advisory agreement with the sponsor. Those arrangements are typically subject to the affiliate-transaction and restricted-payment provisions in your credit agreement. Terms vary, so read yours. Make sure any charge is authorized, documented, and permitted before you pay it.
+
+Think about confidentiality. Operating partners often work with several portfolio companies. If you're a freight brokerage, one of those may be a shipper, a carrier, or a technology vendor. That raises conflict and information-sharing questions. Be careful about what pricing, customer, and carrier data flows out, and be clear about what rules apply.
+
+Think about privilege. Communications with a sponsor-side advisor are not automatically privileged. Whether sharing legal advice with someone outside your company waives privilege depends on their role and the facts, so handle it deliberately, as we discussed in lesson 12. And be thoughtful about what operating partners put in writing, since emails can become discoverable in disputes.
+
+Finally, understand how each audience sees the operating partner's work. The sponsor sees the thesis, and wants proof that initiatives deliver EBITDA and cash. The board sees risk and resourcing, and wants to know whether management can execute without breaking something. The lenders don't care who proposed the idea. They care about covenant headroom and liquidity. So when you present an operating partner's initiative, give each of them what they need. Show the EBITDA, show the cash, and show the covenant effect.
+
+Now, three common mistakes.
+
+Mistake one: treating a suggestion as a direction, or a direction as a suggestion. If you treat every comment as an order, your team gets pulled in ten directions and the CEO loses control. If you ignore the comments, you look resistant, and that reputation travels fast. The fix is to acknowledge, clarify the ask, and agree on priority and timing with your CEO.
+
+Mistake two: committing to numbers in the room. An operating partner says, "Can you get this done in sixty days?" You're eager to look capable, so you say yes. Then reality shows up, in the form of a licensing review, a compliance check, or a hiring delay. Give yourself room. Say, "Let me test the timeline and come back to you by Thursday." As we said in lesson 11, challenge unrealistic assumptions with data early. That isn't resistance. It's credibility.
+
+Mistake three: letting side conversations replace formal governance. An operating partner and a functional leader agree on a new branch hiring plan over a call, and it never reaches the budget, the board, or the lender conversation. Then it shows up as a surprise in the forecast variance. Lesson 14 said to flag changes with a bridge each time the forecast moves. Do that here. Anything that changes cost, headcount, cash, or legal exposure goes into the formal process, whoever suggested it.
+
+Let me add one small bonus point. Don't forget to ask the operating partner for help on your own priorities. If you're opening new branches, ask for introductions to people who've done it. If you're struggling to recruit, ask what their other companies pay for similar roles. The relationship works best when it's two-way. People who only receive requests from operating partners feel like subordinates. People who also make requests become colleagues.
+
+Let's recap.
+
+An operating partner is a sponsor-side executive or advisor who helps portfolio companies improve, and who also helps the sponsor judge management. Their arrangements vary, so find out who they work for, who pays them, and what authority they have. They usually have influence, not formal authority, so route real decisions through the board, sponsor consent rights, and lender restrictions.
+
+Test their proposals the way we did with the pricing example. Start with the headline, subtract the costs, subtract the lost business, and check the cash and covenant effect. Present the honest number to the sponsor, the board, and the lenders.
+
+And protect the company. Check fees against the credit agreement, think about confidentiality and conflicts, handle privilege deliberately, and keep side conversations from replacing formal process.
+
+Here's your question for today. Think about the most recent suggestion you received from someone at the sponsor. Did you know whether it was a suggestion or a direction, and did you ever write down what you actually agreed to?
+
+Next time, in lesson 17, we'll go deeper on cash conversion and working capital programs, and how to turn a freight brokerage's growth into cash instead of receivables.
+
+Key takeaways:
+- An operating partner usually has influence rather than formal authority, so find out who they work for, who pays them, and route any real decision through the board, sponsor consent rights, and lender restrictions.
+- Test every proposed initiative by starting with the headline benefit, subtracting implementation costs, lost business, and working capital effects, and checking the covenant treatment, then present the realistic number to the sponsor, board, and lenders.
+- As General Counsel, check fees against affiliate-transaction and restricted-payment terms, manage confidentiality, conflict, and privilege risks, and keep side conversations from replacing the formal approval and forecasting process.

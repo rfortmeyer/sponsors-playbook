@@ -239,6 +239,22 @@
         "As COO and General Counsel, keep promises tied to board-approved documents, check repurchase and payout obligations against the credit agreement, and hold back pool capacity for key hires."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 15,
+      "title": "Working effectively with operating partners",
+      "file": "lesson-16.mp3",
+      "bytes": 3199939,
+      "duration": "0:06:40",
+      "pub_date": "Tue, 27 Oct 2026 15:23:59 +0000",
+      "generated": "20261027152359",
+      "words": 2019,
+      "takeaways": [
+        "An operating partner usually has influence rather than formal authority, so find out who they work for, who pays them, and route any real decision through the board, sponsor consent rights, and lender restrictions.",
+        "Test every proposed initiative by starting with the headline benefit, subtracting implementation costs, lost business, and working capital effects, and checking the covenant treatment, then present the realistic number to the sponsor, board, and lenders.",
+        "As General Counsel, check fees against affiliate-transaction and restricted-payment terms, manage confidentiality, conflict, and privilege risks, and keep side conversations from replacing the formal approval and forecasting process."
+      ],
+      "tts": "openai:default"
     }
   ]
 }
