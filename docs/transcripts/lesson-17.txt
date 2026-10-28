@@ -1,0 +1,81 @@
+The Sponsor's Playbook
+Lesson 17: Cash conversion and working capital programs
+
+Welcome to The Sponsor's Playbook. This is lesson 17: Cash conversion and working capital programs.
+
+Picture a freight brokerage that had a great year. Revenue is up ten percent. EBITDA is up. The board deck is full of green arrows. Then the CFO walks into your office and says the revolver is drawn more than anyone expected, and the lender wants to talk.
+
+How can profit go up while cash goes down?
+
+The answer is working capital. The company did the work, booked the revenue, and paid the carriers. But the shippers haven't paid yet. The profit is real, but it's sitting in someone else's bank account. Today we'll look at why that happens, how to measure it, and what you can do about it without creating legal or operational problems.
+
+Let's start with plain definitions. Working capital is the short-term money tied up in running the business. The simplest version is current operating assets minus current operating liabilities. In a freight brokerage, that mostly means accounts receivable, which is what customers owe you, minus accounts payable, which is what you owe carriers and vendors. A manufacturer would also carry inventory. A broker mostly doesn't, and that makes the picture simpler.
+
+Cash conversion is how much of your earnings turn into actual cash. The most common measure is cash conversion as a percentage of EBITDA. You take EBITDA, subtract capital spending, subtract any increase in working capital, and divide by EBITDA. Some sponsors define it more simply, as operating cash flow over EBITDA. Definitions vary, so ask which one your sponsor and lenders use, and write it down.
+
+There's also the cash conversion cycle, which counts days. It's days of receivables outstanding, plus days of inventory, minus days of payables outstanding. For a broker, inventory is basically zero. So the cycle is how long you wait to collect from shippers, minus how long you take to pay carriers.
+
+Two terms here are worth knowing cold. DSO is days sales outstanding. It's roughly how many days of revenue are sitting in receivables. DPO is days payable outstanding, how many days of costs are sitting in payables. For a broker, a good way to see the business is this: you're a financing bridge. You pay the truck, and then you wait for the shipper to pay you. The bigger the gap between those two dates, the more cash you have to fund.
+
+Here's why that matters in a PE-backed company. Lesson 11 covered the investment thesis, and most theses rest on EBITDA growth and cash generation. Cash is what pays down debt, funds acquisitions, and builds equity value. A company with strong EBITDA but weak cash conversion looks good on paper and feels tight in real life.
+
+Now a worked example. We'll keep the numbers round.
+
+Say your brokerage has annual revenue of 365 million dollars. That's an easy number, because it's one million dollars of revenue per day. Suppose carrier costs, which we call purchased transportation, are 85 percent of revenue. So you spend 850 thousand dollars a day on carriers. Gross margin is 15 percent, and after overhead, EBITDA is about 14 million dollars.
+
+Now suppose your DSO is 45 days. Shippers take, on average, 45 days to pay. Receivables are 45 days times one million, so 45 million dollars. Suppose your DPO is 25 days. You pay carriers, on average, in 25 days, because some use quick pay and some are on longer terms. Payables are 25 days times 850 thousand, which is about 21 million dollars.
+
+Net working capital is 45 million minus 21 million, so roughly 24 million dollars. That's about 24 million dollars of cash sitting inside your operations. At 14 million dollars of EBITDA, that's far more than a year of earnings.
+
+Now see what growth does. Revenue grows ten percent. Every number scales up. Receivables go from 45 million to 49.5 million, up 4.5 million. Payables go from about 21 million to about 23.4 million, up about 2.4 million. The net increase in working capital is about 2.1 million dollars. That cash is absorbed by growth before you've paid a dollar of interest. Compared to 14 million of EBITDA, that's about 15 percent gone.
+
+So growth isn't free. And the faster the growth, the bigger the bite. That matters for your new branch business unit, which we'll come back to.
+
+Now suppose you launch a program that improves collections by three days. DSO goes from 45 to 42. Three days of a million dollars is 3 million dollars. That's a one-time release of cash. It doesn't show up in EBITDA at all. But it can fund an entire year of growth, or pay down the revolver, or add to covenant headroom.
+
+Notice the word one-time. You collect the improvement once. After that, the new, lower DSO just becomes the baseline. Keep that in mind, because it shapes how the sponsor and lenders will view it.
+
+Now compare the other direction. Suppose you paid carriers five days faster to win capacity in a tight market. Five days of 850 thousand is 4.25 million dollars of cash out the door. That might be a smart commercial decision. In a tight truckload market, quick pay can win loads. But it should be a decision, with a price tag attached, not a side effect.
+
+So what are the levers? On the receivables side, they include invoicing faster, which in freight often depends on getting proof of delivery quickly. They include cleaning up billing disputes, tightening credit approval, enforcing payment terms, and following up before invoices go past due. On the payables side, they include negotiating terms with carriers, managing quick-pay programs, and pricing quick pay properly so it isn't given away. There are also financing tools, like factoring, receivables sales, or supply chain finance programs. Those can speed up cash, but they cost money, and they may be treated as debt or debt-like under your credit agreement. Lesson 9 is the reminder here. What counts as debt, and what counts as free cash, is defined in your documents, not in your intuition.
+
+Now, what does this mean for you as COO and General Counsel? You touch more of this than you might think.
+
+Start with contracts. Shipper payment terms live in master agreements and customer contracts. If a big shipper demands net 60 or net 90 and sales agrees without asking, you've just committed millions of dollars of financing to that customer. Every concession on payment terms should have a cost attached. Many companies create a simple rule: legal and finance review any term longer than your standard. On the carrier side, you hold the carrier agreements. Terms on quick pay, fees, pay-when-paid language, and dispute rights all affect DPO. And you need to look at the laws and rules that apply to carrier payments and broker obligations in the states and modes you operate in. The rules vary, so check with counsel who knows your lanes.
+
+Next, the credit agreement. If you have an asset-based revolver, your borrowing capacity may depend on a borrowing base built from eligible receivables. A common advance rate is around 85 percent, though it varies by lender and deal. But receivables over a certain age, often 90 days from invoice, are commonly ineligible. So are receivables from customers above concentration limits, or those in dispute. That means a collections problem can shrink your liquidity twice. It slows cash coming in, and it reduces what you can borrow against. As General Counsel, you should know exactly how eligibility is defined, because a contract change, like a set-off right or a dispute clause, can change it.
+
+Then there's compliance and risk. If a shipper goes bankrupt, payments you received in the prior ninety days can be challenged as preference payments. Credit insurance, tight credit approval, and early warning systems help. Collections practices also need to follow the contract and applicable law. And be careful with any program that changes who owns a receivable, or who has rights against the customer. Assignment and anti-assignment clauses in customer contracts can matter for factoring or receivables financing.
+
+Recruiting and people matter too. Collectors, credit analysts, and billing staff are not glamorous hires, but they drive cash. And incentives matter. If sales is paid on gross margin only, nobody feels the cost of long terms or slow-paying accounts. Some firms adjust commissions for payment performance, but that raises compensation plan and legal questions. So run it through the same process we covered in the incentive plan lesson, and keep it consistent with approved plans.
+
+Data and development can help a great deal. Proof of delivery capture, automated invoicing, dispute coding, aging reports by customer and by branch, and a daily cash forecast all start with data quality. Lesson 13 said every KPI needs a written definition and a source system. DSO is a perfect example. Is it calculated on a countback basis or a simple average? On gross or net revenue? Pick one, write it down, and keep it stable.
+
+And your startup branch? New branches usually consume cash. New customers often get standard or even extended terms, while carriers expect prompt payment. Revenue ramps before the branch earns real margin. When you build the branch case, include its working capital. That fits the 100-day plan from Lesson 11, where each pillar gets a working capital estimate. A branch that makes money on EBITDA but burns cash for two years is a very different story from one that looks self-funding.
+
+Now, how will each audience look at this?
+
+The sponsor looks at cash conversion as a driver of returns. Cash that doesn't get trapped in receivables can pay down debt, which raises equity value, as Lesson 9 showed. The sponsor also looks at whether improvements are real. In a future sale, the buyer will compare your working capital to a normal level, often called a peg. If you've pulled cash forward just before closing by squeezing payables or pushing collections, the buyer may adjust the price. So the sponsor wants improvements that come from process, not timing.
+
+The board looks at liquidity and risk. Is the company funded for its growth plan? What happens in a downside? Is the customer concentration creating collection exposure? The board wants working capital in the budget and the forecast, as we discussed in Lesson 14, with a clear bridge each time it changes.
+
+Lenders look at availability, the borrowing base, and covenant headroom. They watch aging closely. They will notice if payables stretch unusually, because it can signal stress. And they'll want to understand any factoring or financing program before it starts.
+
+Now, three common mistakes.
+
+First, managing to the quarter-end snapshot. It's tempting to hold payments for a few days, or push collections hard right before the reporting date. It can make the number look good. But the reversal comes next month, and lenders and buyers who see the pattern lose trust. Look at averages, not just period-end, and track the trend.
+
+Second, stretching carriers without thinking about the supply side. Slower payment can save cash, but it may cost you capacity, raise rates, or invite disputes and claims. Carriers talk to each other. In a freight market that tightens, the carriers who were treated well come first. Treat DPO as a commercial decision with legal and operational owners, not just a finance lever.
+
+Third, forgetting working capital in growth plans and new initiatives. Every pricing deal, new customer, new branch, and acquisition has a working capital cost. If it isn't in the plan, it shows up later as a surprise draw on the revolver. That's the scenario we started with. The fix is to include it from the start.
+
+Let's recap. Working capital is the cash tied up between paying carriers and collecting from shippers. Cash conversion shows how much EBITDA becomes real cash. Growth consumes working capital, and improvements in days are largely one-time releases. As COO and General Counsel, you influence this through contract terms, credit eligibility, compliance, incentives, data, and branch planning. Sponsors, boards, and lenders each read it differently, but all of them want improvements that are repeatable and documented.
+
+Here's your question for today. Think about your three largest customers and your most important carrier group. What payment terms do they actually have, who approved those terms, and what would one extra week of delay cost you in dollars?
+
+Next time, in Lesson 18, we'll look at pricing as a value creation lever and how a small price move can change EBITDA and equity value.
+
+Key takeaways:
+- Working capital is the cash tied up between paying carriers and collecting from shippers; cash conversion measures how much EBITDA becomes real cash after capital spending and working capital growth, so define it consistently with your sponsor and lenders.
+- Growth consumes cash, and a day improvement in DSO or DPO is mostly a one-time release, so budget working capital for growth, new branches, and customer terms, and favor process-driven gains over period-end timing.
+- As COO and General Counsel, you shape cash through customer and carrier contract terms, borrowing base eligibility, financing program treatment under the credit agreement, incentives, and data quality, and each of the sponsor, board, and lenders reads the result differently.

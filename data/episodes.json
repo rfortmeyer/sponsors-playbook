@@ -255,6 +255,22 @@
         "As General Counsel, check fees against affiliate-transaction and restricted-payment terms, manage confidentiality, conflict, and privilege risks, and keep side conversations from replacing the formal approval and forecasting process."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 16,
+      "title": "Cash conversion and working capital programs",
+      "file": "lesson-17.mp3",
+      "bytes": 6130042,
+      "duration": "0:12:46",
+      "pub_date": "Wed, 28 Oct 2026 15:56:19 +0000",
+      "generated": "20261028155619",
+      "words": 2090,
+      "takeaways": [
+        "Working capital is the cash tied up between paying carriers and collecting from shippers; cash conversion measures how much EBITDA becomes real cash after capital spending and working capital growth, so define it consistently with your sponsor and lenders.",
+        "Growth consumes cash, and a day improvement in DSO or DPO is mostly a one-time release, so budget working capital for growth, new branches, and customer terms, and favor process-driven gains over period-end timing.",
+        "As COO and General Counsel, you shape cash through customer and carrier contract terms, borrowing base eligibility, financing program treatment under the credit agreement, incentives, and data quality, and each of the sponsor, board, and lenders reads the result differently."
+      ],
+      "tts": "openai:default"
     }
   ]
 }
