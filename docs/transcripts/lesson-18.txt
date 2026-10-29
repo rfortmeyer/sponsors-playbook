@@ -1,0 +1,89 @@
+The Sponsor's Playbook
+Lesson 18: Pricing as a value creation lever
+
+Welcome to The Sponsor's Playbook. This is lesson 18: Pricing as a value creation lever.
+
+Picture a Thursday afternoon at a freight brokerage. A sales leader walks into your office, excited. A big shipper just sent out a bid for a year of contract freight, and your team can win it. The catch is that to win, they'd quote about two points of margin below what you normally accept. The sales leader says, "It's volume. Volume makes us look great in the next board deck."
+
+Maybe that's right. But here's what's happening underneath. Every point of margin on that business is worth far more than it looks, and every point you give away is worth far more than it looks. Today we're talking about why pricing is often the fastest, cheapest, and riskiest lever in a sponsor's value creation plan, and how to treat it with the discipline it deserves.
+
+Let's start with the concept. Price is what you charge. In a brokerage, that's the rate you bill the shipper for moving a load. Your cost is what you pay the carrier. The difference is your gross profit, sometimes called net revenue, and gross profit divided by revenue is your gross margin percentage. In brokerage, that margin is usually low double digits, though it varies by mode, by contract versus spot freight, by customer size, and by where we are in the freight cycle.
+
+Now the key idea. When you raise price and the cost to deliver stays the same, nearly all of that increase drops to the bottom line. When you grow volume, you also add carrier cost, working capital, claims exposure, and often headcount. When you cut costs, you're limited by how much cost there is to cut. But a small price move applies to every dollar of revenue.
+
+That's why sponsors love pricing. In lesson 11 we talked about the investment thesis being built mostly on EBITDA growth and cash generation. Pricing is one of the few levers that can move EBITDA noticeably without a big capital outlay. And in lesson 10 we saw that EBITDA gets multiplied by the valuation multiple, so every dollar of sustainable EBITDA is worth several dollars of enterprise value.
+
+Notice the word sustainable. A price gain that disappears when a customer leaves, or a margin that's only there in a tight truck market, is not worth the same multiple as a gain that sticks.
+
+So what are the actual pricing levers in a brokerage? There are a handful.
+
+First, base rates: what you quote per load or per lane, and how closely quotes track the real-time cost of capacity.
+
+Second, contract structure: how often contract rates reset, whether you have a fuel surcharge, and whether you can reopen rates when carrier costs jump.
+
+Third, accessorial charges: detention, layover, lumper fees, reweighs, redeliveries. These are real costs you incur, and they're often under-billed because nobody follows up.
+
+Fourth, customer mix: which customers and lanes you pursue. A fifteen percent margin customer and an eight percent margin customer are not the same business, even if their revenue is the same.
+
+And fifth, payment terms. This one is sneaky. If you give a customer sixty days instead of thirty, that's a price cut, because you're financing their freight. We covered that in lesson 17.
+
+Let's work through an example, and I'll keep the numbers simple.
+
+Say your brokerage has two hundred million dollars in annual revenue. Carrier costs are one hundred seventy million. So gross profit is thirty million, a fifteen percent gross margin. Operating expenses, meaning salaries, technology, rent, and everything else, come to twenty million. EBITDA is ten million.
+
+Now suppose you raise rates one percent across the book, with no change in what you pay carriers. One percent of two hundred million is two million dollars of added revenue and added gross profit. But you also pay commissions and bonuses. Say those run about a quarter of gross profit. So about half a million of that goes to your sales and operations teams, and the rest, about one and a half million, hits EBITDA.
+
+Ten million becomes eleven and a half million. That's a fifteen percent jump in EBITDA from a one percent price move. At a multiple of, say, eight times, that's twelve million dollars of enterprise value. Since debt is fixed, as we discussed in lesson 10, nearly all of that lands in the equity. That's the math your sponsor is thinking about.
+
+Now the other side of the example. A one percent price increase is never free, because some customers will leave or shift volume. So how much volume can you lose before the increase stops paying? Think of every hundred dollars of revenue. Today it costs you eighty-five and gives you fifteen of gross profit. After a one percent increase, it's a hundred and one in revenue, still eighty-five in cost, so sixteen of gross profit. You gain one on a base of sixteen. That means you could lose about six percent of your loads and break even on gross profit. A little over six percent.
+
+Compare that with the opposite move. If you cut price one percent, gross profit per hundred drops from fifteen to fourteen. To break even, you need to grow volume by about seven percent, and that new volume needs carriers, working capital, and people. That's why discounting to win volume is so expensive. A modest price cut has to be made up with a lot of new freight.
+
+So the arithmetic says price increases tolerate a good deal of volume loss and price cuts demand a lot of volume gain. But the arithmetic is only the starting point. If you raise rates one percent across the board and lose a few big customers on your most profitable lanes, you could be worse off. That's why good pricing is targeted. You raise where you're underpriced, where customers value service, and where your carrier cost has moved. You hold where the relationship is strategic, and you walk away where the margin can't be defended.
+
+Now, what does this mean for you as COO and General Counsel?
+
+You may not own the quote desk, but you touch nearly every part of pricing.
+
+Start with contracts. As GC, you control whether the paper lets you actually earn the price. Look at rate-reset clauses, fuel surcharge language, accessorial schedules, and payment terms. Look at any clause that gives a customer audit rights or visibility into your margin, because some transparency rights can undermine your pricing. Look at termination for convenience, because that decides how sticky a customer's volume is. Ask whether you can pass through a spike in carrier costs, and how fast. A beautiful rate on paper is worthless if the contract lets the customer ignore your accessorial invoices.
+
+Next, compliance and antitrust. Pricing is one place where careless conversation creates serious legal risk. Your people should not discuss rates, margins, or bid plans with competitors, whether at an industry conference or through a shared vendor. If your sponsor owns other companies in logistics, be careful about sharing customer-specific pricing between them. Even well-meaning operating partners can create trouble by passing along what they hear elsewhere. Put a simple written rule in place, and train your sales and branch teams on it.
+
+Third, your new branch business unit. Branches are tempted to buy market share with low rates. That's understandable, since they need volume to reach scale. But as we said in lesson 10, standalone branch economics matter to valuation. If a branch's gross margin is five points below the company average, its path to profitability depends on raising price later, and customers don't always accept that. Set a margin floor for branches, and make exceptions visible and time-limited.
+
+Fourth, your data team. Pricing discipline depends on data: margin by customer, lane, mode, and salesperson, plus quote-to-win rates and accessorial recovery. Without that, you're debating anecdotes. This is where lesson 13 comes back. Define margin the same way everywhere, tie it to a source system, and reconcile it to the monthly package.
+
+Fifth, recruiting and incentives. If you pay sales on revenue, you'll get revenue. If you pay on gross profit, you'll get more attention to margin. Lesson 15 was about equity, but cash commission plans matter just as much for daily behavior. Work with your CEO and CFO on commission design, and check that it doesn't reward low-margin freight or encourage extended payment terms.
+
+And marketing. Marketing shapes how customers perceive your value, such as reliability, technology, visibility, and claims handling. Those perceptions are what let you hold price. A brokerage that's seen as interchangeable competes on rate alone.
+
+Now consider how each of your three audiences views pricing.
+
+The sponsor looks at pricing as a thesis pillar. They want to know what's realized, not what's announced. A five percent list increase doesn't mean five percent in the P&L. Some customers negotiate it down, some contracts don't allow it until renewal, and some volume goes away. Your best contribution is to show a bridge from announced price to realized price to EBITDA, with a clear timeline.
+
+The board looks at pricing through risk. What happens to customer concentration if we push on the top five accounts? What's the churn risk? What's the downside if the truck market tightens and carrier costs run ahead of our contract rates? They also want to hear about the walk-away decisions, not just the wins.
+
+Lenders look at stability. Their covenants depend on EBITDA and liquidity, and their collateral depends on receivables. They like pricing that improves margin durability. They don't like a growth story built on thin-margin volume and longer payment terms that stretch the borrowing base. They'll also ask about customer concentration and whether any customer's receivables are ineligible or in dispute. Pricing changes that cause billing disputes can slow collections and hurt your availability.
+
+One more point. Because a one-point margin slip can erase covenant cushion, as we covered in lesson 14, your pricing assumptions should appear in your budget, your downside case, and your list of levers. Pricing can be a lever for protecting covenant headroom, but it's slow in contract freight. Don't count on it as a quick fix unless the contracts support it.
+
+Now, common mistakes. There are three I'd watch for.
+
+The first is counting list price as EBITDA. Someone announces a three percent increase, and it goes into the forecast at full value. Then contract timing, negotiated exceptions, customer pushback, and lost loads chip away at it. Build the number the way we built it today: start with the headline, subtract leakage, commissions, and volume loss, then check timing. That's the same discipline we used for operating partner initiatives in lesson 16.
+
+The second is buying volume with price. It feels great when revenue climbs. But low-margin freight consumes capacity, working capital, and management attention. Worse, it resets customer expectations, so the next renewal starts from the lower rate. Set margin floors, require approval for exceptions, and track exceptions as a KPI. Also remember that terms are part of price. A discount in rate and a discount in payment days both reduce value.
+
+The third is treating pricing as purely a commercial decision and leaving legal and compliance out. Contract language, antitrust boundaries, and customer audit rights all determine whether a price actually holds. A pricing program that ignores them is a guess, not a plan.
+
+Let's recap.
+
+Pricing is powerful because price changes flow to EBITDA far more directly than volume does. In our example, a one percent increase on two hundred million of revenue added about one and a half million dollars of EBITDA after commissions, a fifteen percent increase on ten million. Break-even math tells you how much volume you can lose, about six percent on a one percent increase, and how much you need to gain after a cut, about seven percent. The right approach is targeted, data-driven, and tied to contract terms. Your sponsor wants a realized number, your board wants the risk picture, and your lenders want durable margin and clean receivables.
+
+Here's your question to think about today. If you looked at the last twelve months of loads, which customers or lanes fell below the margin floor you would be comfortable defending to your board, and who approved those quotes?
+
+In the next lesson, we'll turn from earning more to spending smarter, with cost programs that protect the business.
+
+Key takeaways:
+- A small price change flows almost directly to EBITDA, but you must turn the announced increase into a realized number by subtracting leakage, commissions, and volume loss, and checking timing.
+- Break-even math shows that price increases tolerate meaningful volume loss while price cuts demand large volume gains. Payment terms, accessorials, and customer mix are all part of price.
+- As COO and General Counsel, you protect pricing through contract terms, antitrust discipline, clean margin data, and incentive design, and you present it differently to the sponsor (realization), the board (risk), and lenders (durability and receivables).

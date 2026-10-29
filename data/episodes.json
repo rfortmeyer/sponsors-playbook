@@ -271,6 +271,22 @@
         "As COO and General Counsel, you shape cash through customer and carrier contract terms, borrowing base eligibility, financing program treatment under the credit agreement, incentives, and data quality, and each of the sponsor, board, and lenders reads the result differently."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 17,
+      "title": "Pricing as a value creation lever",
+      "file": "lesson-18.mp3",
+      "bytes": 5868190,
+      "duration": "0:12:13",
+      "pub_date": "Thu, 29 Oct 2026 15:58:36 +0000",
+      "generated": "20261029155836",
+      "words": 2074,
+      "takeaways": [
+        "A small price change flows almost directly to EBITDA, but you must turn the announced increase into a realized number by subtracting leakage, commissions, and volume loss, and checking timing.",
+        "Break-even math shows that price increases tolerate meaningful volume loss while price cuts demand large volume gains. Payment terms, accessorials, and customer mix are all part of price.",
+        "As COO and General Counsel, you protect pricing through contract terms, antitrust discipline, clean margin data, and incentive design, and you present it differently to the sponsor (realization), the board (risk), and lenders (durability and receivables)."
+      ],
+      "tts": "openai:default"
     }
   ]
 }
