@@ -287,6 +287,22 @@
         "As COO and General Counsel, you protect pricing through contract terms, antitrust discipline, clean margin data, and incentive design, and you present it differently to the sponsor (realization), the board (risk), and lenders (durability and receivables)."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 18,
+      "title": "Cost programs that protect the business",
+      "file": "lesson-19.mp3",
+      "bytes": 5915629,
+      "duration": "0:12:19",
+      "pub_date": "Fri, 30 Oct 2026 15:44:16 +0000",
+      "generated": "20261030154416",
+      "words": 2058,
+      "takeaways": [
+        "A cost program should be judged by net, realized, durable savings: start with the headline run-rate, then subtract costs to achieve, leakage, timing, and lost revenue.",
+        "In a freight brokerage, sort every cost into revenue-producing, loss-preventing (compliance, vetting, insurance), or true overhead, and protect the first two unless the sponsor and board choose otherwise.",
+        "Check the credit agreement's cap and conditions on run-rate savings addbacks, remember addbacks don't create cash, and involve legal early on layoffs, releases, WARN-type notice, and vendor termination terms."
+      ],
+      "tts": "openai:default"
     }
   ]
 }

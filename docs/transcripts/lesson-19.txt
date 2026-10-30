@@ -1,0 +1,93 @@
+The Sponsor's Playbook
+Lesson 19: Cost programs that protect the business
+
+Welcome to The Sponsor's Playbook. This is lesson 19: Cost programs that protect the business.
+
+Picture this. It's the second quarter of the year, and the sponsor's operating partner puts up a slide. It says "five million dollars of savings, ninety days." Everyone nods. The company is a freight brokerage, margins are tight, and cutting cost feels like the one lever you fully control.
+
+Six months later, here's what happened. The after-hours operations desk got thinned out. A top-ten shipper's load went uncovered on a Friday night. Then another did. Carrier onboarding was cut back to save money, and a double-brokered load turned into a cargo claim and a lawyer's letter. Meanwhile the savings showed up in the P&L at about half of what the slide promised, and the severance bills showed up in cash right on schedule.
+
+Today is about how to run cost programs so that doesn't happen to you.
+
+Let's start with definitions. A cost program is a defined, owned, time-bound effort to lower the company's ongoing expense base. A few terms matter here.
+
+First, run-rate savings. That's the annualized value of a cost reduction once it's fully in place. If you eliminate a one-million-dollar annual software contract, the run-rate saving is one million dollars. But if you do it in month nine, you only realize about a quarter of that this year. Run-rate is a destination, not what you've banked.
+
+Second, realized savings. That's what actually shows up in the financial statements, net of anything that grew back somewhere else.
+
+Third, costs to achieve. These are the one-time costs of getting the savings: severance, contract termination fees, consultants, lease exit costs, and technology migration. They're real cash, and they usually come first.
+
+Fourth, the difference between structural savings and temporary ones. Structural means the cost is gone because the work was eliminated or done better. Temporary means you delayed a hire, froze a bonus, or pushed off maintenance. Temporary savings come back, often with interest.
+
+And fifth, cost avoidance. That's money you didn't have to spend but weren't spending before either. Sponsors and lenders will rarely give you credit for it in the numbers. Report it separately.
+
+Now, in a PE-backed company, cost programs get extra attention because of how the thesis works. Back in lesson 11, we said the thesis is usually built on EBITDA growth and cash generation. A dollar of cost out is a dollar of EBITDA, and at the multiple the sponsor paid, it's worth many dollars of enterprise value. That's why the pressure to cut is so strong. It's also why a cost program that quietly damages revenue or raises risk is such an expensive mistake.
+
+Here's the key idea for a freight brokerage. Your costs fall into two groups, and they behave very differently. The first is purchased transportation, which is what you pay carriers. That's not really overhead. It's the cost of the product, and managing it is a gross margin lever, which we covered with pricing in lesson 18. The second group is operating expense: people, technology, insurance, facilities, marketing, professional fees. Cost programs live mostly here, and the people line is usually the biggest by far.
+
+In a brokerage, many of those people are your product. Carrier sales reps, operations staff, and the after-hours desk are how a load gets covered and tracked. Cut there, and you're not cutting overhead. You're cutting capacity to deliver service, which is cutting revenue with a delay.
+
+So, the test I'd like you to remember: for every proposed cost line, ask three questions. Does this cost produce revenue or protect revenue? Does it prevent a legal, compliance, or insurance loss? Or is it truly overhead that the customer never notices? Cut freely in the third category. Be careful in the first two.
+
+Let's work an example, with simple numbers.
+
+Say your brokerage has five hundred million dollars in revenue and a net revenue margin of fifteen percent. That's gross profit of seventy-five million. Operating expenses are sixty million, so EBITDA is fifteen million.
+
+The sponsor wants a program with a headline of four million dollars in annual savings. Four million is a little over a quarter of EBITDA, so this is not small.
+
+Here's how the four million is built. One and a half million from consolidating software and vendor contracts. Two million from headcount reductions. And half a million from closing a small office and reducing travel.
+
+Step one: subtract the costs to achieve. Severance and related costs come to one million. Early termination fees on contracts come to eight hundred thousand. Outside help, six hundred thousand. Total one-time cost: two point four million dollars. That's cash out the door, mostly in the first six months.
+
+Step two: look at timing. Vendor contracts often renew on fixed dates, so some savings can't start until renewal. Headcount savings start after notice periods and any required process. Say you realize only half the run-rate in year one. So year-one savings are two million, against two point four million of one-time costs. In year one, the program is cash negative by about four hundred thousand dollars. It only pays back in year two.
+
+Step three: subtract leakage. Some of those headcount cuts get backfilled with contractors or rehires because the work didn't go away. Say that's half a million a year. Run-rate is now three point five.
+
+Step four, the big one: lost business. Suppose the thinner operations team contributes to losing two customers, with ten million dollars in combined revenue. At fifteen percent net revenue margin, that's one point five million in lost gross profit. Sales commissions might offset a slice of that, but not most of it. Call the net hit one million. Now run-rate is two and a half million.
+
+So the slide said four. The realistic run-rate is two and a half, year-one realized is closer to one point two, and the program costs two point four million in cash to get there. That's still possibly a good program. Two and a half million of EBITDA at, say, a ten times multiple is twenty-five million of value. But it's a different story than the one on the slide, and it would be an unpleasant surprise for a COO to discover that in month eight.
+
+Now the covenant angle. Credit agreements often let you add back certain restructuring costs and expected run-rate cost savings when you calculate covenant EBITDA. But those addbacks usually come with conditions. They're often capped at a percentage of EBITDA, commonly somewhere in the range of fifteen to twenty-five percent, though it's negotiated deal by deal. Savings often have to be reasonably identifiable and expected within a set period, such as twelve to twenty-four months, and they're often supported by a certificate from a financial officer.
+
+In our example, suppose the cap is twenty percent of fifteen million, which is three million. The two and a half million of expected savings fits under that. But if the program had really delivered the four million headline, and you tried to add back all of it, you'd bump the cap. And the cap may be shared with other addbacks, like acquisition synergies. So, as General Counsel, read that definition before the program is announced, not after.
+
+Also remember lesson 17. An addback is not cash. Adding severance back to EBITDA helps the covenant ratio. It does nothing for your bank balance. Your liquidity forecast has to carry the full two point four million.
+
+Now, what does this mean for you as COO and General Counsel?
+
+Start with the people side, because that's where your legal exposure lives. Reductions in force involve notice, severance, and release requirements. In the US, the federal WARN Act can require sixty days' notice for certain mass layoffs and site closures at employers of a certain size. Many states have their own, sometimes stricter, versions. If you ask employees age forty or older to sign a release in a group program, federal age discrimination rules call for specific disclosures and review periods. Selection criteria need to be documented and checked for disparate impact. And commission plans, earned bonuses, and accrued paid time off have to be handled according to state wage law. None of this is a reason not to act. It's a reason to put legal on the program from day one, not at the termination meeting.
+
+Second, protect the compliance spine. In brokerage, that means carrier vetting and onboarding, fraud and double-brokering controls, insurance requirements, claims handling, and your authority and bond requirements. These costs prevent losses that can dwarf the savings. A single serious cargo or negligent-selection claim can cost more than a year of savings in a compliance team. Put these on a protected list that needs your sign-off to touch.
+
+Third, protect the growth engine. Your startup branch unit, recruiting, and data and development teams are exactly the sort of costs that look discretionary in a cost review, and exactly what the thesis may depend on. Starve a new branch in its first eighteen months, and you may save six figures and lose the whole branch. If the sponsor wants a cut there, make them choose it explicitly, against the thesis, rather than have it happen by accident.
+
+Fourth, vendor contracts. Before you promise savings from consolidation, look for termination fees, minimum commitments, auto-renewals, data portability, and notice windows. Also check for any customer contract that depends on a system or vendor you plan to cut.
+
+Now, how will each audience read the program?
+
+The sponsor looks at the size and speed of the savings and whether the thesis improves. Give them a net number, the timing, and the risk to revenue. Sponsors usually respect a credible two and a half over a fantasy four.
+
+The board looks at risk and decisions. Which cuts affect service, safety, compliance, or key customers? What are the triggers that would make you pause? Under lesson 12, remember the gates. A program with significant severance, a restructuring charge, or a facility closure may need board approval, and some financing terms or sponsor consent rights could be touched.
+
+Lenders look at covenant EBITDA, liquidity, and whether the savings are credible. They'll want to see the bridge from reported EBITDA to adjusted EBITDA, as we discussed in lesson 13. And they'll notice if the same dollar of savings appears in your forecast, your covenant calculation, and your lender presentation with three different values.
+
+Which brings us to some common mistakes.
+
+Mistake one: reporting the headline as if it were a result. A run-rate number gets quoted in a board deck, then repeated in the lender call, and suddenly it's an expectation. Track three numbers every month: the announced run-rate, the realized savings, and the net of leakage and lost business. Report all three.
+
+Mistake two: cutting what's easy to cut rather than what's safe to cut. Headcount is fast and visible, so it gets targeted first. Vendors, process automation, and spans and layers take longer. Look at where the work can go away, not just where the people are.
+
+Mistake three: ignoring the second-order effects. Attrition among the people you want to keep, customer service decay, recruiting that now takes longer, and employees who start quietly interviewing elsewhere. A cost program is also a communication event. Say clearly what's changing, what isn't, and why, and be consistent, because inconsistency is what lawyers and plaintiffs' attorneys quote later.
+
+Let me recap.
+
+A cost program is only as good as its realized, net, durable savings. Distinguish run-rate from realized, and count the costs to achieve. In a freight brokerage, a lot of operating expense is actually service capacity, compliance, or growth investment, so sort every cost into revenue-producing, loss-preventing, or true overhead. Build the bridge from the headline to the realistic number, subtracting leakage and lost business. Check the credit agreement's addback caps and conditions before you promise anything. Remember that addbacks help covenants but not cash. And bring legal, compliance, and people planning in at the start.
+
+Here's your question for today. If your sponsor asked you tomorrow for ten percent out of operating expense, which three costs would you refuse to touch, and could you defend that to the board with numbers instead of instinct?
+
+Next time, in lesson 20, we'll look at building the leadership team that the investment thesis actually requires.
+
+Key takeaways:
+- A cost program should be judged by net, realized, durable savings: start with the headline run-rate, then subtract costs to achieve, leakage, timing, and lost revenue.
+- In a freight brokerage, sort every cost into revenue-producing, loss-preventing (compliance, vetting, insurance), or true overhead, and protect the first two unless the sponsor and board choose otherwise.
+- Check the credit agreement's cap and conditions on run-rate savings addbacks, remember addbacks don't create cash, and involve legal early on layoffs, releases, WARN-type notice, and vendor termination terms.
