@@ -1,0 +1,77 @@
+The Sponsor's Playbook
+Lesson 20: Building the leadership team the thesis requires
+
+Welcome to The Sponsor's Playbook. This is lesson 20: Building the leadership team the thesis requires.
+
+Picture this. Eight months after closing, you're in a board meeting. The thesis was simple: open new branches, win larger shipper accounts, and lift gross profit per load with better technology. The branches are open. But the larger accounts aren't coming. Your head of sales is a legend, the best relationship seller you've ever met, and he built the book you have today. Yet every enterprise bid stalls at procurement. A sponsor director asks, politely, "Is this the right person for the next three years?"
+
+Nobody in that room is questioning his past. They're questioning the fit between the person and the plan. That question is today's lesson.
+
+Start with the core idea. A private equity sponsor buys a company with a thesis, a specific story about how value gets created over a hold period that is often around four to six years, though it varies. The thesis might be growth through new branches, margin expansion through technology, or a roll-up of smaller brokers. Whatever it is, it assumes capabilities the company may not have yet.
+
+So the sponsor asks: what must be true about the people for this plan to work? Leadership team design starts there, with the thesis, not the org chart.
+
+Here is the logic, step by step. First, translate the thesis into the capabilities it demands. A branch expansion thesis demands someone who can open, staff, and manage a branch from nothing, over and over. An enterprise account thesis demands someone who can sell to procurement departments and run implementation. A margin thesis demands someone who owns pricing and data.
+
+Second, map those capabilities to seats. Some map to existing roles. Some map to roles that don't exist yet.
+
+Third, assess the people in those seats. Not on whether they're good, but on whether they're right for this plan, at this scale, over this timeline. Practitioners often describe four outcomes for each seat. Keep and back them. Keep and develop, with a clear clock. Move to a different role. Or replace.
+
+Fourth, plan the changes in order, because you can't do everything at once, and some seats matter far more than others.
+
+Two terms to have in your pocket. A role scorecard is a written document that says what outcomes a seat must deliver in the next twelve to twenty-four months, such as "open six branches, each at breakeven by month fourteen." It describes results, not duties. The second is the bench, meaning the people one level down who could step up. Sponsors look at the bench because a team with no bench is a risk the thesis can't absorb.
+
+Now, why does this matter more in a PE-backed company than in a family-owned or public one? Because of time and leverage. A sponsor has a clock. Debt service is running. Every quarter a key seat is wrong, the plan slips, and a slip can show up in covenant headroom, as we discussed back in lesson 14. So sponsors tend to act on people sooner than founders are used to. They also tend to talk about it in terms of the plan, which can feel cold. It helps to understand that it usually isn't personal. It's arithmetic about time.
+
+Let me walk through a worked example, using round numbers.
+
+Say you run a brokerage with about 400 million dollars in revenue. Gross margin is 14 percent, so gross profit is 56 million dollars. EBITDA is about 20 million. The thesis calls for growing EBITDA to roughly 32 million over four years, with a big part coming from winning mid-sized and enterprise shippers, accounts with annual freight spend in the tens of millions.
+
+The gap is clear. Your current head of sales runs a transactional, relationship-driven model. He's excellent at it. But the enterprise motion needs structured bids, implementation teams, and reporting to shippers. The board has decided, after an assessment and a few honest conversations, to bring in a new executive vice president of enterprise sales. The incumbent will be offered a different role, leading the existing book. Let's say he declines and leaves.
+
+Now cost it out, the way lesson 16 taught us to test any initiative: headline benefit, minus the real costs.
+
+Start with the headline benefit. Suppose the new leader is expected to open 25 million dollars of new annual revenue by about month eighteen, at a 14 percent gross margin. That's 3.5 million dollars of gross profit.
+
+Subtract the cost to serve. Commissions, operations staff, and customer service for those accounts might take about half. So the contribution is roughly 1.75 million dollars a year.
+
+Now haircut it for risk. Senior hires fail more often than anyone likes to admit. Say you assign a 60 percent chance this works as planned. Expected contribution is about 1.05 million dollars a year. That's the number I'd show a board, not the 3.5 million.
+
+Now the costs. A retained search firm commonly charges about a third of first-year cash compensation, though terms vary. If target cash compensation is 350 thousand dollars, the fee is around 115 thousand. Add a sign-on and relocation package of perhaps 50 thousand. Add severance for the departing executive. If his cash pay was 300 thousand and his agreement gives nine months, that's 225 thousand. One-time cash cost: about 390 thousand dollars. Then there's the equity. The new hire gets a grant from the incentive pool, which is why lesson 15 said to hold back pool capacity for key hires. That dilutes everyone, but it costs no cash.
+
+Don't forget working capital, lesson 17's lesson. Twenty-five million dollars of new revenue, with shippers paying in about 45 days and carriers paid in about 30, ties up roughly 15 days of revenue. Twenty-five million divided by 365 is about 68 thousand dollars a day. Fifteen days is about a million dollars of cash tied up. That doesn't hit EBITDA, but it hits liquidity, and your lenders will notice.
+
+So the picture is this. Expected annual contribution of about a million dollars. One-time costs of about 400 thousand. About a million dollars of working capital build. And a ramp period, perhaps nine to eighteen months, where you pay full price and get little. Is it worth it? Probably, if the thesis depends on enterprise accounts. But look at what the downside case is. If the hire fails, you've lost a year or more, paid a second search fee, and probably paid a second severance. That's why the cost of a wrong senior hire is much bigger than the fee on the invoice.
+
+One more point from this example. The incumbent isn't a villain. He may have been exactly right for the company the sponsor bought. The thesis changed what "right" means. That's a useful way to talk about it, with him, with the board, and with yourself.
+
+Now, what does this mean for you, specifically, as COO and General Counsel?
+
+First, you're probably involved in this process on three sides. You oversee recruiting. You draft and negotiate the employment agreements. And you sit on the leadership team being assessed. Don't skip that last one. Sponsors look at every seat, including legal and operations. A good move is to write your own scorecard before anyone asks you to.
+
+Second, the sponsor will read this through the thesis. They'll ask whether the team can execute the plan and whether the key seats are filled with people who've done it before, at this size or larger. They may suggest candidates from their network or an operating partner's. That's useful, but treat it the way lesson 16 taught: influence is not authority. A candidate's fit still goes through your process, and any compensation or equity promise goes through the board.
+
+Third, the board will look at risk and process. Is the search run properly? Are references real? Who approves compensation? The board's compensation committee, or the full board, typically signs off on senior hires and grants. And remember lesson 12: a hallway "yes" from a sponsor partner is not formal authorization. If you tell a candidate they'll get a certain equity percentage because someone nodded at dinner, you may have created a promise the company can't keep.
+
+Fourth, the lenders. They rarely care who your head of sales is. But they care about a few things. Some credit agreements include key person provisions, or treat the departure of a named executive as a trigger for notice or a cure period. This is more common in smaller or middle-market deals. So check yours before a change, not after. Lenders also care about cost. Severance and recruiting fees are often treated as non-recurring and may be added back to adjusted EBITDA, but as lesson 19 reminded us, those addbacks are usually subject to caps and conditions. And an addback doesn't create cash. You still write the check.
+
+Now the legal mechanics you own. Employment agreements should align with the incentive documents: definitions of cause, good reason, and leaver treatment should match, because mismatches become disputes. Restrictive covenants, meaning non-competes and non-solicits, vary a lot by state, and enforceability has been shifting. Some states sharply limit non-competes, so draft for where the executive actually works, and don't assume a template travels. In a business where customers and carriers follow salespeople, the non-solicit and confidentiality terms matter as much as the non-compete. Finally, think ahead to exit. Large payments tied to a sale can trigger golden parachute tax rules for corporations, and private companies can often manage that through a shareholder approval process. It's a good question to raise early with tax counsel, because it affects how you structure acceleration.
+
+Let me give you three common mistakes.
+
+The first is hiring for the company you had, not the company the thesis describes. A founder-led brokerage grew on hustle. A sponsor-backed brokerage with debt, reporting, and a growth plan needs process, data, and management depth. If you recruit the same profile you've always recruited, you'll rebuild the team the thesis is trying to move past.
+
+The second is the opposite error: swapping people too fast, or too publicly. Replacing a seat without a scorecard, a plan for the accounts and relationships that person holds, and a legal review of their agreement can leave you with a departing executive taking customers, carriers, or colleagues. In freight, relationships walk out the door. Sequence the changes, protect the relationships, and let legal review the agreements before the conversation, not after.
+
+The third is ignoring the bench. A team of a few strong individuals with nobody behind them is fragile. When one leaves, the plan stops. Ask of each key seat: if this person left tomorrow, who covers, and for how long? Then budget development and retention for the answer, including that held-back pool capacity.
+
+Let me recap. The leadership team starts from the thesis. Translate the plan into capabilities, map capabilities to seats, and assess each person against what the next few years require, using the keep, develop, move, or replace framework. Cost a senior hire honestly: expected benefit, risk haircut, search and severance, equity dilution, working capital, and ramp time. Expect the sponsor to read it through the thesis, the board through process and risk, and the lenders through key person terms and addback limits. And as General Counsel and COO, tie every promise to board-approved documents, and align employment agreements with the incentive plan.
+
+Here is your question for today. Pick the one seat on your team where, if the thesis succeeds, the job will be twice as hard in two years as it is today. Does the person in that seat have a plan to grow into it, and do you know what you'll do if they don't?
+
+Next time, in lesson 21, we step back and look at the deal that sets all of this in motion: the anatomy of a leveraged buyout.
+
+Key takeaways:
+- Design the leadership team from the thesis: translate the plan into required capabilities, map them to seats, and assess each person as keep, develop, move, or replace against what the next few years demand.
+- Cost a senior hire like any initiative: expected benefit after a risk haircut, minus search fees, severance, equity dilution, working capital build, and ramp time, and remember a failed hire can cost a year or more.
+- As COO and General Counsel, tie every promise to board-approved documents, align employment agreements with incentive terms, check the credit agreement for key person provisions and addback caps, and write your own scorecard first.

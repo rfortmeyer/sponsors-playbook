@@ -303,6 +303,22 @@
         "Check the credit agreement's cap and conditions on run-rate savings addbacks, remember addbacks don't create cash, and involve legal early on layoffs, releases, WARN-type notice, and vendor termination terms."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 19,
+      "title": "Building the leadership team the thesis requires",
+      "file": "lesson-20.mp3",
+      "bytes": 5614280,
+      "duration": "0:11:42",
+      "pub_date": "Mon, 02 Nov 2026 19:19:06 +0000",
+      "generated": "20261102191906",
+      "words": 1988,
+      "takeaways": [
+        "Design the leadership team from the thesis: translate the plan into required capabilities, map them to seats, and assess each person as keep, develop, move, or replace against what the next few years demand.",
+        "Cost a senior hire like any initiative: expected benefit after a risk haircut, minus search fees, severance, equity dilution, working capital build, and ramp time, and remember a failed hire can cost a year or more.",
+        "As COO and General Counsel, tie every promise to board-approved documents, align employment agreements with incentive terms, check the credit agreement for key person provisions and addback caps, and write your own scorecard first."
+      ],
+      "tts": "openai:default"
     }
   ]
 }
