@@ -1,0 +1,99 @@
+The Sponsor's Playbook
+Lesson 21: Anatomy of a leveraged buyout
+
+Welcome to The Sponsor's Playbook. This is lesson 21: Anatomy of a leveraged buyout.
+
+Picture a Tuesday morning, a few weeks after your company was acquired. A branch manager stops you in the hallway and asks, "So who actually bought us? Did the fund write one big check?"
+
+It's a fair question. The honest answer is: partly. Some of the money was the sponsor's. A big piece was borrowed. And here is the part that surprises people. The borrowed money is not the sponsor's debt. It's your company's debt. The business is now paying for its own purchase.
+
+That's what leveraged buyout means. Today we'll take one apart, piece by piece, so you can see how the money moves, who has a claim on what, and why your credit agreement reads the way it does.
+
+Let's start with the basic idea. In a leveraged buyout, a sponsor buys a company using a mix of equity and debt, and the debt is secured by the target's own assets and repaid from the target's own cash flow. The sponsor puts in less of its own money than the full price, and that improves the percentage return if things go well. It also raises the risk if things go badly.
+
+Mechanically, it works like this. The sponsor forms a new acquisition entity, often called a buyer or a holding company. Its fund puts equity into that entity. The entity, or the target after closing, borrows from lenders. The entity buys the target. Then the target typically becomes a borrower or guarantor, and pledges its assets as collateral. That's the move that puts the debt on your company.
+
+Everything in a buyout rests on one table, called sources and uses. Sources is where the money comes from. Uses is where it goes. They must match to the dollar.
+
+Start with uses. The biggest is the purchase price. People usually talk about enterprise value, which is the price for the whole business, regardless of how it's financed. Most deals are structured cash-free, debt-free. The seller keeps the cash and pays off existing debt, and the buyer pays enterprise value, adjusted at closing for a few items. In a freight brokerage, the key adjustment is net working capital. The parties agree on a target level, called a peg, and the price moves up or down if closing working capital comes in different. That peg matters a lot when your receivables and payables are both big and swing daily.
+
+Next in uses are the fees and expenses. Those include financing fees to lenders, advisory fees, legal, accounting diligence, and often insurance for representations and warranties. Then there's usually some cash put on the balance sheet, so the company doesn't start life on empty.
+
+Now sources. These are stacked by who gets paid first and who takes the most risk.
+
+At the top is the senior secured debt. That can be a revolver, which is a borrowing line you draw and repay. For a brokerage, it's often an asset-based line tied to eligible receivables. Alongside it is a term loan, which is funded at closing and repaid over time. Below that, depending on the market, you might see a second lien loan, a unitranche from a private credit fund, which blends senior and junior debt into one facility, mezzanine debt, or a seller note. Each layer costs more because each takes more risk.
+
+At the bottom is equity. Sponsor equity is the cheapest to get in the door and the most expensive in the end, because those investors want the highest return. Often there's also rollover equity. That's when the sellers, or existing management, reinvest part of their proceeds instead of taking all cash. It gives them a stake alongside the sponsor and reduces the cash the sponsor needs.
+
+A word on how much debt. It varies with deal size, sector, and the credit cycle. In a loose market, a mid-sized company might borrow five or six times EBITDA. In a tight market, or for a smaller or more cyclical business, it could be three or four. Freight is cyclical, so lenders tend to be careful. Equity as a share of the total has often run somewhere around forty to fifty percent or more in recent years, but treat that as a range, not a rule.
+
+Now let's run a simple example. Take a brokerage with twenty million dollars of adjusted EBITDA. Remember that word, adjusted. We'll come back to it.
+
+The sponsor agrees to pay nine times EBITDA. Nine times twenty million is one hundred eighty million dollars of enterprise value. That's the first use.
+
+Add fees and expenses of six million dollars. That's about three percent of the price. Then add four million dollars of cash to the balance sheet. Total uses: one hundred ninety million dollars.
+
+Now sources. The lenders agree to a term loan of ninety million dollars. That's four and a half times EBITDA. We'll assume the revolver is undrawn at closing, available for working capital swings.
+
+The sellers roll over fifteen million dollars of their proceeds into the new company. The sponsor writes the rest. Ninety plus fifteen is one hundred five. One hundred ninety minus one hundred five is eighty-five. So the sponsor's fund puts in eighty-five million dollars.
+
+Check the math. Ninety of debt, fifteen of rollover, eighty-five of sponsor equity, total one hundred ninety. It matches the uses.
+
+Total equity is one hundred million dollars, about fifty-three percent of the capital. Debt is about forty-seven percent. This is a fairly conservative structure.
+
+Now ask the question that matters to you. What does the company have to do every year?
+
+Suppose the term loan costs ten percent all in. That might be a floating base rate of about four and a half percent plus a spread of five and a half. Ten percent of ninety million dollars is nine million dollars of interest each year. There's also scheduled principal. A common amount is one percent a year on a term loan, so about nine hundred thousand dollars.
+
+Now take EBITDA of twenty million. Subtract capital spending of, say, two million, and cash taxes of, say, three million. That leaves fifteen million. Subtract interest and principal, nearly ten million. You're left with about five million dollars of cushion. And that's before any working capital growth.
+
+Lesson 17 told us growth consumes cash in a brokerage. If revenue grows fast, receivables climb faster than payables, and that five million dollar cushion can disappear. That's why lenders gave you a revolver, and why they watch your liquidity.
+
+Look at the coverage another way. EBITDA of twenty million over interest of nine million is about two point two times. Not terrible, not roomy. Now suppose gross margin slips and EBITDA falls to sixteen million. Interest coverage drops to under two times, and leverage rises from four and a half times to over five and a half. That's how a covenant gets tight, and we saw in lesson 14 that a one-point margin slip can do it.
+
+One more point on that word adjusted. Lenders sized this loan on twenty million of adjusted EBITDA. If, say, three million of that is addbacks, such as run-rate savings or one-time costs, then the cash earnings are seventeen million. The loan didn't change, but your real leverage is higher than the headline. Lesson 19 told you to check the cap on those addbacks. Now you see why. Addbacks raise the number the loan was sized on, but they don't pay the interest.
+
+So what does this mean for you, as COO and General Counsel?
+
+First, the closing documents are now your operating manual. The credit agreement sets covenants, reporting deadlines, limits on new debt, limits on payments to owners, and what you can do with asset sales or acquisitions. That includes opening your new branch units, if they require investment. Know which activities need lender consent. You were trained in lesson 16 to check any sponsor-related fee against those restrictions. Same idea here.
+
+Second, change of control and contracts. In a stock deal, your entity survives, so broker authority and most contracts stay put. But many customer, carrier, insurance, and technology contracts have change-of-control or assignment clauses. Some need consent or notice. Your surety bond and insurance programs may need attention. The point is, someone should have tracked this before closing, and if it wasn't you, find out who did and what's still open.
+
+Third, liquidity. Know the minimum cash the company needs, how much of the revolver is available, and what the borrowing base looks like. In freight, receivables eligibility is often the real constraint. A concentration limit on one big shipper, or too many aged invoices, can shrink your availability just when you need it.
+
+Fourth, the people. Rollover equity and management incentive pools, from lesson 15, sit at the bottom of this stack. They're worth something only if the enterprise value exceeds the debt and any preferred equity. That's why debt level matters to your team's upside, not just to the lenders.
+
+Now consider how each audience looks at this structure.
+
+The sponsor looks at the equity check and the return. How much did we put in, how fast can EBITDA grow, how much debt can be repaid, what will the exit look like? Their question is whether the plan creates enough value above the debt and the fees.
+
+The board looks at risk and decisions. Can the company survive a bad freight market with this much debt? What would we do, and when, if we got close to a covenant? They want early warning and a plan.
+
+The lenders look at repayment. Can the business service the debt through a down cycle? Is collateral solid? Are reports accurate and on time? Their upside is limited, so they care about the downside.
+
+You sit in the middle. You translate between those three, and the sources and uses table is the common language.
+
+Let's go over a few common mistakes.
+
+The first is thinking the price is the headline multiple. It isn't. Our example had a one hundred eighty million dollar price but one hundred ninety million of total uses. Fees, cash, and the working capital peg all matter. If you only focus on the multiple, you'll misjudge both the equity needed and the liquidity you start with.
+
+The second is treating the debt as somebody else's problem. Because the company is the borrower or a guarantor, every dollar of interest comes out of your cash flow. Operators sometimes think of leverage as a finance topic. It's an operating constraint. It decides how much room you have to invest in new branches, absorb a bad quarter, or hire ahead of revenue.
+
+The third is leaning on adjusted EBITDA without knowing what's in it. The number that sized the debt may include addbacks that don't convert to cash. If you don't know which ones are in there, which are capped, and which the lenders may challenge, you can be surprised at the first compliance certificate. Lesson 13 said to reconcile every version of EBITDA. This is where that discipline pays off.
+
+Let's recap.
+
+A leveraged buyout is an acquisition funded by a mix of equity and debt, where the debt sits on the acquired company and is repaid from its cash flow. The sources and uses table is the whole deal on one page. Uses are the price, fees, and cash to the balance sheet. Sources are the debt layers, rollover equity, and sponsor equity.
+
+In our example, twenty million of EBITDA at nine times gave a one hundred eighty million dollar price, ninety million of debt, and one hundred million of equity. That left only a thin cushion after interest, principal, capital spending, and taxes, so working capital and margin slips matter.
+
+For you, the credit agreement, the contracts, liquidity, and the incentive equity all follow from that structure. And the sponsor, the board, and the lenders each read it differently, so be ready for all three.
+
+Here's your question for today. If a branch manager asked you, in one minute, where the money for your company's deal came from and what the company owes each year because of it, could you answer clearly? And what one number in that answer would you want to check first?
+
+Next time, in lesson 22, we'll build the back-of-the-envelope LBO, so you can estimate returns and test a deal in your head.
+
+Key takeaways:
+- A leveraged buyout is funded by sponsor equity, rollover, and debt that sits on the acquired company, so the business's own cash flow pays for its purchase, and sources and uses is the one-page view of the whole deal.
+- Total uses are more than the headline price, because fees, cash to the balance sheet, and the working capital peg all count, and debt service plus working capital growth can quickly consume the cash cushion in a freight brokerage.
+- As an operating executive, know your credit agreement covenants, what is inside adjusted EBITDA, your liquidity and borrowing base, and your change-of-control exposure, since sponsor, board, and lenders each read the structure for a different reason.

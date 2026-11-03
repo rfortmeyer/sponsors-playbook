@@ -319,6 +319,22 @@
         "As COO and General Counsel, tie every promise to board-approved documents, align employment agreements with incentive terms, check the credit agreement for key person provisions and addback caps, and write your own scorecard first."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 20,
+      "title": "Anatomy of a leveraged buyout",
+      "file": "lesson-21.mp3",
+      "bytes": 5532151,
+      "duration": "0:11:31",
+      "pub_date": "Tue, 03 Nov 2026 16:59:59 +0000",
+      "generated": "20261103165959",
+      "words": 2073,
+      "takeaways": [
+        "A leveraged buyout is funded by sponsor equity, rollover, and debt that sits on the acquired company, so the business's own cash flow pays for its purchase, and sources and uses is the one-page view of the whole deal.",
+        "Total uses are more than the headline price, because fees, cash to the balance sheet, and the working capital peg all count, and debt service plus working capital growth can quickly consume the cash cushion in a freight brokerage.",
+        "As an operating executive, know your credit agreement covenants, what is inside adjusted EBITDA, your liquidity and borrowing base, and your change-of-control exposure, since sponsor, board, and lenders each read the structure for a different reason."
+      ],
+      "tts": "openai:default"
     }
   ]
 }
