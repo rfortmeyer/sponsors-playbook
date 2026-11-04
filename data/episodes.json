@@ -335,6 +335,22 @@
         "As an operating executive, know your credit agreement covenants, what is inside adjusted EBITDA, your liquidity and borrowing base, and your change-of-control exposure, since sponsor, board, and lenders each read the structure for a different reason."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 21,
+      "title": "The back-of-the-envelope LBO",
+      "file": "lesson-22.mp3",
+      "bytes": 5310632,
+      "duration": "0:11:04",
+      "pub_date": "Wed, 04 Nov 2026 16:59:23 +0000",
+      "generated": "20261104165923",
+      "words": 1917,
+      "takeaways": [
+        "A leveraged buyout return comes from EBITDA growth, debt paydown, and any multiple change, less fees at closing; two times in five years is about fifteen percent annually, two and a half about twenty, and three about twenty-five.",
+        "Five quick steps estimate the return: entry value and sources and uses, projected EBITDA, projected debt after free cash flow, then equity out divided by equity in. In a brokerage, working capital growth can sharply cut the cash available to repay debt.",
+        "Use the math to find which assumptions the sponsor needs from you, test a lower exit multiple and a margin slip, and keep your numbers consistent across the sponsor, board, lenders, and the credit agreement definitions."
+      ],
+      "tts": "openai:default"
     }
   ]
 }

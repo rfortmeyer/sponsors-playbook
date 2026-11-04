@@ -1,0 +1,85 @@
+The Sponsor's Playbook
+Lesson 22: The back-of-the-envelope LBO
+
+Welcome to The Sponsor's Playbook. This is lesson 22: The back-of-the-envelope LBO.
+
+Picture a Tuesday afternoon. Your CEO calls and says the sponsor is looking at a freight brokerage acquisition. It's a bolt-on, maybe thirty million in gross profit. The partner wants a quick read before the investment committee tomorrow. Then the CEO says, "Can you sanity-check their math? They sent us a one-pager."
+
+You open it. There's a purchase price, a debt number, an exit year, and a return. No spreadsheet with forty tabs, just a page that says this deal makes about twenty percent.
+
+Can you tell whether that's believable in ten minutes, with a pencil? That's today's skill. Sponsors do this constantly, often before any formal model exists. Executives who can do it speak the sponsor's language. Executives who can't tend to nod along and find out later what they agreed to.
+
+Last lesson we walked through the anatomy of a leveraged buyout: sources and uses, and how the company's own cash flow pays for its purchase. Today we put that structure to work. We'll estimate what the sponsor earns and, more importantly, what has to be true for them to earn it.
+
+Start with the two return measures every sponsor uses. The first is the multiple of invested capital, sometimes called MOIC, or just "the multiple." It's the equity you get back divided by the equity you put in. Put in a hundred, get back two hundred, that's two times. The second is the internal rate of return, or IRR. That's the annualized rate, and it depends on timing. Two times in three years is a much better IRR than two times in seven years.
+
+Here's the shortcut that makes back-of-the-envelope work. Over a five-year hold, two times is roughly fifteen percent a year. Two and a half times is roughly twenty. Three times is roughly twenty-five. Memorize those three pairs. Many sponsors target somewhere around twenty to twenty-five percent gross, though that varies a lot by fund, by deal size, and by where we are in the credit cycle.
+
+Now, where does the money come from? In a simple LBO, the equity gain comes from three sources, and the whole envelope calculation is just sizing them.
+
+The first is EBITDA growth. If earnings go up, and the multiple holds, the business is worth more.
+
+The second is multiple change. If you buy at ten times and sell at eleven, that's a gain. If you sell at nine, it's a loss. Disciplined sponsors treat multiple expansion as a bonus, not a plan. Many base cases assume the exit multiple equals the entry multiple, or a little lower.
+
+The third is debt paydown, sometimes called deleveraging. Every dollar of free cash flow that goes to repay debt transfers value from the lender's claim to the equity holder's claim.
+
+Subtract the leakage, meaning fees and costs that were spent at closing and never come back, and you have the full bridge from equity in to equity out.
+
+The recipe has five steps. Entry value is EBITDA times the entry multiple. Total uses is that plus fees and cash. Debt is a multiple of EBITDA, and equity is the rest. Then project EBITDA and net debt at exit. Exit value is exit EBITDA times exit multiple, minus net debt, and that gives you equity out. Divide by equity in, and use the rule of thumb to convert to an annual return.
+
+Let's run it with a freight brokerage. I'll keep the numbers round on purpose.
+
+Say the company has twenty million dollars of adjusted EBITDA. Brokerage multiples vary widely with size, mix, technology, and customer concentration. For this example, the sponsor pays ten times. That's an enterprise value of two hundred million.
+
+Fees and cash to the balance sheet add about ten million. That covers advisory fees, financing fees, legal, and a little cash so the company isn't running on fumes. Total uses are two hundred ten million.
+
+Now the debt. Lenders in a brokerage often lend somewhere around three to five times EBITDA, depending on the cycle, the size, and how they view receivables and freight volatility. Say four times. That's eighty million of debt. Equity is the rest: one hundred thirty million. That includes any rollover from existing owners or management.
+
+Now the five-year projection. Suppose EBITDA grows about seven percent a year. Twenty million becomes roughly twenty-eight million in year five. Not heroic, but it requires real growth, in a business where freight cycles can work against you.
+
+The exit multiple is the same ten. Twenty-eight times ten is two hundred eighty million.
+
+Next, debt. Interest on eighty million at roughly ten percent is about eight million a year. Take twenty million of EBITDA, subtract eight for interest, a few million for taxes, a couple for capital spending and technology, and then working capital as the business grows. That leaves very little in year one, and more as EBITDA climbs. Say the company averages six million a year of free cash flow after all that. Over five years, that's about thirty million of debt paydown. Debt goes from eighty to fifty.
+
+Equity out is two hundred eighty minus fifty. Two hundred thirty million.
+
+Two hundred thirty divided by one hundred thirty is about one point eight times. By our rule of thumb, that's a bit over twelve percent a year.
+
+So, on a plain set of assumptions, this deal doesn't make twenty percent. It makes about twelve. The page said twenty. The gap is the lesson.
+
+Let's check where the hundred million of equity gain came from. EBITDA growth: eight million of added EBITDA at ten times is eighty million. Debt paydown: thirty million. Multiple change: zero. Fees and cash at the start: minus ten. Eighty plus thirty minus ten is a hundred. It ties.
+
+Now ask what would close the gap. To hit two and a half times, equity out has to be about three hundred twenty-five million. That's ninety-five million more than our base case. Each extra million of exit EBITDA is worth ten million at a ten times multiple. So you'd need roughly nine or ten million more EBITDA at exit. Or a full extra turn of multiple, which on twenty-eight million of EBITDA adds twenty-eight million. Or more leverage. Or some combination.
+
+You can see why sponsor models so often contain a higher growth rate, a margin improvement program, an add-on acquisition plan, or a bit of multiple expansion. And you can see why your operating plan sits underneath every one of those.
+
+Now, what does this mean for you as COO and General Counsel?
+
+First, you become the person who can translate the model back into operations. If the sponsor needs EBITDA to go from twenty to thirty, someone has to answer where it comes from. Is it pricing, which we covered in lesson 18? Is it cost programs, from lesson 19? Is it the new branch business unit, and how much cash does it burn before it contributes? Each assumption in the envelope maps to something you run. When you see a growth rate, ask yourself which of your teams owns each point of it.
+
+Second, remember that the cash flow line is where freight brokerage is different. From lesson 17, growth consumes cash. A brokerage pays carriers in days and collects from shippers in weeks. If revenue grows fast, working capital eats the cash that was supposed to repay debt. In our example, I assumed six million a year of paydown after working capital. If growth runs hot and receivables stretch, that number could be half. Lower paydown means a smaller return, and also thinner liquidity.
+
+Third, each reader of this math has a different question. The sponsor asks, does this reach our return target, and how much of it depends on things we control? The board asks, what's the downside, and what decisions will we face if the plan slips? The lender asks a different question entirely. They don't care about the twenty percent. They look at leverage, interest coverage, and liquidity. In our example, four times leverage and about two and a half times interest coverage. They ask how far EBITDA can fall before a covenant trips. From lesson 14, in a brokerage a one-point gross margin slip can erase a lot of that cushion. Do the same envelope math with EBITDA down fifteen percent, and you'll see how fast headroom disappears.
+
+Fourth, as General Counsel, keep an eye on what the numbers become. Management projections end up in lender presentations, in diligence materials, and sometimes in board minutes. A growth case you describe to a lender should be consistent with the case you describe to the board. The adjusted EBITDA in the model should match the definition in the credit agreement, including any cap on run-rate savings addbacks, which we touched on in lesson 19. And if the model assumes management incentive pool dilution, from lesson 15, or key hires from lesson 20, check that those assumptions match the actual documents. A back-of-the-envelope number that quietly differs from the paperwork is how surprises begin.
+
+Let me give you three common mistakes.
+
+The first is treating the exit multiple as a given. Many executives look at a growth plan and forget that the buyer in year five sets the price. If freight markets are soft, or the business is more concentrated than expected, a lower multiple can wipe out years of operating progress. Run the envelope at one turn lower. If the deal only works at an exit multiple higher than the entry multiple, the plan has a hidden dependency.
+
+The second is confusing EBITDA with cash. EBITDA growth of eight million is not eight million of debt paydown. Interest, taxes, capital spending, and working capital come first. In a brokerage, working capital can be the largest of those during growth. If someone quotes a deleveraging number, ask what cash conversion they assumed, and how it was defined. That's the same question from lesson 17.
+
+The third is believing the precision. The envelope is a tool for finding which assumptions matter, not for predicting returns to the decimal. If your quick math says twelve and the model says twenty, don't assume either is right. Find the gap. Usually it's one or two assumptions: growth, margin, leverage, or exit multiple. And those are the conversations worth having before the deal, not after.
+
+Let's recap.
+
+An LBO return comes from three sources: EBITDA growth, debt paydown, and, if you assume it, multiple change, less fees at the start. Five steps get you there: entry price, sources and uses, projected EBITDA, projected debt, and equity out over equity in. Two times in five years is about fifteen percent, two and a half is about twenty, and three is about twenty-five. In our example, a ten times entry, four times leverage, and seven percent growth gave about one point eight times and twelve percent, well short of a twenty percent target. And the gap shows exactly which operating results the sponsor is counting on from you.
+
+Here's your question for today. Think about your own company's plan. If the sponsor's model assumes seven percent annual EBITDA growth, which three operating assumptions underneath that number would you have to defend, and what would you change in the plan if gross margin slipped by one point?
+
+Next time, we'll walk through the deal process itself: the CIM, the indication of interest, the letter of intent, and what exclusivity really means.
+
+Key takeaways:
+- A leveraged buyout return comes from EBITDA growth, debt paydown, and any multiple change, less fees at closing; two times in five years is about fifteen percent annually, two and a half about twenty, and three about twenty-five.
+- Five quick steps estimate the return: entry value and sources and uses, projected EBITDA, projected debt after free cash flow, then equity out divided by equity in. In a brokerage, working capital growth can sharply cut the cash available to repay debt.
+- Use the math to find which assumptions the sponsor needs from you, test a lower exit multiple and a margin slip, and keep your numbers consistent across the sponsor, board, lenders, and the credit agreement definitions.
