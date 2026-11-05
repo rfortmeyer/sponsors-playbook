@@ -1,0 +1,85 @@
+The Sponsor's Playbook
+Lesson 23: The deal process: CIM, IOI, LOI, and exclusivity
+
+Welcome to The Sponsor's Playbook. This is lesson 23: The deal process: CIM, IOI, LOI, and exclusivity.
+
+Picture this. It's a Monday morning, and your sponsor calls. They're thinking about selling the company, and an investment bank is already lined up. Six weeks later, five firms have sent numbers, and three have been through your conference room. A fourth has just been told, "You're out." Then the leading bidder sends a letter, and the sponsor says, "Sign it, we're going exclusive."
+
+Forty-five days after that, the buyer's accountants find a problem, and the price drops by twenty million dollars. The company is committed to one buyer, and the other bidders have moved on.
+
+That wasn't bad luck. That was the process doing what it's designed to do. Today we walk through that process, and why the quiet moment of granting exclusivity matters more than almost any other step.
+
+Let's start with the shape of it. A sale of a company, usually run by an investment bank on behalf of the seller, moves in stages. Each stage narrows the field and increases the commitment on both sides.
+
+Stage one is the teaser and the NDA. The teaser is a short, anonymous summary sent to potential buyers. A buyer who's interested signs a non-disclosure agreement, and then gets the real material.
+
+That material is the CIM, the confidential information memorandum. Think of it as the sales brochure for the company. It's usually fifty to a hundred pages. It covers the business model, the market, the customers, the financial history, the management team, and the growth story. Most important, it presents adjusted EBITDA, which is EBITDA after the seller's preferred addbacks. The CIM is written by the bank, with heavy input from management. It's advocacy, not an audit. Buyers know that, and they will test everything in it.
+
+Stage two is the IOI, the indication of interest. After reading the CIM, each buyer submits a short, non-binding letter. It typically gives a valuation range, the key assumptions behind it, how the buyer plans to finance the deal, what approvals it needs, what diligence it wants, and a timeline. The range is deliberately wide, because the buyer hasn't seen much yet. The seller uses IOIs to pick who gets deeper access. In a broad auction, perhaps ten or fifteen indications come in, and four to six are invited forward. Process size varies a lot. A large, competitive auction looks different from a small, quiet deal with two bidders.
+
+Stage three is the management presentation and the data room. Selected buyers meet management, usually for half a day, and get access to the virtual data room, where the contracts, financials, and policies live. This is where you, as an executive, enter the story in a big way.
+
+Stage four is the LOI, the letter of intent. Final bidders submit a more specific letter. It states a price, usually as an enterprise value, the form of consideration, the treatment of working capital, how much management will roll over, financing commitments, remaining diligence, and the proposed timeline.
+
+Here's the part to remember. An LOI is mostly non-binding. The price and main terms are not legally locked. But a few provisions are binding. Those are confidentiality, who pays expenses, governing law, and exclusivity.
+
+Exclusivity, sometimes called a no-shop, is a promise by the seller not to solicit, negotiate with, or share information with any other buyer for a set period. Thirty to sixty days is common, and ninety days is possible in complex deals. Some letters extend automatically if the buyer is making progress.
+
+Why does this matter so much? Because before exclusivity, the seller has competition. After exclusivity, the seller has one buyer, a ticking clock, and a business that's been told to expect a sale. The buyer now has what negotiators call leverage. The price in the LOI can still move, and in practice it often moves down. That's called a retrade. It happens when diligence turns up something, or sometimes when a buyer just uses the position it's in.
+
+After exclusivity comes confirmatory diligence, which is the next lesson's subject, then the purchase agreement, signing, any regulatory clearance, and closing. Between signing and closing, there may be a gap of weeks or months.
+
+Let me give you one simple example, with a freight brokerage.
+
+Say your company's CIM shows adjusted EBITDA of thirty million dollars. Five bidders submit IOIs. The ranges run from nine to eleven times EBITDA. At nine times, that's two hundred seventy million dollars. At eleven times, it's three hundred thirty million. The bank invites the top three to meet management.
+
+After presentations, two bidders submit LOIs. Bidder A offers ten and a half times thirty million, so three hundred fifteen million dollars of enterprise value. Bidder B offers three hundred five million. Bidder A asks for forty-five days of exclusivity. Bidder B won't commit without it either, but A's offer is higher and A's financing is firmer. The sponsor signs with A.
+
+Now diligence starts. Bidder A's accountants review those thirty million dollars of adjusted EBITDA. They find that two million of it is a run-rate addback for new branches that are still ramping, and they won't credit it. They treat it as a projection, not a result. So they say EBITDA is twenty-eight million.
+
+Do the math. Twenty-eight million times ten and a half is two hundred ninety-four million. That's twenty-one million lower than the LOI. Notice how that works. A two million dollar disagreement became a twenty-one million dollar price change, because the multiple magnifies every dollar of EBITDA.
+
+And Bidder B? Bidder B has moved on, and may not come back at its original number. That's the cost of exclusivity. The seller's best alternative has weakened.
+
+Let me also mention the working capital peg, from lesson 21. Suppose the LOI assumes a normal level of working capital, and the buyer later argues the normal level should be higher, because carrier payables are paid faster than the seller says. That's another price adjustment, and in a brokerage, with receivables and payables in the tens of millions, it can be big.
+
+So what does all this mean for you, as COO and General Counsel?
+
+First, the CIM is a document you'll be held to. Whoever signs off on it, you need to know what's in it. Every claim about customer retention, carrier compliance, insurance, technology, and branch performance will come back as a diligence request, and later as a representation in the purchase agreement. If the CIM says your top ten customers have been with you for eight years, make sure it's true and defined. If it presents new branch EBITDA as run-rate, know how the number was built. And as General Counsel, make sure a statement in a brochure doesn't become a misrepresentation later.
+
+Second, you're running the information flow. Who gets what and when is a legal and strategic question. Early on, bidders get summaries. Customer names, carrier names, pricing by lane, and employee compensation get held back or anonymized until late in the process. This matters even more if a bidder is a competitor or owns a competing broker. Sharing rate and customer data with a competitor invites antitrust risk, and it can be dangerous commercially if the deal doesn't close. Use clean teams, which are small, restricted groups that review sensitive material, and stage the disclosure.
+
+Third, protect the business while the sale runs. A process is a distraction. Recruiters call your sales reps. Customers hear rumors. Carriers get nervous about payment. You need a communication plan, retention arrangements for key people, and a clear sense of what you can say. And you must keep operating performance on target, because a bad month in the middle of a process hands the buyer a reason to cut the price.
+
+Fourth, understand your own role in the bargain. Buyers want to talk to management, and they'll want to know what happens to you. Rollover equity, new incentive plans, and employment terms often get raised in the LOI. Remember lesson 15. If you're being offered equity in the new company, understand the waterfall, the vesting, and the leaver terms before you agree to anything. And remember lesson 20. Buyers will assess the leadership team, and your own seat is part of the conversation. Get your own legal advice on your personal terms, because the company's counsel represents the company.
+
+Now, how do the sponsor, board, and lenders each look at this?
+
+The sponsor is watching price, certainty, and speed. They want the highest number, but also a buyer who will close. A bid with firm financing and few conditions can be worth more than a higher bid with a lot of open questions. The sponsor also cares about the fund's timeline and its returns, which is the math from lesson 22.
+
+The board is watching process and duty. Directors want to know the process was fair, conflicts were handled, and the decision to grant exclusivity was informed. If management will participate in the buyer's equity, the board has to manage that conflict carefully, often with independent directors or a special committee.
+
+The lenders are watching consistency and consent. In a sale, existing debt is usually repaid at closing, but not always, because sometimes a buyer assumes it. In either case, the credit agreement may restrict what you disclose, require notices, or trigger change-of-control provisions and prepayment costs. And the buyer's lenders will test the same EBITDA as the buyer. If the adjusted EBITDA in your CIM doesn't match the definition in your credit agreement and your lender reporting, you have a credibility problem with everyone. That's the point from lesson 22 again. Keep your numbers consistent.
+
+Let me give you three common mistakes.
+
+Mistake one: treating a non-binding letter as meaningless. The IOI and the LOI are non-binding on price, but they set expectations and anchor the negotiation. A weak number that's accepted early tends to stick, and a number the bidder can't support tends to come back down. Read these letters for what they assume, not only what they say.
+
+Mistake two: giving exclusivity too early, or for too long, without protection. Sellers sometimes grant it for the comfort of a signed letter. Smart sellers ask first. Has the bidder done enough work to be confident? Is financing committed? Are the diligence needs listed? Is there a requirement that the buyer move at a certain pace, and can the seller walk if the price changes? A shorter period, with milestones, keeps the buyer honest. The best protection against a retrade is a good alternative, so keep a second bidder warm if you can.
+
+Mistake three: letting the story get ahead of the numbers. Aggressive addbacks, optimistic branch projections, and soft customer data feel good in the CIM. But each one is a future price cut, or a future indemnity claim. A lower number you can defend beats a higher number that gets taken apart in diligence, and it keeps credibility for the rest of the process.
+
+Let me recap.
+
+A sale moves from teaser and NDA, to the CIM, to the IOI, to management presentations and the data room, to the LOI, and then to exclusivity and confirmatory diligence. The CIM is advocacy. The IOI is a non-binding range. The LOI is mostly non-binding, except for exclusivity, confidentiality, and expenses. Exclusivity shifts leverage to the buyer, so it's where retrades tend to happen. In our example, a two million dollar EBITDA dispute at ten and a half times became a twenty-one million dollar price drop.
+
+For you, that means owning the accuracy of what's in the CIM, controlling information flow, protecting the business during the process, and getting your own terms reviewed independently. The sponsor reads price and certainty, the board reads process and conflicts, and the lenders read consistency and consent.
+
+Here's your question for today. If a buyer's accountants went through your adjusted EBITDA line by line tomorrow, which one or two addbacks would you struggle to defend, and what evidence do you have right now to support them?
+
+In our next lesson, we'll look at quality of earnings and due diligence, which is where those addbacks get tested.
+
+Key takeaways:
+- The CIM is advocacy, the IOI is a non-binding range, and the LOI is mostly non-binding except for exclusivity, confidentiality, and expenses, so the real leverage shifts to the buyer once exclusivity is granted.
+- Because the multiple magnifies every dollar of EBITDA, a small disputed addback, like two million dollars at ten and a half times, can become a twenty-one million dollar price cut, so only claim numbers you can defend.
+- As COO and General Counsel, own the accuracy of the CIM, stage and control sensitive information, protect the business and key people during the process, keep EBITDA definitions consistent with the credit agreement, and get independent advice on your own terms.

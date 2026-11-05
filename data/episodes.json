@@ -351,6 +351,22 @@
         "Use the math to find which assumptions the sponsor needs from you, test a lower exit multiple and a margin slip, and keep your numbers consistent across the sponsor, board, lenders, and the credit agreement definitions."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 22,
+      "title": "The deal process: CIM, IOI, LOI, and exclusivity",
+      "file": "lesson-23.mp3",
+      "bytes": 5756176,
+      "duration": "0:11:59",
+      "pub_date": "Thu, 05 Nov 2026 17:14:32 +0000",
+      "generated": "20261105171432",
+      "words": 2033,
+      "takeaways": [
+        "The CIM is advocacy, the IOI is a non-binding range, and the LOI is mostly non-binding except for exclusivity, confidentiality, and expenses, so the real leverage shifts to the buyer once exclusivity is granted.",
+        "Because the multiple magnifies every dollar of EBITDA, a small disputed addback, like two million dollars at ten and a half times, can become a twenty-one million dollar price cut, so only claim numbers you can defend.",
+        "As COO and General Counsel, own the accuracy of the CIM, stage and control sensitive information, protect the business and key people during the process, keep EBITDA definitions consistent with the credit agreement, and get independent advice on your own terms."
+      ],
+      "tts": "openai:default"
     }
   ]
 }
