@@ -367,6 +367,22 @@
         "As COO and General Counsel, own the accuracy of the CIM, stage and control sensitive information, protect the business and key people during the process, keep EBITDA definitions consistent with the credit agreement, and get independent advice on your own terms."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 23,
+      "title": "Quality of earnings and due diligence",
+      "file": "lesson-24.mp3",
+      "bytes": 5846456,
+      "duration": "0:12:11",
+      "pub_date": "Fri, 06 Nov 2026 16:41:30 +0000",
+      "generated": "20261106164130",
+      "words": 2055,
+      "takeaways": [
+        "A quality of earnings report bridges reported EBITDA to diligence-adjusted EBITDA, and because the multiple magnifies every dollar, a three million dollar gap at ten times becomes a thirty million dollar price issue.",
+        "In a freight brokerage, the pressure points are carrier payable cutoff, claims reserves, customer and producer concentration, and one-time items that recur every year, so test your own bridge before a buyer does.",
+        "As COO and General Counsel, run the legal lane alongside the financial lane, control sensitive information and privilege, and make sure diligence EBITDA reconciles with the credit agreement definition you will be measured against."
+      ],
+      "tts": "openai:default"
     }
   ]
 }

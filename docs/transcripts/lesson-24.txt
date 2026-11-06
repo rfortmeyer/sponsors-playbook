@@ -1,0 +1,93 @@
+The Sponsor's Playbook
+Lesson 24: Quality of earnings and due diligence
+
+Welcome to The Sponsor's Playbook. This is lesson 24: Quality of earnings and due diligence.
+
+Picture this. You're three weeks into exclusivity. The deal team has been friendly, even warm. Then on a Tuesday morning, the accounting firm the buyer hired sends a list of forty-one follow-up questions. Question seven asks why gross margin dropped in the same three months every year. Question twelve asks for support on every load that was delivered but not yet invoiced at month end. Question nineteen asks which of your so-called one-time legal costs have shown up in each of the last three years.
+
+Nobody is accusing you of anything. This is just what diligence looks like. But the answers to those questions are about to move the purchase price. Today we're going to talk about how.
+
+Let's start with the core idea. A quality of earnings report, usually called a QoE, is an analysis by an outside accounting firm that asks one question: how much of the profit in this business is real, repeatable, and convertible into cash?
+
+Notice what it is not. It is not an audit. An audit checks whether financial statements follow accounting rules. A QoE takes the numbers as a starting point and asks whether they describe the business a buyer is actually purchasing. Scope varies a lot. On a large deal, the work is extensive. On a smaller deal, a buyer may limit it to a few focus areas to save cost and time.
+
+You will hear two versions. A sell-side QoE is commissioned by the seller, often before the process starts, so the seller can find problems early and present a clean story. A buy-side QoE is commissioned by the buyer, typically during exclusivity, to test everything the seller claimed. As we covered in lesson 23, once exclusivity is granted, leverage shifts to the buyer. The buy-side QoE is the tool that uses that leverage.
+
+The centerpiece of the report is the EBITDA bridge. It starts at reported EBITDA and walks, line by line, to diligence-adjusted EBITDA. There are a few kinds of steps on that walk.
+
+First, non-recurring items. A legal settlement, a one-off consulting project, a recruiting fee for a hire that won't repeat. These get added back, if they are truly one-time.
+
+Second, normalizations. Things that are off-market. An owner paid far above or below what a replacement executive would cost. A related-party lease at a rent that isn't real.
+
+Third, pro forma adjustments. These are the aggressive ones. Run-rate pricing on contracts signed but not yet in effect. The full-year effect of a branch opened in the middle of the year. Cost savings from a layoff that just happened. Lesson 19 covered the same issue from the credit agreement side: addbacks are claims about the future, and the buyer will test every one.
+
+Fourth, and this is the one sellers forget, adjustments that go down. Costs that were under-accrued. Reserves that were too thin. Revenue booked too early.
+
+The QoE also does more than EBITDA. It examines net working capital, and that sets the peg we talked about in lessons 17 and 21. It looks at net debt and debt-like items, meaning obligations that aren't labeled debt but act like it: deferred compensation, unpaid bonuses, accrued claims, sometimes customer deposits. Each of those can reduce what the seller receives at closing. It also does a proof of cash, which reconciles reported earnings to actual bank activity. And it looks at revenue quality: customer concentration, contract versus spot freight, margin by customer, and how much of the profit depends on a few people or a few lanes.
+
+Now let's make that concrete for a freight brokerage, because this industry has its own pressure points.
+
+The first is the cutoff for carrier payables. In a brokerage, you often recognize revenue when a load is delivered, and you owe the carrier a matching cost. If revenue is recorded but the carrier cost isn't fully accrued, margin looks better than it is. Diligence teams test this by looking at carrier invoices that arrive after month end and asking which period they belong to.
+
+The second is gross versus net revenue presentation. Many brokerages report gross revenue, with carrier cost as cost of revenue, and accounting rules allow that if you're acting as principal. A buyer will still look at net revenue, or gross profit, as the real measure of the business. Expect your numbers to be restated in that form.
+
+The third is claims and liability. Cargo claims, accessorial disputes, and, for brokers, contingent auto liability exposure, which is the risk of being sued when a carrier you selected has a serious accident. The question is whether your reserves and insurance are adequate, and whether claims are rising or falling. This is where the legal and financial diligence meet.
+
+The fourth is customer and carrier concentration, and how much of the margin is contractual versus spot. A top customer on a rolling bid that resets next quarter is worth less than the same customer on a multi-year agreement.
+
+And the fifth is people. Brokerages run on sales reps and agents. Diligence will ask how much gross profit sits with each producer, what the non-compete and non-solicit terms look like, and whether any agents are classified as independent contractors in ways that could be challenged.
+
+Let's walk through a simple example.
+
+Say a brokerage reports EBITDA of twenty million dollars. The seller's materials present adjusted EBITDA of twenty-four million. The bridge looks like this. Start at twenty. Add one and a half million for legal and recruiting costs described as one-time. Add one and a half million for price increases on contracts signed but not yet effective. Add one million for startup losses at two new branches. Twenty plus one and a half plus one and a half plus one is twenty-four.
+
+At ten times, which is a reasonable round multiple for our purposes, twenty-four million of EBITDA implies a price of two hundred forty million dollars.
+
+Now the buyer's accountants go to work.
+
+On the legal and recruiting item, they find that a million dollars is a genuine one-off settlement. But the other half million is routine legal spend that shows up every year. They accept one million.
+
+On the price increases, they check the contracts. Some customers pushed back, and a few are rebidding. Historically, some volume walks when prices rise. They accept half a million of the one and a half.
+
+On the branch losses, they accept half a million, because one branch is clearly a startup, and the other is just an underperforming office with no ramp in sight.
+
+Then comes the adjustment the seller never put in the bridge. The accountants find that carrier payables at year-end were under-accrued, and cargo claims reserves were light compared to history. Together, that's a negative one million dollars.
+
+So the diligence bridge is: twenty, plus one, plus half a million, plus half a million, minus one. That's twenty-one million.
+
+The gap between twenty-four and twenty-one is three million dollars. At ten times, that's thirty million dollars of purchase price, from numbers that each looked reasonable in isolation. And that's before the working capital peg and debt-like items, which can move the check at closing by more.
+
+Here's the part that matters for you. Notice that the buyer didn't need to prove the seller wrong everywhere. They only needed to say: show me. Every adjustment you can't support with evidence gets discounted, and the multiple does the rest.
+
+So what does this mean for you as COO and General Counsel?
+
+First, you are the person who knows where the bodies are buried. The deal team and bankers run the process, but diligence questions land on you. Finance will answer the accounting ones. You will be asked about contracts, claims, compliance, licensing, employment, insurance, and data. The quality of your answers becomes the buyer's view of management credibility. Fast, consistent, documented answers raise it. Slow or shifting ones lower it, and they also raise the question of what else might be wrong.
+
+Second, run diligence in two lanes. The financial lane is the QoE. The legal lane covers change-of-control provisions in customer and carrier contracts, litigation, FMCSA authority and broker bond status, worker classification, insurance coverage, intellectual property, and data privacy. The lanes overlap constantly. A change-of-control clause in a top customer contract is a legal finding and a revenue-quality finding at once. A pending claim is both a disclosure item and a reserve question. Make sure someone owns the overlap, and in a company like yours, that is probably you.
+
+Third, expect each group to read the report differently. The sponsor reads it for price and thesis. Does the earnings base support the number we bid, and does the plan still work? The board reads it for risk and for management credibility: did the numbers in the CIM hold up? And the lenders read it for something else entirely. They will often commission their own review or rely on the sponsor's, and they care about cash, borrowing base quality, and whether the EBITDA in the credit agreement matches the diligence number. If the QoE says twenty-one and your covenant definition says twenty-four, that gap doesn't disappear. It becomes headroom you may not really have.
+
+That ties directly back to lesson 19, where we talked about addback caps. Before signing, compare the diligence bridge with the credit agreement's definition of adjusted EBITDA. If they differ, understand why, and know which one you will be measured against.
+
+Fourth, protect the process. Diligence asks for sensitive information: customer-level margins, employee compensation, pending disputes. As we said in lesson 23, stage and control that information. Use clean-team arrangements where appropriate, and keep privileged material privileged. Handing over legal advice about a dispute without thinking can waive privilege. Work out how to share the facts without sharing the advice.
+
+Now, common mistakes. Three of them.
+
+The first is treating diligence as something that happens to you instead of something you prepare for. The best-run companies know their own weak spots before the buyer finds them. If you haven't tested your own numbers, consider doing it, or at least walk your own bridge line by line and ask what proof you have. Surprises hurt more than bad news you disclosed early.
+
+The second is calling recurring costs one-time. If a so-called one-time item shows up every year, it is a cost of doing business. This happens a lot with legal settlements, severance, recruiting fees, and claims. In a brokerage, cargo claims and accessorial disputes are especially prone to this. A buyer who sees the same item in three straight years will treat it as normal, and it will cost you the credibility on your other adjustments too.
+
+The third is letting the data be messy and the story be inconsistent. If your margin by customer comes from a spreadsheet that three people maintain, and the numbers differ between the CIM, the data room, and the management presentation, every number gets discounted. Reconcile the sources before diligence begins, so the same figure appears everywhere. A related error is fixing problems late, or quietly, in the middle of the process. If you find an issue, tell the deal team and counsel early, and decide together how to handle it.
+
+Let's pull this together.
+
+A quality of earnings report tests whether reported profit is real, repeatable, and cash-generating. Its main product is the bridge from reported to diligence-adjusted EBITDA, plus a view of working capital, debt-like items, and revenue quality. Every unsupported addback gets discounted, and because the multiple magnifies it, a three million dollar gap at ten times is a thirty million dollar price issue. In a brokerage, watch carrier payable cutoff, claims reserves, concentration, producer dependence, and the way gross revenue is presented. And as COO and General Counsel, you run the legal lane, cover the overlap, and keep your numbers aligned with the credit agreement.
+
+Here's your question for today. If an outside team spent two weeks inside your numbers, which three adjustments or assumptions would you least want to defend, and what evidence do you have for each of them right now?
+
+Next time, in lesson 25, we move from finding the facts to allocating the risk: purchase agreements, reps, warranties, indemnities, and representation and warranty insurance.
+
+Key takeaways:
+- A quality of earnings report bridges reported EBITDA to diligence-adjusted EBITDA, and because the multiple magnifies every dollar, a three million dollar gap at ten times becomes a thirty million dollar price issue.
+- In a freight brokerage, the pressure points are carrier payable cutoff, claims reserves, customer and producer concentration, and one-time items that recur every year, so test your own bridge before a buyer does.
+- As COO and General Counsel, run the legal lane alongside the financial lane, control sensitive information and privilege, and make sure diligence EBITDA reconciles with the credit agreement definition you will be measured against.
