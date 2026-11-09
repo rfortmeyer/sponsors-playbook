@@ -1,0 +1,93 @@
+The Sponsor's Playbook
+Lesson 25: Purchase agreements: reps, warranties, indemnities, and R&W insurance
+
+Welcome to The Sponsor's Playbook. This is lesson 25: Purchase agreements: reps, warranties, indemnities, and R&W insurance.
+
+Picture this. A sponsor buys a mid-sized freight brokerage. Seven months after closing, a large shipper's audit team sends over a reconciliation. For the last two years, the brokerage owed volume rebates to that shipper, and nobody booked them. The total is three million dollars. The seller's financial statements said everything was properly recorded, and the seller said so in the purchase agreement.
+
+So now a question matters more than almost anything in the deal. Who pays? The answer isn't in the CIM, the quality of earnings report, or the model. It's in the purchase agreement. That's today's lesson.
+
+Let's start with the vocabulary, because people blur these terms.
+
+A representation is a statement of fact about the business, made as of a date. "The financial statements are accurate." "There is no pending litigation." "We hold all required broker authority." In US deals, "representations and warranties" are usually bundled together and treated as one thing. Technically, a warranty is a promise that the statement is true, and the seller stands behind it whether or not they knew.
+
+Reps are made at signing, and usually brought down at closing. That gap matters. If something changes between the two dates, there are rules about what happens.
+
+Covenants are different. A covenant is a promise about conduct, like running the business in the ordinary course between signing and closing.
+
+An indemnity is the remedy. It's the seller's agreement to pay the buyer back if a rep turns out to be false, or if certain specific problems show up. Without an indemnity, you'd have to sue for breach of contract, which is slower and more uncertain.
+
+Now the mechanics, because that's where the negotiation happens.
+
+First, the disclosure schedules. Reps are written broadly, and the seller then lists exceptions. "No pending litigation, except as listed on schedule 4.9." Anything properly disclosed generally can't be the basis of a claim. So the schedules are the seller's shield, and the buyer reads them as a map of known problems.
+
+Second, qualifiers. A rep may be flat, or it may say "to the seller's knowledge," or "in all material respects." Knowledge is usually defined as the actual knowledge of named people, sometimes after reasonable inquiry. Remember that, because if you are a named person, that definition is about you.
+
+Third, survival. Reps don't last forever. In a traditional deal, general reps often survive twelve to eighteen months. Fundamental reps, like authority to sell, ownership of the shares, and capitalization, survive much longer, sometimes until the statute of limitations plus a bit. Taxes often get their own long period.
+
+Fourth, the limits on recovery. The basket is a threshold. With a deductible basket, the buyer absorbs losses up to the threshold and recovers only the excess. With a tipping basket, once losses pass the threshold, the buyer recovers from the first dollar. The cap is the ceiling on what the seller owes for general reps. In traditional private equity deals, a common cap is around ten percent of the purchase price, often backed by an escrow. But this varies with deal size, sector, and how competitive the auction is. Fundamental reps and fraud usually sit outside the cap, up to the full purchase price, or beyond for fraud.
+
+Fifth, special indemnities. When diligence finds a specific known problem, say a pending claim or a tax exposure, the buyer often asks for a separate dollar-for-dollar indemnity for that item, outside the basket and sometimes outside the cap. Known issues are priced through special indemnities or the purchase price. They're rarely left to the general reps.
+
+Sixth, sandbagging. That's the question of whether the buyer can still claim for a breach it knew about before closing. Some agreements allow it, some prohibit it, and some stay silent, which is risky because the answer depends on the governing state's law.
+
+Now to R&W insurance, which has changed how most sponsor deals work.
+
+In a buyer-side R&W policy, the buyer purchases insurance against losses from breaches of the seller's reps. The insurer, not the seller, becomes the main source of recovery. Sellers love this. Sponsors selling a portfolio company love it even more, because a fund wants to distribute proceeds to investors, not leave money in escrow for eighteen months.
+
+The typical shape, and this does move with the market, looks like this. The policy limit is often around ten percent of enterprise value. There's a retention, like a deductible, historically around one percent of enterprise value, and in recent years often closer to half a percent to three-quarters of a percent, sometimes dropping after the first year. The premium has typically run a few percent of the limit, with underwriting fees, taxes, and broker compensation on top. The policy usually covers general reps for about three years and fundamental and tax reps for about six.
+
+Now the exclusions, which matter as much as the coverage. The policy won't cover things the buyer's deal team knew about before signing. It generally excludes purchase price adjustments and forward-looking statements. Insurers often exclude or narrow coverage for areas like underfunded pensions, certain wage and hour exposure, and anything the diligence didn't look at. That last one is important. Underwriters read your diligence reports. Thin diligence on a topic often means an exclusion for that topic. This ties back to lesson 24. The quality of earnings report and legal diligence aren't just for price. They determine what the insurer will cover.
+
+One more point. The insurer generally can't pursue the seller after paying, except for fraud. That's why sellers prefer this structure.
+
+Let's run an example, keeping it simple.
+
+A sponsor buys a brokerage for two hundred million dollars of enterprise value. That's ten times twenty million of EBITDA. Back to our rebate story. After closing, they find three million dollars of unrecorded volume rebates, and the financial statements rep was breached.
+
+First, the traditional structure. The seller gives a ten percent cap, so twenty million, held partly in escrow. There's a deductible basket of half a percent, so one million dollars. The loss is three million. The buyer absorbs the first million and recovers two million from the seller. Net cost to the buyer: one million.
+
+Now the R&W structure. Say the policy limit is twenty million, ten percent of value. The retention is three-quarters of a percent, so one and a half million. In many deals, that retention is split. The buyer bears the first half, seven hundred and fifty thousand dollars, and the seller's escrow covers the next seven hundred and fifty thousand. The insurer pays the rest.
+
+So on a three million dollar loss, the buyer absorbs seven hundred and fifty thousand. The seller's escrow pays seven hundred and fifty thousand. The insurer pays one and a half million. The buyer's net cost is lower than in the traditional structure, and the seller's exposure is much smaller, less than a million instead of up to twenty.
+
+What did that cost? If the premium is around three percent of a twenty million dollar limit, that's about six hundred thousand dollars. Add underwriting fees, taxes, and broker costs, and the all-in could be around eight hundred thousand. That's a real cost in the sources and uses we discussed in lesson 21. The deal's total uses include it.
+
+But there's a catch. If the buyer's deal team had seen the unrecorded rebates in diligence, the insurer would exclude them. Then the buyer would need a special indemnity or a price reduction. The insurance protects against surprises, not known problems.
+
+Also notice what we haven't discussed: how damages are measured. Some agreements let the buyer claim lost value at the deal multiple, not just the cash hit. If a recurring problem lowers EBITDA by three million, at ten times that's thirty million of claimed value. Whether that's recoverable is heavily negotiated, and policies vary too. Read it carefully.
+
+Now, what does this mean for you as COO and General Counsel?
+
+If your company is being sold, you'll likely be the person who gathers the facts behind the reps. Disclosure schedules rely on your legal files, compliance records, claims history, and contract data. A rep is only as good as the process behind it. If you're a named knowledge person, your actual awareness defines what the seller knew. Get counsel for yourself on that, separate from the company's deal counsel. If you're rolling equity or selling shares, your personal exposure for reps may be different from the sponsor's. Usually it's limited and several, not joint, and fraud is the major carve-out, but check.
+
+If your company is the buyer, say in an add-on acquisition or buying a small brokerage to feed your new branch strategy, you're on the other side. You'll want diligence to cover things that matter in freight: carrier vetting and negligent selection exposure, broker authority and bond status, contingent auto liability coverage, independent contractor classification for agents, and customer rebate and accessorial practices. Then you'll want the reps and any special indemnities to match what you found.
+
+Now, how does each stakeholder read this?
+
+The sponsor looks at certainty and tail risk. When buying, they want recovery without chasing a seller. When selling, they want a clean exit with little money stuck in escrow. They'll push for R&W insurance in most cases. Premium cost matters, but so does competitiveness.
+
+The board looks at risk allocation. What's insured, what's excluded, what's covered by special indemnity, and what's left on the company's balance sheet? Is that residual risk acceptable?
+
+Lenders look at collateral and cash. In an acquisition, lenders often require a collateral assignment of the company's rights under the purchase agreement and the policy. They'll also want to know how recovery proceeds are treated under the credit agreement. Does that cash go to the business, or does it trigger a prepayment? Check the permitted acquisition conditions, too.
+
+Let me flag three common mistakes.
+
+The first is treating R&W insurance as coverage for everything. It isn't. Known issues, price adjustments, and excluded categories are all outside it. Ask for the exclusions list early, and map it against your operating risks. If wage and hour or classification issues are carved out, that risk sits with the company unless a specific indemnity picks it up.
+
+The second is treating the disclosure schedules as paperwork. Sellers sometimes under-disclose and expose themselves to claims. Or they over-disclose, with vague catch-all language, and the buyer or insurer pushes back or excludes the area. Both hurt. Be specific, accurate, and consistent with the data room, the CIM, and the QoE. Lesson 23 made the point that you own the accuracy of the story. The schedules are where that becomes a legal obligation.
+
+The third is ignoring what happens after closing. Survival periods, notice deadlines, and claim procedures are strict. A buyer who finds a problem in month thirteen of a twelve-month survival period may have nothing. Someone on your team should own a post-closing calendar. And preserve documents, because a claim requires evidence.
+
+Quick recap.
+
+Representations are statements of fact. Covenants are promises about conduct. Indemnities are the money remedy. The disclosure schedules, knowledge definitions, survival periods, baskets, and caps determine how much protection is real. Special indemnities handle known problems. R&W insurance shifts most of the general rep risk from the seller to an insurer, at a cost, with exclusions, and with underwriting that depends on diligence quality. In our example, a three million dollar surprise cost the buyer seven hundred and fifty thousand dollars under insurance, and the seller under a million, while the premium was around six hundred thousand dollars before fees.
+
+Here's your question for today. If your company were sold next year, what's one statement the seller would be asked to make about your business, in your area, that you couldn't comfortably support today? Whether it's carrier vetting records, claims reserves, contractor classification, or customer rebates, that's your first diligence item.
+
+In the next lesson, we'll look at earnouts, rollover equity, and seller notes, the pieces of a deal that keep sellers tied to the outcome after closing.
+
+Key takeaways:
+- Reps state facts, covenants promise conduct, and indemnities provide the remedy, and disclosure schedules, knowledge definitions, survival periods, baskets, and caps decide how much protection a buyer or exposure a seller really has.
+- R&W insurance shifts most general rep risk from the seller to an insurer, but it costs real money, excludes known issues and certain categories, and depends on the quality of diligence, so known problems still need special indemnities or price adjustments.
+- As COO and General Counsel, you supply the facts behind the reps and may be a named knowledge person, so keep schedules accurate and consistent with the CIM, QoE, and data room, get your own advice, and track post-closing notice deadlines and lender assignment requirements.

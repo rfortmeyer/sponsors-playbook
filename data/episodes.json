@@ -383,6 +383,22 @@
         "As COO and General Counsel, run the legal lane alongside the financial lane, control sensitive information and privilege, and make sure diligence EBITDA reconciles with the credit agreement definition you will be measured against."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 24,
+      "title": "Purchase agreements: reps, warranties, indemnities, and R&W insurance",
+      "file": "lesson-25.mp3",
+      "bytes": 6064212,
+      "duration": "0:12:38",
+      "pub_date": "Mon, 09 Nov 2026 19:39:46 +0000",
+      "generated": "20261109193946",
+      "words": 2029,
+      "takeaways": [
+        "Reps state facts, covenants promise conduct, and indemnities provide the remedy, and disclosure schedules, knowledge definitions, survival periods, baskets, and caps decide how much protection a buyer or exposure a seller really has.",
+        "R&W insurance shifts most general rep risk from the seller to an insurer, but it costs real money, excludes known issues and certain categories, and depends on the quality of diligence, so known problems still need special indemnities or price adjustments.",
+        "As COO and General Counsel, you supply the facts behind the reps and may be a named knowledge person, so keep schedules accurate and consistent with the CIM, QoE, and data room, get your own advice, and track post-closing notice deadlines and lender assignment requirements."
+      ],
+      "tts": "openai:default"
     }
   ]
 }
