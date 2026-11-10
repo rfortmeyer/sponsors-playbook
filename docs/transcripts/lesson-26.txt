@@ -1,0 +1,89 @@
+The Sponsor's Playbook
+Lesson 26: Earnouts, rollover equity, and seller notes
+
+Welcome to The Sponsor's Playbook. This is lesson 26: Earnouts, rollover equity, and seller notes.
+
+Picture this. Your sponsor wants to buy a regional freight brokerage as an add-on to your platform. The founder wants sixty million dollars. The sponsor thinks the business is worth forty-five. They go back and forth for two weeks, and nobody moves.
+
+Then someone says, "What if we don't fight about the number? What if we fight about the structure?"
+
+Suddenly the headline price is still sixty million. But only forty-five million arrives as cash at closing. The founder reinvests some. The founder lends some back. And the last piece is paid only if the business actually performs.
+
+That is where today's three tools come from. All of them bridge a gap between what a seller believes and what a buyer will pay. All of them also land on your desk after closing, because someone has to run the business, measure the results, and keep the documents straight. Probably you.
+
+Let's take them one at a time.
+
+First, the earnout. An earnout is additional purchase price that the buyer pays after closing, but only if the business hits agreed targets. It is contingent consideration. The seller is saying the business is worth more. The buyer is saying, prove it. The earnout settles that argument with the future instead of with debate.
+
+The key design choices are the metric, the period, and the payout shape. Common metrics are revenue, gross profit, and EBITDA. Periods usually run one to three years. The payout can be all or nothing, which is a cliff, or it can scale between a floor and a ceiling. Market practice varies a lot. Earnouts are more common when the business is smaller, the forecast is aggressive, or the seller's relationships are doing much of the work. That describes a lot of freight brokerages.
+
+The metric matters most, because the metric shapes behavior. If the earnout is on revenue, the seller-manager is tempted to buy volume with thin margin freight. In a brokerage, revenue is mostly pass-through carrier cost, so revenue alone is a poor yardstick. Gross profit, meaning net revenue after carrier payments, is usually a better measure. If the earnout is on EBITDA, the seller-manager is tempted to cut spending. That includes the things we talked about in lesson 19: compliance, carrier vetting, insurance, and the sales investment that feeds future growth. Whatever you measure is what you will get.
+
+Second, rollover equity. Rollover means the seller does not cash out entirely. Instead, the seller reinvests part of the proceeds into the new ownership entity, alongside the sponsor. If the sponsor buys the company through a new holding company, the founder takes some of the purchase price as shares in that holding company.
+
+Why do it? It aligns the founder with the sponsor's exit. It reduces the cash the sponsor must fund at closing. And it can often be structured to defer taxes for the seller, though that depends on the structure, so the tax advisers matter a great deal here. Rollover sizes vary widely. Ten to thirty percent of the seller's proceeds is a common range, but it moves with deal size and how much the sponsor wants the founder to stay.
+
+Rollover comes with governance. The founder is now a co-owner, usually a minority one. So you will see questions about board seats, information rights, tag-along and drag-along rights, and what happens to the shares if the founder leaves. Those are the leaver provisions. A founder who leaves voluntarily, or is fired for cause, may have to sell shares back at a lower price than one who leaves in good standing. Those terms matter for you, because they are tied to employment agreements and equity documents.
+
+Third, the seller note. A seller note is simply a loan from the seller to the buyer, for part of the purchase price. Instead of paying all the cash at closing, the buyer gives the seller a promissory note, with interest, due in a few years. In a leveraged deal, it is usually subordinated. That means it ranks behind the senior lenders. The senior lenders typically require a subordination agreement, which limits when the note can be paid and what the seller can do if it isn't. Often there is a standstill, which stops the seller from enforcing the note for a period if the company is struggling.
+
+Interest might be paid in cash, or it might accrue and be added to the balance, which is called payment in kind. Rates vary with the credit cycle, but they usually sit above senior debt pricing, reflecting the subordination.
+
+Now a worked example, with numbers simple enough to follow by ear.
+
+The brokerage earns six million dollars of EBITDA. The deal is done at ten times, so the headline price is sixty million dollars.
+
+Here is how the sponsor structures it. Forty-five million dollars is paid in cash at closing. Six million dollars is rollover equity. Four and a half million dollars is a seller note. And four and a half million dollars is an earnout. Add those up and you get sixty. Forty-five plus six plus four and a half plus four and a half.
+
+Now, where does the forty-five million in cash come from? Say senior lenders provide twenty-seven million dollars, which is four and a half times EBITDA. The sponsor puts in the other eighteen million. That's forty-five.
+
+Look at the equity. The sponsor has eighteen million. The founder has six million of rollover. Total equity is twenty-four million, so the founder owns twenty-five percent, before any management incentive pool. The sponsor owns seventy-five.
+
+Now the seller note. It's four and a half million dollars. Add it to the senior debt of twenty-seven million and you have thirty-one and a half million of debt-like claims. That's about five and a quarter times EBITDA. Whether the lenders count the seller note in their leverage covenant depends on the credit agreement. Some count it. Some exclude subordinated debt from the senior ratio but include it in the total. Either way, the sponsor and the board should look at the total.
+
+Now the earnout. Suppose it pays four and a half million dollars if gross profit in year two reaches thirty-six million, with partial payment starting at thirty-three. Gross profit in the year before closing was thirty million. So the founder must grow gross profit twenty percent in two years to get the full amount.
+
+Here's why that matters to you. Suppose the business hits thirty-four and a half million, halfway between thirty-three and thirty-six. A scaled formula pays half the earnout, or two and a quarter million dollars. That sounds fine. But now ask: what did it cost to hit that gross profit? If the company hired twenty new reps, opened two new branches, and paid heavy ramp costs, EBITDA may have fallen. The seller is happy because the earnout is on gross profit. The sponsor is unhappy because EBITDA is below plan, and the lenders are watching the leverage ratio. Same company, same year, opposite reactions.
+
+This is why the definitions matter. Which costs count? Is the earnout calculated before or after allocating corporate overhead? What happens if the buyer moves a major customer to another subsidiary? What happens if the sponsor integrates this brokerage into your platform, and the freight shifts between entities? If you don't write that down at signing, the earnout gets decided in a dispute, and earnout disputes are some of the most common post-closing fights in M&A.
+
+Now, what does this mean for you as COO and General Counsel?
+
+Start with the credit agreement. Earnout payments, seller note payments, and sometimes even redemptions of rollover equity can be restricted payments or junior debt payments. They may require that you meet a leverage test, have minimum liquidity, or have no default. So when the purchase agreement says the earnout is due in ninety days, ask the lenders' question: where does the cash come from, and does the credit agreement let you pay it? Earnout payments can also fall due in the same quarter as working capital growth, as we saw in lesson 22, so liquidity can tighten at the worst time. Many deals handle this by allowing the earnout to be deferred, or converted to a subordinated note, if the credit agreement blocks payment. That's something to negotiate before closing, not after.
+
+Next, accounting. An earnout is generally recorded at fair value as a liability at closing, and changes in that estimate flow through the income statement. If it is tied to the seller's continued employment, it may be treated as compensation instead of purchase price. That changes the expense and can affect adjusted EBITDA, depending on how the credit agreement defines addbacks. Make sure your finance team and auditors talk to you early.
+
+Third, the setoff and indemnity link. Back in lesson 25 we covered indemnities. Here's how they connect. Buyers often negotiate the right to offset indemnity claims against the seller note and the earnout. That gives the buyer a practical source of recovery without chasing the seller for cash. Sellers push back, because it turns their deferred payment into a negotiating chip. If you're the one who identifies the breach, expect to be in the room when that argument starts.
+
+Fourth, the operating covenants. Sellers who hold an earnout often want protections: keep the business separate, don't shift customers, maintain staffing, run the business consistently with past practice. Buyers want freedom to integrate. The tighter those covenants, the less flexibility you have. If you've promised to keep the startup branch fully funded, for example, you cannot easily cut it to save cost. Read those covenants as if they were a budget.
+
+Now consider how the three audiences look at this.
+
+The sponsor sees a price bridge and a risk-sharing tool. Every dollar of deferred or contingent price is a dollar not paid at closing, which improves the return math we did in lesson 22. The sponsor also sees alignment, since a founder with rollover and an earnout cares about the same outcomes.
+
+The board sees conflicts. A founder who is both an executive and an earnout recipient has an incentive that may differ from the company's. The board will want clear measurement rules, independent review of the calculation, and a process for disputes.
+
+The lenders see claims on cash. They want the seller note subordinated, payments blocked in a downturn, and earnout payments tested against liquidity and leverage. They don't mind the rollover so much, since it is equity. They mind anything that leaks cash while their loan is outstanding.
+
+And if you yourself hold rollover equity, or are receiving an earnout, get your own counsel. As lesson 23 reminded us, your personal terms are not the company's terms.
+
+Now a few common mistakes.
+
+One: a vague metric. "Gross profit" sounds clear until you ask whether it includes accessorials, how you treat claims, what happens to carrier payable accruals at period end, and which accounting policies apply. Lesson 24 showed how cutoff and reserves move earnings. An earnout measured on a number that can be adjusted by cutoff is an invitation to a dispute. Attach an illustrative calculation to the purchase agreement, and specify consistent accounting principles.
+
+Two: ignoring the credit agreement. Teams negotiate the purchase agreement and the debt documents in parallel, and then discover that the earnout is not permitted to be paid, or that the seller note terms conflict with the subordination. Have someone read the two documents side by side before signing.
+
+Three: letting the earnout steer the company away from the thesis. If the founder chases gross profit with thin-margin freight, or the sponsor starves the business to protect EBITDA, you've let a payment term set your strategy. Run the earnout metric past the value creation plan. If it rewards something the plan doesn't want, change one of them.
+
+Let me recap.
+
+An earnout pays extra price after closing if targets are hit. Metric, period, and definitions decide whether it works. Rollover equity keeps the seller invested alongside the sponsor and comes with governance and leaver terms. A seller note is subordinated debt owed to the seller, and lenders control when it can be paid. Each tool moves price risk from closing day into the future, and the future is where you operate. Your job is to know the definitions, read the credit agreement against the purchase agreement, watch the cash, and keep the incentives consistent with the plan.
+
+Here's your question for today. Think of the last acquisition, or the next one, at your company. If part of the price had been contingent, which single metric would you have been most comfortable defending in a dispute, and which actions might that metric have tempted people to take?
+
+Next time, we'll look at working capital pegs and purchase price adjustments.
+
+Key takeaways:
+- An earnout, rollover equity, and a seller note each shift part of the price from closing day into the future, and the metric, definitions, and subordination terms decide whether they align people or create disputes.
+- In a freight brokerage, gross profit usually beats revenue as an earnout metric, but any metric needs precise accounting definitions and protection against behavior that conflicts with the value creation plan.
+- Read the purchase agreement against the credit agreement: earnout and seller note payments can be restricted, setoff against indemnity claims matters, and the sponsor, board, and lenders each judge the structure differently.

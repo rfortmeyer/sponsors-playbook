@@ -399,6 +399,22 @@
         "As COO and General Counsel, you supply the facts behind the reps and may be a named knowledge person, so keep schedules accurate and consistent with the CIM, QoE, and data room, get your own advice, and track post-closing notice deadlines and lender assignment requirements."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 25,
+      "title": "Earnouts, rollover equity, and seller notes",
+      "file": "lesson-26.mp3",
+      "bytes": 5951781,
+      "duration": "0:12:24",
+      "pub_date": "Tue, 10 Nov 2026 16:54:34 +0000",
+      "generated": "20261110165434",
+      "words": 2148,
+      "takeaways": [
+        "An earnout, rollover equity, and a seller note each shift part of the price from closing day into the future, and the metric, definitions, and subordination terms decide whether they align people or create disputes.",
+        "In a freight brokerage, gross profit usually beats revenue as an earnout metric, but any metric needs precise accounting definitions and protection against behavior that conflicts with the value creation plan.",
+        "Read the purchase agreement against the credit agreement: earnout and seller note payments can be restricted, setoff against indemnity claims matters, and the sponsor, board, and lenders each judge the structure differently."
+      ],
+      "tts": "openai:default"
     }
   ]
 }
