@@ -1,0 +1,89 @@
+The Sponsor's Playbook
+Lesson 27: Working capital pegs and purchase price adjustments
+
+Welcome to The Sponsor's Playbook. This is lesson 27: Working capital pegs and purchase price adjustments.
+
+Picture this. A deal closes on a Friday. Champagne, handshakes, wire confirmations. Sixty days later, the buyer's accountants send over a closing statement. It says the business delivered two and a half million dollars less working capital than promised. The seller's team says that's nonsense. And now the controller who used to work for the seller, and who now works for you, is in the middle of a very expensive argument over how to count carrier payables on the last day of the month.
+
+That fight is not a surprise. It is built into almost every deal. Today is about how it works, and why a clause that looks like accounting boilerplate can move real money.
+
+Let's start with the basic idea. Most private deals are priced on what's called a cash-free, debt-free basis. The headline price is an enterprise value. The seller keeps the cash, pays off the debt, and the buyer gets a business with a normal amount of working capital to run it.
+
+That last phrase is the point. A buyer paying ten times EBITDA is assuming the business comes with the receivables, payables, and other short-term balances it needs to operate. If the seller could pull out all the cash from collections and stop paying vendors the week before closing, the buyer would pay full price for a business that needs millions of dollars just to function.
+
+So the parties agree on a target level of net working capital. That target is the peg. You will also hear it called the target working capital or the baseline. At closing, the actual working capital is compared to the peg. If the business delivers more than the peg, the price goes up, dollar for dollar. If it delivers less, the price goes down, dollar for dollar.
+
+Net working capital here generally means current operating assets minus current operating liabilities. Cash is excluded, because the deal is cash-free. Debt is excluded, because the deal is debt-free. Income taxes are often handled separately. What's left is the operating machinery: receivables, prepaid items, payables, accrued expenses.
+
+Now, the mechanics. There are usually three steps.
+
+First, the peg is set in the purchase agreement. It's commonly based on an average of recent monthly working capital, often the trailing twelve months. Sometimes it's shorter, sometimes it's adjusted for seasonality or growth. Practice varies by industry and deal size, and it's negotiable.
+
+Second, before closing, the seller delivers an estimate of closing working capital. The price paid at closing is adjusted using that estimate.
+
+Third, after closing, usually within sixty to ninety days, the buyer prepares a final closing statement. The seller gets a chance to review and object. If they can't agree, an independent accounting firm often resolves the disputed items. That firm usually acts as an expert, not a full arbitrator, and its role is typically limited to the disputed line items. The final number trues up the price. Often a small escrow is held back to cover any shortfall, though how it's sized and whether it's the only source of recovery varies.
+
+Why does this matter more than it sounds? Because the peg is a price negotiation in disguise. A lower peg helps the seller, because it's easier to beat. A higher peg helps the buyer. Move the peg by two million dollars and you've moved the price by two million dollars. Unlike EBITDA, there's no multiple. But it's dollars you can see, and the disputes are very real.
+
+Freight brokerage makes this more interesting. In lesson 21, we talked about how working capital can quietly consume cash in a brokerage. Here's why. You typically pay carriers fast, sometimes within days, especially with quick pay programs. You collect from shippers slowly, often thirty to sixty days. So receivables are large and payables are smaller, and growth makes the gap wider. A brokerage can be profitable and still be a hungry consumer of cash.
+
+That makes the peg especially sensitive. Let me walk through an example, with simple numbers.
+
+Say your company is being bought at an enterprise value of one hundred twenty million dollars. Over the last twelve months, the company's net working capital averaged twenty-four million dollars. Roughly: receivables, including unbilled loads, around fifty-five million; carrier payables and accrued expenses around thirty-one million. Fifty-five minus thirty-one is twenty-four. The parties agree the peg is twenty-four million.
+
+Now, a few weeks before closing, the seller's team estimates closing working capital at twenty-five million. That's a million over the peg, so at closing the buyer pays one hundred twenty-one million. Enterprise value plus the one million excess.
+
+Sixty days after closing, the buyer's team prepares the final statement. They find that actual working capital at closing was twenty-two and a half million. That's two and a half million below the estimate, and one and a half million below the peg.
+
+So the true-up says: the seller owes back two and a half million. The seller was paid for one million of excess that wasn't there, and also owes the one and a half million shortfall against the peg. Final price: one hundred eighteen and a half million. That's the headline price minus the one and a half million shortfall.
+
+Where did the two and a half million go? Suppose three line items drive it. First, the buyer says there were about one and a half million dollars of carrier invoices for loads delivered before closing that were not accrued. Delivered loads, owed to carriers, but not yet booked. That's the carrier payable cutoff issue from lesson 24. Second, they say the bad debt reserve was too thin on some aged receivables, by about half a million. Third, there was another half million in accrued bonuses and incentive payouts that should have been counted as a liability.
+
+Each of those can be argued. But notice what decides the argument. It's not who's smarter. It's what the purchase agreement says about accounting principles.
+
+Typically there's a hierarchy. First, specific policies written into the agreement. Second, consistency with how the company historically prepared its financials. Third, generally accepted accounting principles, usually GAAP. Which one controls when they conflict matters enormously. If the peg was built using the company's historical practice, which didn't accrue certain carrier costs until invoiced, but the closing statement uses strict GAAP, the buyer has quietly raised the bar. The closing number drops. The peg did not.
+
+The better agreements include an illustrative calculation, an exhibit showing exactly how the peg was computed, line by line, with sample numbers. If the peg and the closing statement use different methods, you have a mismatch that costs somebody a lot of money.
+
+There's another boundary to watch: debt-like items. Some liabilities could be treated either as working capital or as indebtedness. Accrued bonuses, deferred revenue, unpaid transaction expenses, certain claims. If it's counted as debt, it reduces price dollar for dollar. If it's counted in working capital, it reduces price only to the extent it moves working capital against the peg. Smart parties argue about the category, and the agreement should prevent double counting, where the same liability is hit twice.
+
+For a brokerage, the debt-like conversation often includes unpaid cargo claims, auto liability reserves, deferred payments to producers or agents, and any customer credits owed. Know which bucket each lands in.
+
+Now, what does this mean for you as COO and General Counsel?
+
+First, you are likely the person who knows what's normal. The sponsor and bankers see a number. You know that month-end in March looks different from month-end in July. You know which shippers pay late, which carriers are on quick pay, and which accruals are guesses. That knowledge decides whether the peg reflects reality.
+
+Second, think about growth. If the business is growing quickly, a trailing average understates the working capital needed on closing day. A buyer funding that growth will want the peg to reflect current levels. A seller will argue for the average. If you're in a growing branch build-out, like your new-business unit, those new branches add receivables before they add profit. Be ready to explain that.
+
+Third, watch your own behavior between signing and closing. When people know a working capital test is coming, the temptation is to manage it. Collect faster. Delay paying carriers. Push invoices out. Some of that is ordinary course, but some looks like gaming, and it can breach the covenant to operate in the ordinary course, or damage carrier relationships you'll need the day after. Legal should set clear guidance, and finance should document why any unusual movement happened.
+
+Now let's look at how the three audiences see it.
+
+The sponsor looks at the peg as price and as cash. A peg that's too low means they'll need to fund the working capital gap after closing, from the revolver or equity. Remember lesson 22: working capital growth can cut the cash available to pay down debt. So sponsors care about the peg's effect on returns.
+
+The board will look at the dispute risk and the distraction. A messy true-up takes management time during the most sensitive period, the first one hundred days. They'll want to know who is preparing the closing statement and whether the company has the books and people to do it well.
+
+Lenders look at liquidity. Credit agreements often set a minimum availability at closing, tied to a borrowing base made of eligible receivables. If the closing receivables are lower than expected, or ineligible because of disputes or aging, your day-one liquidity is thinner. A working capital shortfall can be both a price issue and a covenant issue.
+
+And one more legal point. The working capital adjustment should be read together with the indemnity provisions from lesson 25. A good agreement says that an item counted in the price adjustment can't be claimed again as an indemnity loss. It also says how the adjustment interacts with any earnout or seller note from lesson 26, including whether amounts owed can be offset. If it's silent, you're headed for a fight.
+
+Let me give you three common mistakes.
+
+The first is treating the peg as a technical detail to settle after the price is agreed. It's price. If the peg is negotiated late, by tired people, after the headline number is locked, someone is going to give away millions without noticing. The time to model it is before the LOI becomes final, and the earlier you flag your seasonality and growth, the better.
+
+The second is inconsistency. The peg is built one way, the closing statement another. Or the CIM, the QoE, and the purchase agreement each describe working capital differently. Lesson 24's quality of earnings work often produces the starting point for the peg. If that analysis normalizes something, say, removes a one-time item, the closing statement should treat it the same way.
+
+The third is forgetting the post-closing process. Who prepares the final statement? Who has access to the books? What are the deadlines for objections? Missing a notice deadline can lock in a number. If you are the buyer's company, you need a team and a calendar ready before day one. If you're the seller, you need continued access to people and records.
+
+Let me recap.
+
+The peg is the agreed target level of normal working capital. The price moves dollar for dollar against it, usually through an estimate at closing and a true-up afterward. How the peg is set, which accounting principles apply, and how debt-like items are classified decide who pays. In a freight brokerage, receivables, carrier payable cutoff, claims reserves, and growth make the peg unusually sensitive. And your job is to know what's normal, keep definitions consistent, and prepare for the true-up before it arrives.
+
+Here's your question for today. If a buyer asked you to walk through your working capital line by line and defend what's normal, which three items would be hardest to defend, and what evidence would you want in hand?
+
+Next time, in lesson 28, we move to management presentations, and what buyers are really testing when you stand in front of them.
+
+Key takeaways:
+- The working capital peg is a negotiated target for normal operating working capital in a cash-free, debt-free deal, and the price moves dollar for dollar against it through a closing estimate and a post-closing true-up.
+- In a freight brokerage, large receivables, carrier payable cutoff, claims and bad debt reserves, and growth make the peg sensitive, so the accounting principles, illustrative calculation, and debt-like item definitions decide who pays.
+- As COO and General Counsel, supply the facts on what is normal, keep definitions consistent across the CIM, QoE, and agreement, avoid gaming working capital before closing, and prepare for the true-up and lender liquidity tests early.
