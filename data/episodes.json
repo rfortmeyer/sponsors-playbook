@@ -431,6 +431,22 @@
         "As COO and General Counsel, supply the facts on what is normal, keep definitions consistent across the CIM, QoE, and agreement, avoid gaming working capital before closing, and prepare for the true-up and lender liquidity tests early."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 27,
+      "title": "Management presentations: what buyers are really testing",
+      "file": "lesson-28.mp3",
+      "bytes": 5473636,
+      "duration": "0:11:24",
+      "pub_date": "Thu, 12 Nov 2026 17:28:46 +0000",
+      "generated": "20261112172846",
+      "words": 2039,
+      "takeaways": [
+        "A management presentation is a test of forecast credibility, team depth, risk handling, and partnership fit. Buyers build their own lower sponsor case and haircut any part of your plan that lacks evidence, and at a ten times multiple a three million dollar EBITDA haircut is about thirty million dollars of exit value.",
+        "Evidence beats enthusiasm: bridge the plan to history, show growth already in motion, and answer hard questions directly, such as how many recent branches hit target on time, with a fact, an action, and a timeline.",
+        "As COO and General Counsel, keep every statement consistent with the CIM, QoE, data room, and disclosure schedules, control sensitive information, and prepare for different lenses: the sponsor tests upside and partnership, the board tests process and value, and lenders test downside, cash, and liquidity."
+      ],
+      "tts": "openai:default"
     }
   ]
 }

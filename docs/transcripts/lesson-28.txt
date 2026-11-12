@@ -1,0 +1,79 @@
+The Sponsor's Playbook
+Lesson 28: Management presentations: what buyers are really testing
+
+Welcome to The Sponsor's Playbook. This is lesson 28: Management presentations: what buyers are really testing.
+
+Picture a conference room at a bank's office, or a hotel suite near the airport. Your CEO has just finished a crisp forty-minute walk through the growth story. The slides are clean. The buyer's partner, who has said almost nothing so far, turns to you and asks, "Of the last six branches you opened, how many hit their gross profit target on schedule?"
+
+You know the answer. It's four. The other two took a year longer. The question is whether you say that plainly, or whether the room watches you hunt for a nicer way to say it.
+
+That moment is what this lesson is about. The slides are the surface. The real test is underneath.
+
+Let's start with where this sits. In a typical sale process, the buyer has read the CIM and submitted an indication of interest. Then the shortlisted bidders get a management presentation, usually two to four hours, with your senior team in the room, followed by long Q and A. Timing varies. In some processes it comes before the letter of intent, in others after, and in a smaller or more negotiated deal it may be one dinner and a couple of working sessions. But the purpose is consistent.
+
+On paper, the presentation tells the buyer about the business. In practice, the buyer already has the CIM and the data room for that. What they are testing is four things.
+
+First, credibility of the forecast. Buyers don't buy your plan. They build their own, often called the sponsor case, and the plan you present is the management case. The sponsor case is almost always lower. Your job is to narrow that gap by showing your plan rests on evidence, not hope.
+
+Second, depth and cohesion of the team. Do these people know their own numbers? Do they agree with each other? Is the company a team, or one founder with a supporting cast? Remember lesson 20. The buyer is mapping your leadership team against what their thesis requires, and they are deciding who they would keep, develop, move, or replace. You're being assessed in real time.
+
+Third, risk. Buyers use the room to find out what's wrong before they've paid for it. They watch how you handle a hard question. A team that discloses a weakness calmly and shows it has a plan is more trustworthy than one that has no weaknesses.
+
+Fourth, partnership. A sponsor is going to work with this team for four to six years. They're asking whether you're coachable, whether you'll tell the board bad news early, and whether you'll execute a plan you didn't write.
+
+Now a worked example, with simple numbers.
+
+Say you run a freight brokerage with thirty million dollars of adjusted EBITDA today. Management's plan shows forty-five million in three years. That's fifteen million of growth. Management explains it this way. Nine million comes from new branches. Four million comes from growth in existing offices. Two million comes from technology and margin improvement.
+
+Buyer's team goes to work, and they don't start with the total. They start with the biggest piece, the nine million from new branches, because that's the part with the thinnest history.
+
+Your plan assumes a new branch reaches one and a half million dollars of annual gross profit by month twenty-four. The buyer pulls branch history from the data room. Of the last six branches, four hit that mark on time. Two took thirty-six months. So the buyer asks, reasonably, why the next batch performs like the best four rather than the average of all six.
+
+Now watch what the buyer does with the answer. If your team has a specific, evidence-based reason, say a better recruiting profile, a tighter customer-sharing model with existing offices, or a lesson learned from the two slow branches, the buyer may keep most of the nine million. If your answer is "we're confident," they'll haircut it.
+
+Suppose they cut the branch contribution by a third. Nine million becomes six. That's three million less EBITDA in year three. Their sponsor case now shows forty-two million, not forty-five.
+
+Remember the math from lessons 22 and 24. If the buyer assumes a ten times exit multiple, that three million is thirty million dollars of exit value. It arrives years from now, so it's worth less than thirty million in today's bid. But it's still tens of millions of dollars in what they can pay, if they need to hit their return target. All from one answer about six branches.
+
+Notice what really moved the number. It wasn't the slide. It was whether the evidence behind the slide held up under a direct question. And it works in the other direction too. If your team shows that a quarter of this growth is already underway, with branches open, hires made, and customers signed, the buyer can give credit for it. Proof that's already in motion is worth far more than promises.
+
+So what does this mean for you as COO and General Counsel?
+
+First, you're not a bystander. In many presentations the CEO and CFO lead, but buyers want to hear from the people who run the pieces. You oversee legal, compliance, recruiting, the new branch unit, data and development, and marketing. That's most of the risk and a big share of the growth plan. Expect questions aimed squarely at you.
+
+On the new branch unit, expect the branch-history question. On recruiting, expect questions on producer retention, non-competes, and what happens to gross profit if a top producer leaves. On compliance and legal, in freight brokerage expect questions about broker authority and bond requirements, contracts with shippers and carriers, carrier vetting and fraud controls, cargo theft and double brokering, insurance, and negligent selection claims after carrier accidents, where courts have been split on how far federal preemption protects brokers. On data and development, expect questions on whether your technology is a real advantage or a cost center. On marketing, expect whether growth comes from repeatable channels or from a few relationships.
+
+Second, what you say in the room is not just conversation. It becomes the basis for follow-up diligence requests, and it feeds the facts behind the representations we covered in lesson 25. You may be a named knowledge person. If you describe litigation exposure, compliance history, or customer terms in a way that doesn't match the data room, the CIM, or the disclosure schedules, that inconsistency will find its way into the purchase agreement, and probably into a price discussion. Purchase agreements often limit what a buyer can claim it relied on outside the contract, but those protections are not a license to be loose, and they generally don't cover fraud. Have counsel advise on how to handle forward-looking statements, and keep your answers supportable.
+
+Third, a quick note on information control, which we touched on in lesson 23. A management presentation is a stage for sharing sensitive material. If any bidder is a competitor, or has portfolio companies that compete, decide in advance what's shown, what's held back until later, and whether a clean team is needed for customer-level or pricing data. Your banker will usually run the process, but you often know best what can hurt you.
+
+Now the three audiences.
+
+The sponsor on the buy side is looking for upside and fit. Can this team deliver the plan, and would they be good partners? They're also deciding quietly who they'd back with incentive equity and who they'd worry about.
+
+The seller's board, and if you're already sponsor-backed, your current sponsor, is looking at the process. They want the team to present the story consistently, hold value, and not give away negotiating leverage by volunteering unsupported claims or surprises. They also want the team to stay focused on running the business during a distracting process, because a missed month in the middle of a sale can cost real value.
+
+Lenders look at all this through a different lens. While the equity buyer thinks about upside, lenders think about downside. They'll often meet management separately in a lender presentation and focus on cash conversion, working capital, customer and carrier concentration, covenant headroom, and liquidity through a freight downturn. In lesson 21 we said sponsor, board, and lenders each read the structure for different reasons. Here's the practical consequence. Your story needs to work for all three. A plan that depends on aggressive growth might excite the sponsor and unsettle the lender, because growth in a brokerage consumes working capital. Be ready to explain how you fund that growth, not just how you achieve it.
+
+How do you prepare? Do a red-team session. Have someone you trust, perhaps an advisor or a board member, play a skeptical buyer and ask the worst questions for two hours. Build a short list of your five weakest points, and decide together how you'll answer each one, ideally with a fact, an action, and a timeline. Agree on who answers what, so the room doesn't watch five executives argue about a number. And keep a running log of every question and every answer after the meeting, because the follow-up requests will arrive within days and your written answers must match what you said.
+
+Let's turn to common mistakes.
+
+The first is the hockey stick with no bridge to history. If the last three years grew at eight percent and the plan shows twenty percent, the buyer needs to see what changes. A new product, a new market, a new sales model, something that actually explains the break from the past. Saying the market is good, or that you've invested for growth, isn't enough. The best bridge is a piece of the plan already visible in the numbers.
+
+The second mistake is inconsistency. It happens in three ways. Executives give different answers to the same question. The presentation differs from the CIM. Or what's said in the room doesn't line up with the quality of earnings report or the data room. Buyers read every one of those as a signal that either the team doesn't control its own numbers, or someone is shading the truth. Neither is good. Inconsistency also tends to turn into price chips later, when the buyer revisits the numbers it now doesn't trust.
+
+The third mistake is treating it as a pitch rather than a test. Teams get defensive, avoid the hard question, or answer a different question than the one asked. A better approach is to answer directly, give the fact, own the problem if there is one, and say what you're doing about it. "Two of six branches were slow, and here's what we changed in how we staff and seed them" is a stronger answer than any slide. And if you don't know something, say you'll follow up, and then do it quickly. That's much safer than guessing.
+
+A brief recap.
+
+A management presentation is mostly a test, not a pitch. Buyers are testing the credibility of your forecast, the depth and cohesion of your team, how you handle risk, and whether you'd be good partners. They'll build their own case and haircut yours wherever the evidence is thin, and in a business with a ten times multiple, a small haircut becomes a very large number. As COO and General Counsel, you own the evidence behind a lot of the plan and the facts behind the legal and compliance story. Keep every answer consistent with the CIM, the QoE, the data room, and the representations you may later stand behind. Remember that the sponsor looks for upside and partnership, the board looks for process and value, and lenders look for downside protection and liquidity. And rehearse the hard questions, because that's where the real conversation happens.
+
+Here's your question to think about today. If a buyer asked each member of your senior team, separately, to name the three weakest points in your plan, would you all give the same three? And if not, what would that tell a buyer about how well you know your own business?
+
+Next time, in lesson 29, we'll look at add-on acquisitions and buy-and-build strategies, and how a sponsor turns one platform into a bigger company.
+
+Key takeaways:
+- A management presentation is a test of forecast credibility, team depth, risk handling, and partnership fit. Buyers build their own lower sponsor case and haircut any part of your plan that lacks evidence, and at a ten times multiple a three million dollar EBITDA haircut is about thirty million dollars of exit value.
+- Evidence beats enthusiasm: bridge the plan to history, show growth already in motion, and answer hard questions directly, such as how many recent branches hit target on time, with a fact, an action, and a timeline.
+- As COO and General Counsel, keep every statement consistent with the CIM, QoE, data room, and disclosure schedules, control sensitive information, and prepare for different lenses: the sponsor tests upside and partnership, the board tests process and value, and lenders test downside, cash, and liquidity.
