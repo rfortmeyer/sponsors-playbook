@@ -1,0 +1,83 @@
+The Sponsor's Playbook
+Lesson 29: Add-on acquisitions and buy-and-build strategies
+
+Welcome to The Sponsor's Playbook. This is lesson 29: Add-on acquisitions and buy-and-build strategies.
+
+Picture this. It's a Tuesday morning. Your CEO walks into your office and says the sponsor has found a regional brokerage in the Southeast. It's about forty million dollars in gross profit, strong in temperature-controlled freight, run by a founder who wants out. The sponsor is excited. The lender has been called. And the CEO looks at you, the COO and General Counsel, and says, "Can we close this in ninety days, and can we run it without breaking what we have?"
+
+That's an add-on acquisition. It sounds like one deal. It's really a strategy, and today we're going to look at how it works, where the money comes from, and where the risk sits on your desk.
+
+Start with the vocabulary. A platform is the first company a sponsor buys, the one with enough management, systems, and scale to carry more. An add-on, sometimes called a bolt-on, is a smaller company acquired later and folded into that platform. Buy-and-build is the strategy of doing this repeatedly. Buy a good platform, add several add-ons, and sell a bigger, stronger company at the end.
+
+Why do sponsors love it? There are three reasons.
+
+The first is simple growth. You buy EBITDA instead of waiting to grow it. In a freight brokerage, organic growth means hiring reps, waiting for books of business to ramp, and absorbing branch losses. An acquisition buys an existing book on day one.
+
+The second is synergy. Two companies combined can often cost less than the two apart. They can share technology, back office, insurance, carrier relationships, and purchasing power. They can also cross-sell. Your shipper customers might want the other firm's specialized lanes.
+
+The third is the one sponsors talk about most: multiple arbitrage. Small companies usually sell for lower multiples than larger platforms, because they're riskier, more dependent on the founder, and have fewer buyers. The exact gap varies by sector and by the credit cycle. But suppose a platform might sell for ten times EBITDA, while a small add-on trades at six. If you buy at six and the combined company is valued at ten, the add-on's earnings are re-rated the moment they're inside the larger company. That's the arbitrage.
+
+Let's put numbers on it, and keep them simple.
+
+Your platform has twenty million dollars of EBITDA. The sponsor bought it at ten times, so enterprise value is two hundred million. It carries five times leverage, so one hundred million dollars of debt.
+
+Now the add-on. It has four million dollars of EBITDA. The sponsor negotiates six times, so the price is twenty-four million dollars. Add about one million in fees and expenses, and total uses are twenty-five million.
+
+How do you fund it? Say the credit agreement has a delayed draw term loan, which is a committed loan facility you draw on later for acquisitions. You draw twelve million dollars. The sponsor puts in thirteen million of new equity. Debt on the add-on is three times its EBITDA, lower than the platform's five times, so the blended leverage actually improves. Pro forma debt is one hundred twelve million on twenty-four million of EBITDA. That's about four and two-thirds times, down from five.
+
+Now the value. The combined company has twenty-four million of EBITDA. If it still exits at ten times, the add-on's four million is worth forty million dollars. You paid twenty-five all in. That's fifteen million dollars of value created before any synergies, just from the multiple gap.
+
+Now add a modest synergy. Say you save one million dollars a year, from insurance, technology licenses, and back-office consolidation. At ten times, that's another ten million dollars of value. So the add-on looks like twenty-five dollars in, fifty out. Sponsors will say that's a very good use of capital.
+
+But walk through what can go wrong, because that's your job.
+
+First case: the book shrinks. In freight brokerage, the earnings often sit with producers, meaning the sales reps and agents who own the shipper relationships. Say a quarter of the add-on's gross profit walks out with them in the first year. EBITDA drops from four million to three. At ten times, the add-on is worth thirty, not forty. Your gain falls from fifteen million to five. Lose a bit more, or spend more than planned on integration, and the gain is gone.
+
+Second case: the multiple doesn't hold. The arbitrage only works if the whole company still earns the platform multiple. If the combined business gets valued at nine times instead of ten, that one turn applies to twenty-four million of EBITDA. That's twenty-four million dollars of exit value, which eats the entire add-on gain. Why might the multiple slip? Buyers may see a messy roll-up with several systems, uneven margins, and thin management, and they'll discount it. This is why sponsors talk about building a real platform, not a pile of acquisitions.
+
+Third case: the cash isn't there. Remember lesson 22, where working capital growth can cut the cash available to pay down debt. An acquired brokerage brings receivables and carrier payables of its own. If your payment terms to carriers are shorter than theirs, or they've been stretching payables, you may have to fund the difference on day one. That's why the peg we covered in lesson 27 matters. In an add-on, you are now the buyer. You're the one arguing for a peg that reflects normal working capital and not a number the seller has managed down.
+
+Now, the credit agreement, because this is where a General Counsel earns the salary. A credit agreement rarely lets you buy whatever you want. It usually has a permitted acquisition definition, and the conditions often look like this. No default is continuing. The target is in the same or a related line of business. The acquired company becomes a guarantor and pledges its assets, subject to some limits. The company must be in pro forma compliance with financial covenants after the deal. Sometimes there's a minimum liquidity test, a maximum leverage level for the deal, or a cap on the purchase price for acquisitions that don't meet certain conditions. Beyond that cap, you may need lender consent.
+
+Then there's pro forma adjusted EBITDA. Lenders often allow you to count the acquired company's trailing EBITDA as if you had owned it all year. Many agreements also allow you to add expected cost synergies, usually with caps and time limits, such as a percentage of EBITDA. The details vary a lot by deal size and by how competitive the lending market is. In looser markets, the caps are generous. In tighter markets, they shrink or need to be supported by a plan or a third-party report. Read your own definition. Do not rely on what you remember from the term sheet.
+
+How do the sponsor, the board, and the lenders each look at an add-on?
+
+The sponsor is asking what return the new equity earns, whether the arbitrage holds, and whether the add-on strengthens the exit story. A buyer paying for the exit wants to see scale, diversification, and a clean integration. The sponsor may also have a pipeline of other targets, so it cares whether you can handle a second and third deal.
+
+The board asks about pace and capacity. Can management run the business and integrate at the same time? Is the price disciplined, and does the add-on fit the strategy, or does it only look cheap?
+
+The lenders ask a different question. They care less about upside and more about whether the combined company can service its debt through a bad quarter. They'll look at pro forma leverage, liquidity, the quality of the acquired earnings, and whether synergies are real or hopeful. They'll also look at collateral, because your borrowing base may include the acquired receivables, but usually only after they've been reviewed and approved. That can take time, and in a brokerage, receivables are the lifeblood.
+
+So what does this mean for you as COO and General Counsel?
+
+First, you're now on the buy side of everything we've covered in this module. You are running diligence, not defending it. In a freight brokerage that includes some specific questions. Does the target hold valid broker authority, and is the surety bond or trust in place? Operating authority generally stays with the legal entity, which is one reason many brokerage deals are structured as equity purchases. But buying the entity also means inheriting its liabilities, so the reps, the indemnity, and any R&W insurance from lesson 25 matter even more. Look at carrier vetting practices, contingent cargo coverage, claims history, and any pending litigation. Look at how agents and independent contractors are classified and paid, and what restrictive covenants are enforceable in the states involved. Non-compete law varies by state, so don't assume.
+
+Second, protect the people. The value of a brokerage walks out the door at night. Retention agreements, rollover equity, and earnouts, from lesson 26, are your tools. Ask which ten people and which twenty customers make the model work, and have a plan for each before signing, not after.
+
+Third, think about build versus buy. You run a startup branch unit. An acquisition is the alternative to that. A new branch might take eighteen to thirty-six months to reach target, and some never do. An acquired team is faster and more expensive. Know your own branch hit rate, which we talked about in lesson 28, because it's the benchmark the sponsor will use when deciding whether to buy a team or build one.
+
+Fourth, think about the integration load. Technology, data, marketing, recruiting, and compliance all get pulled in. Your data and development team may face two transportation management systems, two customer portals, and two sets of carrier data, and everyone expects one reporting view quickly. Plan that before closing. We'll go deeper next lesson.
+
+Now some common mistakes.
+
+The first is paying a platform price for an add-on, or underwriting synergies nobody owns. If the model says a million dollars of savings, someone's name needs to be next to that number, with a date and a cost to achieve it. Synergies almost always cost money first, through severance, system migration, and duplicate rent. If the model ignores the cost, it's not a model, it's a wish.
+
+The second is doing too many deals too fast. Each add-on is a small integration project, and integration capacity is finite. Sponsors can be tempted by a pipeline. If the first add-on isn't stable, a second can make both worse. Customers notice service slipping, carriers notice payment delays, and producers notice when no one answers their questions. In a service business, that shows up quickly as lost volume.
+
+The third is treating pro forma EBITDA as if it were cash. The lender's covenant EBITDA may include acquired earnings and capped synergies, but you can't pay debt with an addback. Check actual free cash flow, including working capital, integration costs, and any earnout or seller note payments. And check the restrictions on those payments, because many credit agreements limit them.
+
+Let's recap.
+
+Buy-and-build means buying a platform and adding smaller companies to grow EBITDA, capture synergies, and benefit from the gap between small-company and larger-company multiples. In our example, a four million dollar EBITDA add-on bought at six times and valued at ten created about fifteen million dollars of value before synergies. But that value disappeared fast if a quarter of the book left, or if the combined multiple fell by a turn.
+
+The credit agreement controls how much you can buy and how it counts. The sponsor, board, and lenders each judge the deal differently. And your work as COO and General Counsel is the diligence, the retention plan, the integration capacity, and the consistency of every number you provide.
+
+Here is today's question. Imagine your company signs a deal next quarter for a brokerage with four million dollars of EBITDA. Name the one person or one customer whose departure would hurt the most in the first six months. What would you have in place today to keep them?
+
+Next time, in lesson 30, we'll go through integration: making add-ons actually add value.
+
+Key takeaways:
+- An add-on creates value through growth, synergies, and multiple arbitrage, but the arbitrage only holds if the acquired earnings stay, and the combined company keeps the platform multiple.
+- The credit agreement decides what you can buy and how it counts: permitted acquisition conditions, pro forma covenant compliance, and capped synergy addbacks. Synergies are not cash, and they cost money to achieve.
+- As COO and General Counsel, you now run buy-side diligence on authority, bonding, claims, and agent classification, you protect key producers, and you pace deals to your integration capacity.
