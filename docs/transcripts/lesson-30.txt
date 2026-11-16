@@ -1,0 +1,79 @@
+The Sponsor's Playbook
+Lesson 30: Integration: making add-ons actually add value
+
+Welcome to The Sponsor's Playbook. This is lesson 30: Integration: making add-ons actually add value.
+
+Picture this. Your company closes on a regional freight brokerage in March. Strong book of business, good shippers, a team that has been together for years. The deal model says six million dollars of EBITDA, plus two million of cost synergies. Everyone shakes hands.
+
+By June, three of the acquired company's top producers have left. Two of them took their customers with them. Your carriers are being paid out of two different systems, and one of them is getting paid late. A shipper has received two invoices for the same month. The acquired branch manager is asking your recruiting lead whether her commission plan is changing, and nobody can give her a straight answer.
+
+Nothing in that story is a diligence failure. The deal was fine. The integration is what failed. Today we talk about why integration is where add-on value is actually made or lost.
+
+Last lesson, we covered why add-ons create value: growth, synergies, and multiple arbitrage. Arbitrage means buying earnings at a lower multiple and having them valued at the platform's higher multiple. I said that only works if the acquired earnings stay. Integration is how you make them stay.
+
+So what is integration? It's the work of turning two companies into one operating business, so that the earnings you paid for are retained and the synergies you promised become real cash. It has four jobs.
+
+The first job is retention. In a brokerage, your assets walk out the door at night. Producers, account managers, and carrier relationships are the business. So integration starts with deciding who you must keep, and then acting before closing, with retention agreements, clear role descriptions, and a clear message on compensation.
+
+The second job is operations. That means the transportation management system, the accounting system, carrier onboarding, customer invoicing, and claims handling. The goal is not to merge everything on day one. It's to make sure customers and carriers don't feel the seams.
+
+The third job is the legal and compliance structure. This is squarely yours. If you bought the entity, its operating authority and broker bond stay with it. If you bought assets, you need to confirm the authority and the surety bond or trust arrangements are in place under your own entity. You also need insurance coverage that matches the combined operation, customer contracts that may require change-of-control consent or assignment, and carrier agreements that need to be papered correctly. And if the acquired company uses independent agents, the agent agreements and classification question travel with them.
+
+The fourth job is synergy capture. That means identifying each cost or revenue synergy, assigning an owner, putting a date and a dollar figure on it, and tracking cost to achieve. Cost synergies are typically things like duplicate back-office roles, insurance, technology licenses, and carrier procurement. Revenue synergies are cross-selling, bigger lanes, and more carrier capacity. Cost synergies are far more controllable. Revenue synergies are often where plans get optimistic.
+
+Practitioners often organize this through an integration management office, sometimes called an IMO. It's a small group with a lead, workstreams, a weekly cadence, and one scoreboard. It sounds bureaucratic. It's what keeps integration from becoming everybody's side project.
+
+A useful structure is a day-one plan, a hundred-day plan, and a twelve-to-twenty-four-month plan. Day one is about continuity: people get paid, carriers get paid, shippers get invoiced, the phones work. The first hundred days are about stabilizing, deciding what gets merged, and getting early wins. The longer plan is where systems, branding, and structural savings land.
+
+Now let's put numbers on it. Keep it simple.
+
+Your platform is valued at ten times EBITDA. You buy an add-on with five million dollars of EBITDA at six times. So you pay thirty million dollars. Your plan says you'll capture two million dollars of cost synergies, and it will cost two and a half million dollars one time to do it. Think severance, system migration, consultants, and some duplicate rent.
+
+First case: integration goes well. You keep all five million of acquired EBITDA. You capture the full two million of synergies. Combined contribution is seven million dollars. At ten times, that's seventy million dollars of value. You paid thirty, plus two and a half to integrate. So you've created about thirty-seven and a half million dollars. That's the buy-and-build story working.
+
+Second case: integration goes poorly. Remember our cold open. You lose producers and some customers, and a good chunk of the add-on's gross profit leaves. Because a lot of the costs are fixed, like offices, systems, and management, the lost gross profit falls almost straight through to EBITDA. Say three million dollars of the add-on's EBITDA disappears. You also only capture one million of the synergies, because you were busy fighting fires. Now the contribution is two million of remaining EBITDA plus one million of synergies, so three million. At ten times, that's thirty million dollars. You paid thirty million and spent two and a half to integrate. You've lost about two and a half million dollars, before counting any financing cost.
+
+Notice the gap between the two cases. It's four million dollars of EBITDA, and at ten times, that's forty million dollars of value. Same deal. Same price. Same sponsor. The difference was execution.
+
+Two more things about that example. First, the bad case understates the damage. If the lost earnings shake your growth story, the exit buyer may not give the combined company the full platform multiple. That's the arbitrage breaking. Second, remember lesson 22. A weak integration doesn't just hurt exit value. It slows debt paydown, because you're spending cash on integration costs and, in a brokerage, you may be carrying extra working capital while the two systems are reconciled.
+
+So what does this mean for you as COO and General Counsel? You're in an unusual position, because integration touches nearly everything you oversee.
+
+On legal and compliance, you own the entity strategy, the authority and bonding, insurance, contract assignments, and agent agreements. You also own the clean-up of anything diligence flagged, such as claims history or classification issues. Those are known problems, and they should have an owner and a date on your plan.
+
+On recruiting and people, you are the retention engine. That means knowing which twenty or thirty people actually carry the relationships, and having their retention arrangements and comp plans settled before the announcement. Non-compete and non-solicit enforceability varies by state and is shifting, so don't treat them as your main protection. People stay because of pay, clarity, and respect. Contracts help, but they're a backstop.
+
+On data and development, the system decision is the most expensive one you'll make. Migrating the acquired company onto your transportation management system usually pays off, but it also has the highest operational risk. Many teams run both systems for a period, with a data layer on top for reporting, and migrate by branch or customer group rather than all at once. Make sure you can report combined gross profit, margin, and receivables aging in the first month, whatever the plumbing looks like.
+
+On marketing, decide early what the brand is. Keeping the acquired brand for a year can protect customer relationships. Folding it in immediately can signal strength to carriers and shippers. Either can be right. Make it a deliberate choice.
+
+And for your startup branch business unit, watch for resource competition. Integration eats the same managers, the same system developers, and the same attention. If a new-branch launch is leaning on the same people as the integration, you need to decide which gets priority.
+
+Now consider how the sponsor, the board, and the lenders will each look at this.
+
+The sponsor will want to see the value creation plan. They'll ask who owns each synergy, when it lands, and what it costs. They'll also want an early warning system, like producer attrition, customer churn, and gross profit retention against plan. They will ask you hard questions in month three, not month twelve.
+
+The board will focus on milestones and governance. Is the one-time cost budget holding? Are the integration milestones on time? What's the plan if retention slips? Boards tend to dislike surprises more than they dislike bad news.
+
+The lenders look at cash and covenants. From lesson 29, you'll remember that the credit agreement often allows addbacks for run-rate synergies, but typically only if they're reasonably identifiable and expected within a defined window, and usually subject to a cap. Caps and windows vary by deal and by credit cycle, so read your own agreement. The practical point is that if you want that addback credit, your synergy plan needs to be documented, specific, and consistent with what you've told the sponsor. Lenders will also watch liquidity, because integrating two sets of payables and receivables, with different payment terms, can strain cash even in a good deal.
+
+Now, common mistakes.
+
+The first mistake is integrating too aggressively. Teams force one comp plan, one system, and one set of processes on day one, because it's tidy. Then the producers, who didn't choose to be part of your company, decide they would be happier elsewhere. Sequence the changes. Protect revenue first, then standardize.
+
+The second mistake is the opposite. A light touch that never ends. You promised synergies, but nobody owns them, the acquired company keeps running as a separate shop, and eighteen months later you have two back offices, two systems, and no savings. A light touch can be a smart first quarter. It can't be a strategy.
+
+The third mistake is treating synergies as cash before they're cash. A synergy on a slide isn't a synergy in the bank. If you've told the sponsor, board, or lenders a number, you need a tracker that shows what has actually landed, what's still planned, and what it cost. Remember from last lesson, synergies are not free. Count the cost to achieve, and be honest when a number slips. It's much better to reset expectations in month four than to explain a miss in the exit process, when a buyer is going to haircut anything it can't verify. That's the lesson 28 point again: evidence beats enthusiasm.
+
+Let me pull it together.
+
+Integration is where the add-on thesis is either earned or lost. The core jobs are retention, operations, legal and compliance structure, and synergy capture, and they need a team, a scoreboard, and owners. In our example, the same thirty million dollar deal was worth thirty-seven and a half million dollars of created value in one case and a small loss in the other, and the difference was four million dollars of EBITDA at ten times. Your sponsor wants a credible plan and early warning signs, your board wants milestones and budget discipline, and your lenders want cash, liquidity, and synergy addbacks you can support on paper. And your job, across legal, people, data, and the business units, is to protect the earnings you bought while you build the ones you promised.
+
+Here's your question for the day. If you closed an add-on next month, who are the ten people whose departure would hurt the most in the first ninety days, and what exactly have you done to make sure they stay?
+
+Next time, we'll move into the debt stack: senior, unitranche, second lien, and mezzanine.
+
+Key takeaways:
+- Integration is where an add-on's value is earned or lost: retention, operations, legal and compliance structure, and synergy capture each need an owner, a date, and a scoreboard, because in a simple example a four million dollar EBITDA swing at ten times was a forty million dollar value difference on the same deal.
+- Protect acquired earnings first and standardize second, since pushing systems and comp plans too fast drives out producers, while integrating too lightly leaves synergies uncaptured, and synergies only count once they are cash, net of the one-time cost to achieve.
+- Sponsor, board, and lenders each judge integration differently: the sponsor wants a credible plan and early warnings, the board wants milestones and budget discipline, and lenders want liquidity and synergy addbacks that are documented, consistent, and within the credit agreement's caps and windows.
