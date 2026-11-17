@@ -479,6 +479,22 @@
         "Sponsor, board, and lenders each judge integration differently: the sponsor wants a credible plan and early warnings, the board wants milestones and budget discipline, and lenders want liquidity and synergy addbacks that are documented, consistent, and within the credit agreement's caps and windows."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 30,
+      "title": "The debt stack: senior, unitranche, second lien, and mezzanine",
+      "file": "lesson-31.mp3",
+      "bytes": 5781463,
+      "duration": "0:12:03",
+      "pub_date": "Tue, 17 Nov 2026 18:20:22 +0000",
+      "generated": "20261117182022",
+      "words": 2055,
+      "takeaways": [
+        "The debt stack ranks lenders by priority and price: senior secured is cheapest, a unitranche blends first and second lien into one loan with a single rate, and second lien and mezzanine cost more because they absorb losses sooner.",
+        "Compare structures on all-in cost, flexibility, and downside behavior, not just headline spread: in our example the split saved about six hundred seventy-five thousand dollars a year, but added an intercreditor agreement and more consent complexity.",
+        "As COO and General Counsel, know who must consent to changes, keep EBITDA definitions, borrowing base, collateral, and reporting accurate, and understand how the structure holds up if EBITDA falls twenty percent."
+      ],
+      "tts": "openai:default"
     }
   ]
 }

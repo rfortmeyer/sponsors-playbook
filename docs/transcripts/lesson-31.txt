@@ -1,0 +1,67 @@
+The Sponsor's Playbook
+Lesson 31: The debt stack: senior, unitranche, second lien, and mezzanine
+
+Welcome to The Sponsor's Playbook. This is lesson 31: The debt stack: senior, unitranche, second lien, and mezzanine.
+
+Picture a Tuesday afternoon. Your CFO walks into your office and says the sponsor wants to refinance. The current lender is fine, but a private credit fund has offered a bigger loan, at a higher price, with fewer lenders to deal with. Another option is to keep the bank loan and add a second layer of debt behind it. Then she asks, "Which one do you want to live with?"
+
+That question is really about who gets paid first, who gets a vote when things go wrong, and who you have to call when you want to do something unusual. Today we take the debt stack apart, layer by layer.
+
+By now you know the basics of leverage. A sponsor buys a company with some equity and some borrowed money. The borrowed money is not one thing. It comes in layers, ranked by who gets repaid first if the company can't pay everyone. The higher the layer, the safer it is for the lender, and the lower the interest rate. The lower the layer, the riskier it is, and the more it costs.
+
+Start at the top with senior secured debt. These lenders have a first claim on the company's assets. In a freight brokerage, the main asset is receivables, because you don't own many trucks. There are two common forms. One is a revolving credit facility. It works like a corporate credit line that you draw and repay as cash needs move. In a brokerage, it often funds the gap between paying carriers and collecting from shippers. It is frequently structured as an asset-based loan, where you can only borrow against a formula of eligible receivables. That formula is called the borrowing base. The other form is the term loan, a lump sum with a repayment schedule.
+
+Senior term loans come in two flavors. A term loan A is typically held by banks and amortizes meaningfully, so you pay down principal every year. A term loan B is typically held by institutional investors, with little required amortization, maybe one percent a year, and most of the principal due at maturity. In the middle market, and for a freight brokerage with a modest EBITDA, the first-lien lender is often a bank or a private credit fund rather than the broadly syndicated market. That depends on deal size and on where the credit cycle is.
+
+Pricing on floating-rate debt is usually quoted as a spread over a benchmark, today usually SOFR. A first-lien loan might be priced at a few hundred basis points over SOFR in a strong market, and noticeably more in a tight one. Lenders also charge fees and sometimes issue the loan at a discount, which raises the real cost. Treat any rate I mention today as illustrative. The market moves.
+
+Next is the unitranche. This is one loan that blends what would have been a first-lien piece and a second-lien piece into a single facility, with a single blended interest rate. It is typically provided by direct lenders, meaning private credit funds. The appeal is simplicity: one credit agreement, one lender group, one negotiation, and often faster execution and more certainty of closing. The cost is that the blended rate sits above a pure first-lien rate. It usually comes in below what a separate first lien and second lien would cost together, but not always.
+
+There is a wrinkle. Inside a unitranche, the lenders often sign a private agreement among themselves, called an agreement among lenders. It splits the loan into a first-out piece and a last-out piece. The first-out lender gets paid first and accepts a lower return. The last-out lender takes more risk for more return. You, the borrower, usually see one loan and one rate. The lenders see two layers. That matters when you need an amendment or waiver, because the lenders may disagree with each other even though you only signed one document.
+
+Third is the second-lien loan. It is secured by the same collateral as the first lien, but it ranks behind it. The two groups sign an intercreditor agreement, which sets the rules between them. The second-lien lender usually agrees to a standstill. That means it can't enforce on the collateral for a period of time after a default, and it can't block the first-lien lender's actions. Second-lien loans cost more than first-lien debt, often several hundred basis points more, because if value falls short, the second-lien lender is where the shortfall lands.
+
+Fourth is mezzanine debt. It sits below the secured layers. It might be unsecured, or have a junior lien, and it is contractually subordinated. Its return typically comes from a mix of cash interest and PIK interest. PIK means paid in kind. The interest isn't paid in cash. It is added to the principal, so the balance grows. Mezzanine sometimes also carries warrants, which give the lender a small slice of equity upside. Total return targets are generally in the low-to-mid teens, though they swing with the market. Mezzanine is less common in the middle market than it was a decade ago, because unitranche and second-lien funds took much of that space. But it is still used, especially when a sponsor needs a little more proceeds without more equity or when cash interest has to be kept low.
+
+Below all of that is equity, which gets paid last and takes the first loss.
+
+Now a worked example, with simple numbers and fees ignored. Suppose your company has thirty million dollars of EBITDA, and the sponsor is paying ten times, or three hundred million dollars. The sponsor wants five times leverage, so one hundred fifty million dollars of debt. That means one hundred fifty million dollars of equity.
+
+Structure one is a unitranche. All one hundred fifty million is a single loan at a blended all-in rate of ten and a half percent. Annual interest is ten and a half percent of one hundred fifty million, which is fifteen million seven hundred fifty thousand dollars.
+
+Structure two is a split. One hundred five million dollars, or three and a half times EBITDA, is senior debt at nine percent. Forty-five million dollars, or one and a half times, is second lien at twelve and a half percent. The senior interest is nine million four hundred fifty thousand dollars. The second-lien interest is five million six hundred twenty-five thousand dollars. Together that's about fifteen million seventy-five thousand dollars. So the split is cheaper by roughly six hundred seventy-five thousand dollars a year.
+
+Is the split better? Not necessarily. First, the savings are modest relative to the complexity. You now have two sets of lenders, an intercreditor agreement, and two groups that may have to consent to amendments. Second, the cheaper senior piece may come with tighter terms. Maybe amortization, maybe stricter covenants. Third, the unitranche lender may offer a bigger loan, more certainty, and an easier add-on path. Those things can be worth more than six hundred thousand dollars.
+
+Now stress it. Suppose freight conditions turn, brokerage margins compress, and EBITDA falls twenty percent, from thirty million to twenty-four million. In the unitranche case, leverage goes from five times to six and a quarter times, because one hundred fifty divided by twenty-four is six and a quarter. Interest coverage, which is EBITDA divided by interest, goes from about one point nine times to about one and a half times. That's tighter, but it's alive. Now suppose a floating rate rises or part of the debt carries PIK. The numbers change, and so does your room to maneuver. The point is that the structure you pick determines how much pain the business can absorb before lenders get a say.
+
+And in freight, that stress isn't hypothetical. Brokerage gross profit can swing with the market. When carrier costs rise faster than shipper rates, margins get squeezed. You have seen this cycle. A debt stack built on peak earnings has to survive the trough.
+
+So what does this mean for you, as COO and General Counsel?
+
+First, the credit agreement is your operating manual. Everything we covered about EBITDA definitions in lessons 23 and 24 shows up here. The debt is sized off a defined EBITDA, and covenants and pricing may be measured against it. Lesson 29 and 30 addbacks, such as synergies, only count if the document allows them. And in a layered structure, you now have a second document, the intercreditor agreement, that governs how the lender groups interact.
+
+Second, think about who has to say yes. In a single-lender world, that's one phone call. In a split structure, an amendment might need the first-lien lenders, the second-lien lenders, or both. Inside a unitranche, you might need a majority of lenders, and possibly the last-out group for certain changes. For a company that does add-ons, as we discussed in lesson 29, those consent mechanics matter a lot. Pay attention to the baskets for permitted acquisitions, additional debt, liens, and restricted payments. Those are where growth plans meet lender permission.
+
+Third, as General Counsel, keep the collateral and compliance machinery working. That means lien perfection, guarantor lists, insurance requirements, reporting deadlines, and bank account control agreements. A brokerage with an asset-based revolver also has to manage the borrowing base certificate carefully. Eligible receivables, concentration limits, and aged receivables all affect how much cash you can actually draw. Operations decisions, like extending payment terms to a large shipper or changing the carrier quick-pay program, can change liquidity without anyone intending it.
+
+Now the three audiences. The sponsor looks at the stack as a return tool. More debt, at a tolerable cost, can raise returns. But the sponsor also wants flexibility for add-ons, dividends, and a refinancing path. The board looks at risk: how close are we to a covenant, how much liquidity do we have, and what happens in a downside case? Lenders look at the business from the bottom up. They ask whether cash flow covers interest and principal, whether collateral is protected, and whether reporting is reliable. A first-lien lender cares most about collateral coverage. A second-lien or mezzanine lender cares more about whether the business stays healthy long enough for them to get repaid.
+
+Now a few common mistakes.
+
+The first is comparing loans by headline rate alone. The real cost includes upfront fees, original issue discount, SOFR floors, unused commitment fees on the revolver, prepayment premiums, and PIK. A loan with a lower stated spread can cost more over time. Ask finance for the all-in cost, and for the cost if you refinance in year two.
+
+The second is assuming all lenders want the same thing. They don't. In a downturn, a first-lien lender may prefer to tighten and protect principal. A junior lender may prefer to be patient and avoid a forced sale. Those conflicts are written into the intercreditor, and you need to understand them before you need them, not after a default.
+
+The third is focusing only on the leverage multiple and ignoring liquidity and flexibility. Five times with room to run an add-on strategy can be healthier than four and a half times with tight baskets and heavy amortization. Leverage is a number. Liquidity is whether payroll and carrier payables get paid on Friday.
+
+Let's recap. The debt stack ranks lenders by priority. Senior secured debt is first and cheapest, including revolvers and term loans. The unitranche blends first and second lien into one loan from direct lenders, trading a higher blended rate for simplicity and speed, often with a hidden first-out and last-out split among the lenders. Second lien is secured but junior and governed by an intercreditor agreement. Mezzanine sits below that, often with PIK interest and sometimes warrants. In our example, the split structure saved about six hundred seventy-five thousand dollars a year but added complexity, and the real test was how each structure behaved when EBITDA fell. Your job is to know the documents, protect liquidity, and keep the numbers consistent.
+
+Here's your question for today. If your EBITDA dropped twenty percent next year, which lender would you have to call first, what would they ask for, and would you know the answer before the call?
+
+Next time, we'll look at covenants, and the difference between maintenance and incurrence.
+
+Key takeaways:
+- The debt stack ranks lenders by priority and price: senior secured is cheapest, a unitranche blends first and second lien into one loan with a single rate, and second lien and mezzanine cost more because they absorb losses sooner.
+- Compare structures on all-in cost, flexibility, and downside behavior, not just headline spread: in our example the split saved about six hundred seventy-five thousand dollars a year, but added an intercreditor agreement and more consent complexity.
+- As COO and General Counsel, know who must consent to changes, keep EBITDA definitions, borrowing base, collateral, and reporting accurate, and understand how the structure holds up if EBITDA falls twenty percent.
