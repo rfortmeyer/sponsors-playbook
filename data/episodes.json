@@ -495,6 +495,22 @@
         "As COO and General Counsel, know who must consent to changes, keep EBITDA definitions, borrowing base, collateral, and reporting accurate, and understand how the structure holds up if EBITDA falls twenty percent."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 31,
+      "title": "Covenants: maintenance versus incurrence",
+      "file": "lesson-32.mp3",
+      "bytes": 6243308,
+      "duration": "0:13:00",
+      "pub_date": "Wed, 18 Nov 2026 17:56:02 +0000",
+      "generated": "20261118175602",
+      "words": 2170,
+      "takeaways": [
+        "A maintenance covenant is tested on a schedule whether or not you act, giving lenders an early warning, while an incurrence covenant is tested only when you take a specific action like an add-on, new debt, or a distribution.",
+        "A company can pass its maintenance test and still be blocked by an incurrence test, as in our example where leverage of about four point four times passed a five times limit but a pro forma add-on at about four point five two times failed a four and a half times condition.",
+        "As COO and General Counsel, know the EBITDA definition and addback caps, test headroom against downside cases and step-downs, pre-clear actions that touch incurrence limits, and talk to lenders before a test date rather than after a breach."
+      ],
+      "tts": "openai:default"
     }
   ]
 }

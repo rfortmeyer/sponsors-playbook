@@ -1,0 +1,81 @@
+The Sponsor's Playbook
+Lesson 32: Covenants: maintenance versus incurrence
+
+Welcome to The Sponsor's Playbook. This is lesson 32: Covenants: maintenance versus incurrence.
+
+Picture a freight brokerage in the third quarter of a soft market. Spot rates have dropped. Gross profit per load is getting squeezed. The company is still profitable, customers are still shipping, and nobody has missed a payroll. Then the CFO walks into your office with a quarter-end calculation, and the news is awkward. A ratio in your credit agreement is close to a line it cannot cross.
+
+Nothing dramatic happened. No customer collapsed. No one did anything wrong. A number moved, and a contract noticed.
+
+Now the same company, different week. The sponsor loves an add-on acquisition. The deal is signed in principle, but the credit agreement says you can only borrow to close it if a leverage test passes on a pro forma basis. The ratio is fine today. It is not fine with the add-on.
+
+Those are two different kinds of covenant, working in two different ways. Today we sort them out: maintenance versus incurrence.
+
+Let me start with what a covenant is. In a credit agreement, a covenant is a promise the borrower makes to the lenders. Some promises are affirmative: deliver financial statements, keep insurance, pay taxes. Some are negative: don't take on more debt, don't grant liens on your assets, don't pay dividends, don't sell major assets, don't make acquisitions outside agreed limits. And some are financial: keep a ratio above or below a set level.
+
+The financial ones are where the maintenance and incurrence distinction lives.
+
+A maintenance covenant is tested on a schedule, usually every quarter, whether or not you do anything. You must maintain the ratio. If total net leverage cannot exceed a certain multiple of EBITDA, then at every test date you calculate it, and the CFO or another officer certifies the result to the lenders in a compliance certificate. You can sit perfectly still, take no actions, and still fail, because EBITDA fell or debt rose or cash dropped.
+
+An incurrence covenant is tested only when you take a specific action. You want to borrow more, make an acquisition, pay a dividend to the sponsor, or make some other restricted move. Before you do it, you have to show that you would meet a ratio, usually calculated pro forma, as if the action had already happened. If the test passes, you proceed. If it fails, you can't take that action. But if you take no action, nothing is tested. And if you passed the test when you acted and the business weakens later, that alone is not a breach.
+
+The simplest way to remember it: maintenance is a checkup. Incurrence is a permission slip.
+
+That difference drives who bears what risk. A maintenance covenant gives lenders an early warning system. If performance slips, the covenant trips while the company still has cash and options, and the lenders get a seat at the table, usually to negotiate a waiver or an amendment. They often get a fee, a higher rate, tighter terms, or an equity contribution from the sponsor. An incurrence covenant protects lenders only against the borrower making things worse by its own choices. It does not give them that early seat when the business simply deteriorates.
+
+Where do you see each? It varies by market and by credit cycle. Large, broadly syndicated term loans are often called covenant-lite, which means they have incurrence-style tests but no financial maintenance covenant for the term loan. Even there, the revolver commonly has a springing maintenance covenant. That is a leverage test that only applies if you've drawn the revolver above a set threshold, often somewhere around a third to forty percent of commitments, though the number varies. Middle-market loans, including many direct lending and unitranche deals of the kind we discussed in lesson 31, more often carry true maintenance covenants, frequently one or two financial tests. A freight brokerage in the middle market should expect to live with maintenance covenants. Terms swing with the lending cycle, so what you were offered last year is not a promise about what the market offers now.
+
+There's one more piece of vocabulary. Headroom, sometimes called cushion, is how far performance can fall before you breach. Sponsors and lenders usually set the covenant level off the sponsor's model, with a cushion below the plan, often in the range of twenty to thirty-five percent of EBITDA, but that is a negotiated number and depends on the deal and the cycle. Many agreements also include step-downs, where the maximum leverage ratio tightens over time. That means your cushion can shrink even if the business performs exactly to plan.
+
+And many maintenance covenants come with an equity cure right. If you breach, the sponsor can inject equity, and for covenant purposes that cash is treated as added EBITDA or as a debt paydown. These rights are usually limited. They may be capped in amount, allowed only a few times over the life of the loan, and not allowed in consecutive quarters. They are a safety valve, not a plan.
+
+Let me put numbers on this, nice and simple.
+
+Say your company has twenty million dollars of EBITDA as defined in the credit agreement, and eighty million dollars of net debt. Net debt means debt minus certain cash. Eighty divided by twenty is four. Total net leverage is four times.
+
+The maintenance covenant says leverage cannot exceed five times. So today you pass, with room. How much room? At five times, with eighty million of net debt, EBITDA can fall to sixteen million before you breach. Sixteen is four million below twenty, so you have a twenty percent cushion. Keep that number in your head: twenty percent.
+
+Now the incurrence side. The agreement lets you do an acquisition, funded with debt, if pro forma total net leverage is no higher than four and a half times. The sponsor finds an add-on. It costs fifteen million dollars, funded entirely with new debt, and it brings three million dollars of EBITDA, including whatever synergy addbacks the agreement allows. Pro forma debt is ninety-five million. Pro forma EBITDA is twenty-three million. Ninety-five divided by twenty-three is about four point one times. That's under four and a half. Permission granted.
+
+Now the freight market softens. Your EBITDA drops from twenty million to eighteen million. Net debt is still eighty million. Maintenance test: eighty divided by eighteen is about four point four times. Under the five times limit. You pass, with room left. Nothing to report.
+
+But try the same add-on now. Ninety-five million of pro forma debt, and EBITDA of eighteen plus three, which is twenty-one million. Ninety-five divided by twenty-one is about four point five two times. That is above four and a half. The incurrence test fails. You are compliant, healthy by the lenders' measure, and you still can't do the deal as structured.
+
+So the same company, the same quarter, passes one covenant and is blocked by the other. You could fix the add-on with more equity, a smaller debt piece, a seller note if the agreement permits, or an amendment from the lenders. But the point is that incurrence tests govern what you can do, and maintenance tests govern whether you are in good standing.
+
+Now suppose the EBITDA falls further, to sixteen million. Eighty divided by sixteen is exactly five times. You're at the line. One more soft quarter and you're in default territory. And if the covenant steps down to four and a half times next year, you'd need EBITDA of about seventeen point eight million just to stay compliant. At that point, a twenty percent cushion has become eleven percent. Same business, same debt, much less room.
+
+Let's talk about what this means for you, as an operating executive, and specifically as someone who is both COO and General Counsel.
+
+First, you are probably closer to this than anyone realizes. The CFO owns the calculation, but the covenant lives in definitions, and you're the one who reads and interprets them. What counts as Consolidated EBITDA? Which addbacks are allowed, and are they capped? Are start-up losses from new branches addable, or not? In a business where you're launching new branches, that's a real question. A branch that loses money for its first year hits EBITDA as defined, unless the agreement says otherwise. Are factoring or receivables financing programs counted as debt? How are customer claims, carrier insurance reserves, and litigation settlements handled? Remember lesson 24: your diligence-adjusted EBITDA in the quality of earnings report needs to reconcile with the credit agreement definition you'll be measured against. Covenant EBITDA is the version that matters after closing.
+
+Second, incurrence tests are where your business plan meets the contract. Add-ons from lesson 29 depend on permitted acquisition conditions. Those synergy addbacks from lesson 30 only help the pro forma calculation if they fit the caps and time windows. Beyond acquisitions, a lot of ordinary actions can touch incurrence limits: a new equipment lease, a letter of credit, a seller note, an earnout payment, a dividend or management distribution, a lien on assets, even a new subsidiary. Before anyone signs, ask a plain question: does this action need a basket, a ratio test, or consent?
+
+Third, timing. Maintenance tests happen on specific dates, and freight is seasonal and volatile. Know how the test date lines up with your busiest and weakest periods. Know whether the calculation uses trailing twelve months, and whether certain cash can be netted. And be careful with quarter-end behavior. Stretching carrier payables, delaying payments, or pulling forward receipts to improve a ratio can create real problems, with carriers, with working capital, and with credibility. Lesson 27 made that point about closing; the same logic applies to covenant dates.
+
+Now think about how each audience looks at this.
+
+The sponsor wants flexibility. Sponsors generally prefer looser covenants, bigger baskets, and cure rights, because those preserve options for add-ons and distributions. They also don't want surprise equity calls. They'll want early warning from you, ideally well before a number is close.
+
+The board looks at process and exposure. Expect them to ask for a covenant compliance forecast, quarter by quarter, including downside cases, plus a headroom schedule and a list of actions that need lender consent. A board member will not want to learn about a tight covenant from the compliance certificate.
+
+The lenders look at whether the business behaves the way the model said it would. They read your quarterly reporting for trends, not just results. A maintenance covenant gives them a hard trigger. If you get close, they'd rather hear it from you early, with a plan, than from a certificate. Lenders tend to be much more cooperative about an amendment when they've been informed in advance and the story is credible.
+
+Three common mistakes.
+
+The first is looking at headroom only at closing. Cushion at signing is not cushion next year. Step-downs, seasonality, a weak freight cycle, start-up branch losses, and an add-on's integration costs can all squeeze it. Test the covenant against your downside case, not your base case. Lesson 31 asked what happens if EBITDA falls twenty percent. Ask that again here, quarter by quarter.
+
+The second is treating incurrence covenants as harmless. Because they don't test every quarter, people forget about them until a deal is signed. Then a permitted acquisition condition, a restricted payment limit, or a debt basket turns out to be a problem. Worse, someone takes an action that technically breaches a negative covenant because no one checked. Build a simple pre-clearance step: anything that adds debt, liens, acquisitions, or payments to owners goes through you first.
+
+The third is waiting too long to talk to lenders. If your forecast shows a tight quarter coming, the best time for the conversation is before the test date, while you still have options: an amendment, a cure, a reset, or an action plan. After a breach, you negotiate from a weaker position, and the cost shows up in fees, pricing, and restrictions.
+
+Let me recap. A maintenance covenant is tested on a schedule, whether or not you act. An incurrence covenant is tested only when you take a specified action. Maintenance gives lenders an early warning, and incurrence limits what the borrower can do. Headroom shrinks with step-downs, seasonality, and weak earnings. In the example, EBITDA of eighteen million passed a five times maintenance test at about four point four, but failed a four and a half times incurrence test for an add-on, at about four point five two. Your job is to know the definitions, keep the numbers consistent, and spot problems before the certificate does.
+
+Here's your question for today. Think about the next four quarters of your plan. In which quarter is your covenant headroom tightest, and which planned action, whether an add-on, a distribution, new debt, or a new branch investment, would run into an incurrence test?
+
+Next time, in lesson 33, we go deeper into the ratios themselves: leverage, coverage, and fixed charge.
+
+Key takeaways:
+- A maintenance covenant is tested on a schedule whether or not you act, giving lenders an early warning, while an incurrence covenant is tested only when you take a specific action like an add-on, new debt, or a distribution.
+- A company can pass its maintenance test and still be blocked by an incurrence test, as in our example where leverage of about four point four times passed a five times limit but a pro forma add-on at about four point five two times failed a four and a half times condition.
+- As COO and General Counsel, know the EBITDA definition and addback caps, test headroom against downside cases and step-downs, pre-clear actions that touch incurrence limits, and talk to lenders before a test date rather than after a breach.
