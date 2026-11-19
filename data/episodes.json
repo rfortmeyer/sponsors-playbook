@@ -511,6 +511,22 @@
         "As COO and General Counsel, know the EBITDA definition and addback caps, test headroom against downside cases and step-downs, pre-clear actions that touch incurrence limits, and talk to lenders before a test date rather than after a breach."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 32,
+      "title": "Leverage, coverage, and fixed charge ratios",
+      "file": "lesson-33.mp3",
+      "bytes": 5049198,
+      "duration": "0:10:31",
+      "pub_date": "Thu, 19 Nov 2026 18:04:39 +0000",
+      "generated": "20261119180439",
+      "words": 1829,
+      "takeaways": [
+        "Leverage tests debt against EBITDA, while interest coverage and fixed charge coverage test whether cash earnings can carry interest, required principal, taxes, and capital spending, and every one depends on how the agreement defines its terms.",
+        "Different ratios break at different times: in our example, a leverage step-down failed at a twenty percent EBITDA decline while fixed charge coverage still passed, so run the downside against every future test level, including rate changes.",
+        "As COO and General Counsel, your decisions on capitalized software, branch startup costs, and earnout or seller note structure feed these ratios, so reconcile covenant math to board reporting and talk to lenders before a test date."
+      ],
+      "tts": "openai:default"
     }
   ]
 }

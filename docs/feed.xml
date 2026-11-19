@@ -14,6 +14,25 @@
     <itunes:type>serial</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>33. Leverage, coverage, and fixed charge ratios</title>
+      <description>Module 4: Capital structure and financing.
+
+Key takeaways:
+- Leverage tests debt against EBITDA, while interest coverage and fixed charge coverage test whether cash earnings can carry interest, required principal, taxes, and capital spending, and every one depends on how the agreement defines its terms.
+- Different ratios break at different times: in our example, a leverage step-down failed at a twenty percent EBITDA decline while fixed charge coverage still passed, so run the downside against every future test level, including rate changes.
+- As COO and General Counsel, your decisions on capitalized software, branch startup costs, and earnout or seller note structure feed these ratios, so reconcile covenant math to board reporting and talk to lenders before a test date.
+
+Transcript: https://rfortmeyer.github.io/sponsors-playbook/transcripts/lesson-33.txt</description>
+      <enclosure url="https://rfortmeyer.github.io/sponsors-playbook/episodes/lesson-33.mp3" length="5049198" type="audio/mpeg"/>
+      <guid isPermaLink="false">sponsors-playbook-33-20261119180439</guid>
+      <pubDate>Thu, 19 Nov 2026 18:04:39 +0000</pubDate>
+      <itunes:duration>0:10:31</itunes:duration>
+      <itunes:episode>33</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>32. Covenants: maintenance versus incurrence</title>
       <description>Module 4: Capital structure and financing.
 

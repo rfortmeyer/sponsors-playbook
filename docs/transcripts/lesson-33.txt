@@ -1,0 +1,85 @@
+The Sponsor's Playbook
+Lesson 33: Leverage, coverage, and fixed charge ratios
+
+Welcome to The Sponsor's Playbook. This is lesson 33: Leverage, coverage, and fixed charge ratios.
+
+Picture a freight brokerage with a strong year. Gross profit is up. The new branches are ramping. Your CFO sends the quarterly compliance certificate over for your review, and every ratio passes. Then the board asks one question. If next year's EBITDA comes in twenty percent lower, which ratio breaks first, and when?
+
+Nobody in the room can answer it quickly. That is the gap this lesson closes.
+
+Last lesson, we separated maintenance covenants from incurrence covenants. Today we look at what is usually being measured. There are three families of ratios: leverage, interest coverage, and fixed charge coverage. They sound similar, but they test different things. And the way each one is defined decides whether you have headroom or a problem.
+
+Start with leverage. Leverage asks how big the debt is relative to earnings. The usual form is debt divided by EBITDA. You will see total leverage, which counts all debt. You will see senior or first lien leverage, which counts only the top of the stack. Remember the stack from lesson 31. A deal might have a first lien test at four times and a total test at five and a half times.
+
+You will also see gross versus net. Gross leverage counts all debt. Net leverage subtracts cash. Many agreements cap how much cash you can subtract, or only allow unrestricted cash. So the same company can show two different leverage numbers depending on a few lines of definition.
+
+Then there is the numerator, EBITDA. In lesson 32 we talked about covenant EBITDA, with its addbacks and caps. Leverage is where that definition hurts most, because every dollar of EBITDA that doesn't qualify moves the ratio.
+
+The denominator has definition questions too. Does debt include letters of credit? Seller notes? Earnouts once they become payable? Capital leases? Guarantees? Remember lesson 26. A seller note or a fixed earnout obligation can show up as debt, and that is when a purchase agreement choice becomes a covenant problem.
+
+Leverage is a balance sheet test. It says how heavy the load is. It does not say whether you can carry it this year. That is what coverage ratios do.
+
+Interest coverage is the simplest. It is EBITDA divided by cash interest expense. If EBITDA is thirty million and cash interest is fifteen million, coverage is two times. It says how many times your earnings cover the interest bill. It matters a great deal when rates float, because the denominator can move even if your business doesn't.
+
+The fixed charge coverage ratio goes a step further. It asks whether the company generates enough cash after required spending to cover its fixed obligations. The common form starts with EBITDA, subtracts capital expenditures and cash taxes, and divides by fixed charges. Fixed charges are usually cash interest plus scheduled principal payments. Some agreements also add certain dividends or distributions, or lease payments. The exact formula varies a lot. That is the key sentence in this lesson. There is no universal fixed charge ratio. You have to read the definition.
+
+Where do you see these? It varies by deal size and structure. Larger broadly syndicated loans are often covenant-light, with few or no maintenance tests, perhaps one springing leverage test on the revolver. Middle market deals, including many unitranche loans, more often carry real maintenance covenants, usually leverage, sometimes with a coverage test too. Asset-based revolvers, which freight brokerages often use against receivables, commonly have a springing fixed charge test. It only applies if availability falls below a set level. A common trigger point is the higher of a dollar amount or a percentage of the facility. And the test level is often around one point oh times, though it varies. Your documents may differ, so treat all of this as a pattern, not a rule.
+
+Now a worked example. Keep it simple and follow along by ear.
+
+Say your brokerage has thirty million dollars of covenant EBITDA. The debt is a one hundred twenty million dollar term loan and twenty million dollars drawn on the revolver. Total debt is one hundred forty million dollars. You hold ten million dollars of cash.
+
+First, leverage. Gross leverage is one hundred forty divided by thirty. That is about four point six seven times. Net leverage subtracts the ten million of cash, so one hundred thirty divided by thirty, about four point three three times.
+
+Now interest. The term loan costs ten percent, so twelve million dollars a year. The revolver costs seven and a half percent on twenty million, so one and a half million. Total cash interest is thirteen and a half million dollars. Interest coverage is thirty divided by thirteen and a half. About two point two times.
+
+Now fixed charge coverage. Capital expenditures are three million dollars. That includes capitalized software, which matters to you, and I'll come back to it. Cash taxes are four million. So the numerator is thirty, minus three, minus four. That is twenty-three million dollars.
+
+The fixed charges are cash interest of thirteen and a half million, plus scheduled amortization. Say the term loan amortizes one percent a year, so one point two million. Total fixed charges are fourteen point seven million. Twenty-three divided by fourteen point seven is about one point five six times.
+
+Now suppose the covenants are these. Maximum net leverage of five and a half times, stepping down to five times next year. Minimum fixed charge coverage of one point one times. Today you pass both with room.
+
+Now run the downside. EBITDA falls twenty percent, to twenty-four million. Debt stays the same. Cash stays at ten.
+
+Net leverage is one hundred thirty divided by twenty-four. About five point four two times. You squeak by the five and a half limit. But if the step-down to five times has arrived, you fail. Leverage breaks first.
+
+Fixed charge coverage looks different. Taxes fall with earnings, say to two million. Numerator is twenty-four, minus three, minus two, so nineteen million. Fixed charges are still fourteen point seven. That's about one point two nine times. You pass.
+
+Now add a one point increase in the floating rate on the term loan. That's another one point two million dollars of interest. Fixed charges go to fifteen point nine. Nineteen divided by fifteen point nine is about one point two times. Still passing, but the cushion over one point one is thin.
+
+Notice the lesson inside the numbers. The ratios failed at different times, for different reasons. Leverage is sensitive to earnings and to the step-down schedule. Fixed charge coverage is sensitive to rates, amortization, and spending. The tighter one depends on how the covenants were set. And you only learn that by running the downside before you need it.
+
+So what does this mean for you as COO and General Counsel?
+
+First, you own more of the inputs than you think. Capital expenditures include capitalized software development, so choices your data and development team make about what to capitalize can change fixed charge coverage. Branch startups show up in EBITDA as losses, and whether those losses can be added back depends on the definition. If the credit agreement allows only a capped addback for new branch losses, then the plan you present to the board has covenant consequences. Compensation for recruiting, signing bonuses, and guaranteed draws for new producers hit the same line. Know what flows through EBITDA, and what is excluded.
+
+Second, as General Counsel, you read the definitions that sit under these ratios. Is an earnout counted as indebtedness? When? Are letters of credit for insurance included? Do surety bonds count? Freight brokers carry broker bonds, and the treatment varies. Does the fixed charge definition include distributions to the sponsor or to taxes for pass-through owners? Small wording choices matter. Get them clarified before closing, not at the first compliance date.
+
+Third, watch the liquidity side. Remember lesson 27 on working capital. A growing brokerage ties up cash in receivables, because you pay carriers faster than customers pay you. A fixed charge ratio doesn't capture that. You can pass the covenant and still run short of cash, so you can't look at the ratio alone.
+
+Now the three audiences.
+
+The sponsor looks at leverage first. Leverage tells them how much flexibility they have for add-ons, from lesson 29, how much dividend capacity there might be, and what the equity looks like at exit. They'll want to know what you can do without crossing a threshold.
+
+The board looks at headroom and trend. Not just "did we pass," but how far from the line we are, what the step-downs do, and what the plan assumes. They will ask which levers management controls. Capital spending? Branch openings? Hiring pace? And what you would pull first.
+
+Lenders look at coverage and cash. They care that interest is paid and that cash generation is real. They notice when addbacks grow faster than cash. And they pay attention to how early you talk to them. A lender who hears about a tight quarter before the test date is a partner. A lender who hears after is a counterparty.
+
+Now, three common mistakes.
+
+First, assuming the ratio in the board deck is the ratio in the credit agreement. Management reporting often uses adjusted EBITDA, gross debt, and a simple fixed charge calculation. The agreement uses defined terms, caps, and exclusions. Always compute the covenant version, and reconcile it to the board version.
+
+Second, checking only today's compliance. A covenant that passes at four point four times is a different covenant if it steps down to four times in six months. Test your forecast and a downside case against every future level, and include rate changes if your debt floats.
+
+Third, ignoring how growth spending changes the ratios. New branches, capitalized software, an earnout payment, an add-on's integration costs. Each can reduce EBITDA, increase capital expenditures, or add debt-like obligations. Plan those together, not one at a time. And pre-clear anything big with the CFO and, if needed, your lenders.
+
+A quick recap. Leverage measures debt against earnings, and it depends on what counts as debt, whether cash is netted, and what counts as EBITDA. Interest coverage measures earnings against the interest bill. Fixed charge coverage measures cash left after capital spending and taxes against interest and required principal, and its definition varies a lot by deal. Different ratios break at different times, so you need to know which is your tight one. Run the downside, read the definitions, and talk to your lenders early.
+
+So here is your question for today. If your EBITDA fell twenty percent next year, which covenant would you hit first, how much cushion would you have, and which three decisions in your own areas would you change to protect it?
+
+Next time, in lesson 34, we put it all together and learn how to read a credit agreement as an operator.
+
+Key takeaways:
+- Leverage tests debt against EBITDA, while interest coverage and fixed charge coverage test whether cash earnings can carry interest, required principal, taxes, and capital spending, and every one depends on how the agreement defines its terms.
+- Different ratios break at different times: in our example, a leverage step-down failed at a twenty percent EBITDA decline while fixed charge coverage still passed, so run the downside against every future test level, including rate changes.
+- As COO and General Counsel, your decisions on capitalized software, branch startup costs, and earnout or seller note structure feed these ratios, so reconcile covenant math to board reporting and talk to lenders before a test date.
