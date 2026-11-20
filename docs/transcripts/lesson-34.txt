@@ -1,0 +1,79 @@
+The Sponsor's Playbook
+Lesson 34: Reading a credit agreement as an operator
+
+Welcome to The Sponsor's Playbook. This is lesson 34: Reading a credit agreement as an operator.
+
+It's Friday afternoon. Your CEO walks in and says the company found a small data and routing technology business. Four million dollars. The sponsor likes it. The seller wants to sign in three weeks.
+
+Someone asks the question you hear in every deal: "Can we do that under the credit agreement?"
+
+The agreement is about one hundred eighty pages. The finance team knows the leverage covenant cold. But the answer might not be in the leverage covenant at all. It might be in a definition on page nine, a basket on page ninety, and a joinder requirement on page one hundred ten.
+
+Today is about how to read that document the way an operator needs to read it, not the way a lender's counsel reads it.
+
+Start with the big idea. A credit agreement is a permission structure. The lenders are saying: here is money, and here is the list of things you may do with the company while we're owed it. Everything you do not clearly have permission for, you need consent for. That's the mindset shift. Most executives read it as a list of prohibitions. It's better to read it as a list of permissions with conditions.
+
+In lesson 32 we covered maintenance versus incurrence covenants, and in lesson 33 the ratios themselves. Those are one slice of the document. Here is the whole map, in the order I'd read it.
+
+First, the definitions. This is the most important section and the one people skip. Terms like Consolidated EBITDA, Indebtedness, Permitted Liens, Permitted Acquisition, Material Adverse Effect, and Change of Control drive everything else. The agreement might say you can incur "Indebtedness," but if that word is defined to include earnouts, seller notes, and letters of credit, your plan just changed. Read the definitions first, and read them with the specific things you actually do in mind.
+
+Second, the economic terms: the size of the term loan and revolver, interest rate and floors, fees, maturity, and required amortization. Amortization is the scheduled principal you must repay, often one percent a year on a term loan, though it varies by lender and structure.
+
+Third, the conditions to borrowing. Every time you draw on the revolver, you may be repeating representations and warranties, such as no default exists and no material adverse change has occurred. That matters, because a draw is a statement to the lender. If a claim, a license issue, or a covenant problem is lurking, the draw can become a misrepresentation.
+
+Fourth, the affirmative covenants. These are things you must do. Deliver monthly or quarterly financials by a deadline. Deliver a compliance certificate. Maintain insurance. Maintain licenses and permits. Pay taxes. Give notice of litigation above a threshold, or of any default. For a freight brokerage, think about maintaining broker authority and the required financial security, along with insurance and compliance with the laws that govern carriers, agents, and classification. Lose a license that's material to the business, and you may have triggered a default without ever missing a payment.
+
+Fifth, the negative covenants. These are the things you may not do without room under a basket. Incur debt, grant liens, make investments, pay dividends or other restricted payments, sell assets, merge, enter affiliate transactions, prepay junior debt. This is where most operating decisions collide with the document.
+
+Sixth, the financial covenants, which we've covered.
+
+Seventh, events of default. This is the list of ways the lenders get to accelerate the loan or stop lending. Payment default, covenant breach, a false representation, cross-default to other debt, a judgment above a threshold, bankruptcy, a change of control, and sometimes loss of a key license. Check the cure periods. Some defaults have thirty days to fix. Some, like a failure to deliver a notice, can be a covenant breach with a grace period. Some have none.
+
+Eighth, the amendment section. Who has to agree to a change? Typically a majority of lenders can waive most covenants, but certain things need every affected lender, such as changing the maturity or the interest rate. With a unitranche or a split stack from lesson 31, you also need to know whether the intercreditor agreement changes who votes.
+
+One point about market practice. It varies a lot. Larger, broadly syndicated loans often have no maintenance covenants at all, with only an incurrence test. Middle-market loans, which is where most PE-backed freight brokerages sit, more often carry a maintenance covenant, and the baskets are smaller and less flexible. The numbers I give you today are illustrative, not universal. Your document is the only one that counts.
+
+Now let me take you through one worked example. Keep it simple.
+
+Your company has thirty million dollars of EBITDA before any adjustments and one hundred twenty million dollars of debt. That's four times leverage. The leverage covenant today is five times, stepping down to four and a half times in two quarters.
+
+The business plan has two moves. First, open four new branches this year. They'll lose a combined four million dollars in the first year. Second, buy that four million dollar technology business.
+
+Take the branches first. The credit agreement lets you add back startup losses for new branches, but capped at ten percent of EBITDA. Ten percent of thirty million is three million dollars. Your startup losses are four million. So three million comes back and one million doesn't.
+
+Do the math. EBITDA before startup losses is thirty million. Subtract four million of actual losses, and you get twenty-six million. Add back three million, and covenant EBITDA is twenty-nine million. Leverage is one hundred twenty divided by twenty-nine, about four point one four times.
+
+Not a problem against five times. But now look at that step-down to four and a half times. Headroom has narrowed from the four times you thought you had to about four point one four against four and a half. That is roughly eight percent of cushion. A modest miss in the legacy business, say EBITDA slipping another two and a half million, and leverage is one hundred twenty over twenty-six and a half, which is about four point five three times. You'd be over. So the cap on that addback has real teeth. The one million dollars that doesn't come back is, in effect, a cost against your covenant room.
+
+Now the acquisition. You plan to buy the business through a new subsidiary. Check three places. One: is it a Permitted Acquisition, and are its conditions met, including pro forma compliance, as we covered in lesson 29? Two: if you buy the stock of a subsidiary that is not a guarantor, that is an investment, and investments are limited by baskets. Suppose the general investment basket is the greater of six million dollars and twenty percent of EBITDA. Twenty percent of thirty million is six million. Already used is two and a half million from an earlier minority stake, which leaves three and a half. Your four million dollar purchase is half a million too large. Three: a new subsidiary typically has to join as a guarantor and pledge its assets within a set window, often thirty to sixty days. Miss that, and it's a covenant breach.
+
+So what are your options? You can structure the deal so a loan party buys the assets directly, which often is not counted against the investment basket, though read your agreement. You can use the Permitted Acquisition route instead, if the conditions are met. You can phase the purchase. Or you can ask lenders for a consent or an amendment, which you want to do before you've signed with the seller, not after. Notice what happened. The same four million dollars is allowed or not allowed depending on structure. That is the operator's value in the room.
+
+Let me talk about what this means for you, and how the other parties see it.
+
+You probably don't own the covenant model. The CFO does. But you own the facts that feed it and the actions that trip it. Legal, compliance, recruiting, branch startups, data and development, and marketing each produce spending, contracts, liens, and obligations that the agreement cares about. A practical habit: build a one-page operator's map of the agreement. For each section that touches your area, write the trigger, the limit, the deadline, and the owner. Something like: new subsidiary, joins as guarantor within the stated window, legal owns it. Capital lease or equipment financing, counts against the debt and lien baskets, finance and legal sign off. Litigation over a threshold, notice to the agent, GC owns it.
+
+Also keep a basket ledger. A basket is a bucket of permission with a dollar limit, and it gets used up. Fixed-dollar baskets stay put. Some baskets "grow" with EBITDA, usually phrased as the greater of a dollar amount and a percentage of EBITDA. A grower basket helps when EBITDA climbs, but doesn't shrink below the floor. Someone has to track what has been used, because two people in different departments can each think they're using the same room.
+
+Now the three lenses. The sponsor wants to know the agreement doesn't block the value creation plan. They'll ask whether the branch rollout, add-ons, and technology spend fit, and what it costs if they don't. The board wants controls. They want to hear that someone tracks baskets, reporting deadlines, and covenant headroom, and that surprises go to the board first. The lenders want clean, timely reporting, accurate certificates, and early warning. A lender will tolerate a tight quarter. They won't tolerate being surprised, a late notice, or a certificate that turns out wrong. Your credibility with them is worth more than a few basis points of pricing.
+
+Now the common mistakes.
+
+The first mistake is reading the summary, not the agreement. A term sheet, a lender presentation, or a legal memo will tell you the headline: five times leverage, a twenty-five percent cap on addbacks. It won't tell you that the addback cap applies in aggregate, that the cap excludes certain items, or that a definition quietly treats earnouts as debt. The exceptions live in the text. When a decision really matters, read the actual provision and the related definitions.
+
+The second mistake is watching only the financial covenant. Plenty of defaults are non-financial: a late compliance certificate, a missed notice, a guarantor that didn't join, a lien that isn't permitted, a license that lapsed. These feel administrative, which is exactly why they get missed. And a default of any kind can block a revolver draw and may trigger cross-defaults elsewhere.
+
+The third mistake is waiting to negotiate. The best time to fix a definition or a basket is before you sign the agreement, when the lender wants the deal. The second best time is when you're asking for a consent and you can offer something in return. The worst time is after a breach. If the plan includes branch startups, add-ons, and capitalized software, say so while the document is still being drafted, and ask that the addbacks, baskets, and acquisition conditions fit the plan. If the agreement is already signed, raise it before the move, and bring a clean explanation of what you want to do and why lenders stay safe.
+
+Let me recap.
+
+A credit agreement is a permission structure. Read the definitions first, because they decide what every other section means. Know the eight parts: definitions, economics, borrowing conditions, affirmative covenants, negative covenants, financial covenants, defaults, and amendments. In our example, a three million dollar cap on startup-loss addbacks left one million dollars of branch losses counting against covenant EBITDA and narrowed headroom to about eight percent. A four million dollar acquisition was allowed or blocked depending on structure, with three and a half million left in the basket. Build an operator's map and a basket ledger, and talk to the lenders before you act, not after.
+
+Here's your question for today. Pick one move on your plan for the next six months, such as a new branch, a tool purchase, a hire, or an acquisition. Can you point to the exact sections of your credit agreement that permit it, limit it, or require a notice? And if you can't, who will find out for you this week?
+
+Next time, in lesson 35, we'll look at revolvers, liquidity, and the thirteen-week cash flow, and how they keep the whole structure alive from week to week.
+
+Key takeaways:
+- A credit agreement is a permission structure: start with the definitions, then map the affirmative covenants, negative covenants, baskets, defaults, and amendment rules to the actions your own functions take.
+- Structure and caps decide outcomes: in our example, a capped startup-loss addback narrowed covenant headroom, and the same four million dollar acquisition fit or failed depending on who bought what.
+- Track baskets, deadlines, and notices with an operator's map, read the actual text rather than summaries, and raise needed changes with lenders before signing or before acting.

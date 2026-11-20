@@ -527,6 +527,22 @@
         "As COO and General Counsel, your decisions on capitalized software, branch startup costs, and earnout or seller note structure feed these ratios, so reconcile covenant math to board reporting and talk to lenders before a test date."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 33,
+      "title": "Reading a credit agreement as an operator",
+      "file": "lesson-34.mp3",
+      "bytes": 5913329,
+      "duration": "0:12:19",
+      "pub_date": "Fri, 20 Nov 2026 17:42:34 +0000",
+      "generated": "20261120174234",
+      "words": 2080,
+      "takeaways": [
+        "A credit agreement is a permission structure: start with the definitions, then map the affirmative covenants, negative covenants, baskets, defaults, and amendment rules to the actions your own functions take.",
+        "Structure and caps decide outcomes: in our example, a capped startup-loss addback narrowed covenant headroom, and the same four million dollar acquisition fit or failed depending on who bought what.",
+        "Track baskets, deadlines, and notices with an operator's map, read the actual text rather than summaries, and raise needed changes with lenders before signing or before acting."
+      ],
+      "tts": "openai:default"
     }
   ]
 }
