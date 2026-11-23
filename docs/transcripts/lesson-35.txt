@@ -1,0 +1,79 @@
+The Sponsor's Playbook
+Lesson 35: Revolvers, liquidity, and the 13-week cash flow
+
+Welcome to The Sponsor's Playbook. This is lesson 35: Revolvers, liquidity, and the 13-week cash flow.
+
+Picture a Thursday afternoon. Your biggest customer, a shipper that makes up about twelve percent of your revenue, tells accounts payable to stretch its payment run. Invoices that used to be paid in thirty-five days will now be paid in fifty. Nobody calls you. Your controller notices it on Monday.
+
+Meanwhile, your carriers are still paid in a few days, and many of them are on quick pay. Payroll still runs every other Friday. The quarterly interest payment is still coming in three weeks. Nothing in the business has gone wrong. Your EBITDA looks fine. But cash is quietly leaving faster than it comes back, and the only thing standing between that gap and a very uncomfortable call is your revolver.
+
+Today we're going to talk about that revolver, about liquidity, and about the tool that tells you what's coming: the thirteen-week cash flow.
+
+Start with the revolver. A revolving credit facility is a line of credit that sits at the top of your debt stack, usually alongside the senior term loan. You can borrow, repay, and borrow again, up to a limit. That limit is the commitment. What you've borrowed is the drawn amount. What's left is the undrawn amount, and you pay a commitment fee on it. The size of that fee varies with the market and your credit, but a fraction of one percent per year is a common range.
+
+Now, the important point for you. The undrawn amount is not the same as what you can actually borrow. Three things sit between them.
+
+First, letters of credit. If the facility issues letters of credit for you, say to support insurance programs or a lease, they count against the revolver. They're not cash, but they use up room.
+
+Second, the borrowing base. Many freight brokerages have an asset-based revolver. That means availability is the lesser of the commitment and a formula. The formula is usually a percentage, often in the mid-eighties, of your eligible receivables. Eligible is the key word. Receivables that are too old, owed by customers above a concentration limit, disputed, or owed by credit-impaired customers can be excluded. Other deals use a cash flow revolver instead, with no borrowing base, and the main constraint is a covenant. Which one you have varies by deal size and lender.
+
+Third, conditions to borrowing. Every time you request a draw, you typically represent that the agreement's representations are still true and that no default exists. Counsel, this one is yours. A draw request is a legal statement. If you're in default and don't know it, or know it and draw anyway, you've made a bigger problem.
+
+Liquidity is the word that ties this together. Most credit agreements and most sponsors define it as cash on the balance sheet plus availability under the revolver. And note the word availability, not commitment. Some agreements require a minimum liquidity. Others have a springing covenant, which sits dormant until availability falls below a threshold, often a percentage of the line or a fixed dollar amount, and then a financial covenant, commonly a fixed charge coverage test, switches on. Lesson 32 covered maintenance covenants. A springing covenant is a maintenance covenant that wakes up at the worst possible moment, when you're already tight.
+
+Which brings us to the thirteen-week cash flow. This is a weekly forecast of cash receipts and cash disbursements for the next quarter, rolled forward every week. Notice what it is not. It's not an income statement. It doesn't care about accruals, EBITDA, or addbacks. It asks one question: how much cash will be in the bank, and how much room will be on the revolver, at the end of each week?
+
+It's built directly. Cash in: collections from customers, by week, based on actual aging, not on a fond hope. Cash out: carrier payments, payroll and commissions, benefits, insurance premiums, rent, technology vendors, taxes, capital spending, interest, scheduled principal, and anything unusual, like an earnout payment or a seller note installment. At the bottom: beginning cash, net flow, any revolver draw or repayment, ending cash, and ending availability.
+
+Why thirteen weeks? It's long enough to see a quarter-end coming, and short enough that you can forecast it with real knowledge instead of guesses. Why weekly? Because liquidity problems live in timing, and a monthly view hides them. A business can be fine on the thirty-first and in trouble on the twelfth.
+
+Let's work an example, and I'll keep the numbers simple.
+
+Your brokerage has a revolver with a forty million dollar commitment. It's an asset-based facility. Receivables are about forty-four million dollars of eligible invoices, and the advance rate is eighty-five percent. Eighty-five percent of forty-four million is about thirty-seven point four million. That's your borrowing base. It's lower than the commitment, so the base is what limits you, not the forty million.
+
+You've drawn twenty-two million, and you have two million in letters of credit. So availability is thirty-seven point four, minus twenty-two, minus two. That's thirteen point four million. Add about two and a half million in cash, and liquidity is a little under sixteen. Call it sixteen million to keep it easy.
+
+Now build the thirteen weeks. The base case has some known lumps. In week four, the annual insurance premium, one and a half million. In week seven, quarterly interest and required principal on the term loan, together about two and a half million. In week nine, an earnout payment to a prior add-on's seller, three million. Normal weekly operations roughly break even, but with growth, they slightly consume cash, because you pay carriers fast and get paid slow. When you add it all up, liquidity bottoms out in week nine at about eleven million. Comfortable.
+
+Now run the downside, which is the point of the whole exercise. Your big customer stretches payment, and five million dollars of invoices slip past the aging limit in your borrowing base definition and become ineligible. Two things happen. The five million of cash you expected doesn't arrive, so liquidity falls by five. And the borrowing base shrinks by eighty-five percent of five million, about four point two five. That's a total hit of roughly nine and a quarter million. Eleven million minus nine and a quarter leaves under two million at the low point.
+
+Suppose your springing covenant turns on if availability falls below four million. You'd cross that line in week nine, right when the earnout is due. Suddenly a fixed charge coverage test applies, and you'd have to pass it for a period you may not be ready for.
+
+Here's the value of the forecast. You see that in week one, not week nine. You have eight weeks to act. You can negotiate the timing of the earnout with the seller. You can slow discretionary capital spending and some branch startup spending. You can accelerate collections, tighten terms for slow payers, or look at a receivables program if your facility permits it. You can call your sponsor about an equity cure or a short-term funding option. And you can call your lender before you need an answer, with a plan.
+
+What you generally shouldn't do is stretch carrier payments. In freight, carriers talk to each other, they walk away fast, and in some cases a stretched payable creates claims against your customers' freight or a reputation problem that hits your service level. It's a lever of last resort, not a plan.
+
+Now, what does all this mean for you as COO and General Counsel?
+
+First, you own more of the inputs than you think. Recruiting drives the headcount and commission costs. The startup branch business drives early losses and working capital. Marketing spend, development spending, legal settlements, insurance renewals, and bonding collateral all hit the forecast, and your finance team can only model what you tell them. A good practice is a standing weekly meeting where each function lead confirms what's about to leave the building.
+
+Second, you own the definitions. Know exactly how your agreement defines liquidity, availability, eligible receivables, and the springing trigger, and whether cash held in certain accounts counts. Know the conditions to every draw, the notice deadlines for borrowing requests, and the reporting calendar. Many facilities require a borrowing base certificate weekly or monthly, and the numbers in it must tie to the numbers elsewhere. If it doesn't tie, that's a reporting default waiting to happen. Lesson 27 touched on the lender liquidity tests at closing. The same logic applies every week afterward.
+
+Third, watch your customer and contract terms. Concentration limits in your borrowing base mean one large shipper can quietly cost you availability. Payment terms in a new customer contract are not just a commercial point. They're a liquidity decision. Consider asking sales and legal to flag any customer asking for terms beyond the norm.
+
+Now think about how each audience looks at this.
+
+Your sponsor wants to be told early. They care about the forecast's accuracy, and they care about whether the revolver is being used for operations or quietly funding permanent things like acquisitions and earnouts. They also don't want surprises, because they may be the party who has to write a check or approve a cure.
+
+The board wants a rolling view, a downside case, and a record of how last month's forecast compared to what actually happened. Forecast variance is a credibility metric. If you were off by three million dollars in week six, they'll ask why, and they'll want a better answer than "timing."
+
+The lenders want reporting that's timely and consistent, and they want to hear from you before a trigger, not after. Their experience is that borrowers who warn them early and arrive with a plan get flexibility. Borrowers who surprise them get lawyers and fees.
+
+Let me give you the common mistakes.
+
+The first is treating the revolver as permanent capital. It's a working capital tool. If you use it to fund a branch's multiyear losses, an add-on's purchase price, or an earnout, you've turned flexible liquidity into a permanent debt, and you've used up the cushion you'll need when a customer pays late. Those uses should be planned against term debt, equity, or cash flow, and they should be visible in the forecast.
+
+The second is forecasting off EBITDA. EBITDA can be strong while cash is weak. Growth, slower collections, capitalized software spending, and one-time costs all create gaps. The thirteen-week model should start from the bank balance and the aging report, not from the income statement.
+
+The third is building the forecast once and never testing it. A thirteen-week cash flow is only useful if you roll it every week, compare it to actual results, and run at least one downside case that changes collections and eligibility together. As our example showed, the damage from a slow customer comes twice: once in cash, and once in the borrowing base.
+
+Let me recap. The revolver is a flexible line, but what counts is availability: the lesser of commitment and borrowing base, less what you've drawn and your letters of credit. Liquidity is cash plus that availability, and your agreement may attach a minimum level or a springing covenant to it. The thirteen-week cash flow is a weekly, cash-based forecast that shows you the low point early enough to act. In our example, a single slow-paying customer took the low point from about eleven million to under two, and crossed a four million trigger in week nine. You can solve that in week one. You can't solve it in week nine. And you, as COO and General Counsel, supply the inputs, know the definitions, and make the early call to the sponsor and the lender.
+
+Here's your question for the day. If your largest customer paid twenty days late starting tomorrow, in which week would your availability hit its lowest point, and would you cross any trigger in your credit agreement? If you don't know the answer, that's your first assignment this week.
+
+Next time, in lesson 36, we move to the equity side of the capital structure with preferred and structured equity.
+
+Key takeaways:
+- A revolver's usable capacity is availability, not commitment: the lesser of the commitment and the borrowing base, less drawn amounts and letters of credit. Liquidity is usually cash plus that availability, and minimum liquidity or springing covenants may attach to it.
+- A thirteen-week cash flow is a weekly, cash-based forecast built from the bank balance and receivables aging, not EBITDA. Rolled weekly and tested against a downside, it shows a slow-paying customer hurting you twice, in cash and in the borrowing base, early enough to act.
+- As COO and General Counsel, supply the inputs from every function, know the definitions and draw conditions, keep the revolver for working capital rather than permanent needs, and go to the sponsor and lenders early with a plan.

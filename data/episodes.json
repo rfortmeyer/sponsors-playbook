@@ -543,6 +543,22 @@
         "Track baskets, deadlines, and notices with an operator's map, read the actual text rather than summaries, and raise needed changes with lenders before signing or before acting."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 34,
+      "title": "Revolvers, liquidity, and the 13-week cash flow",
+      "file": "lesson-35.mp3",
+      "bytes": 5701633,
+      "duration": "0:11:53",
+      "pub_date": "Mon, 23 Nov 2026 21:00:11 +0000",
+      "generated": "20261123210011",
+      "words": 2029,
+      "takeaways": [
+        "A revolver's usable capacity is availability, not commitment: the lesser of the commitment and the borrowing base, less drawn amounts and letters of credit. Liquidity is usually cash plus that availability, and minimum liquidity or springing covenants may attach to it.",
+        "A thirteen-week cash flow is a weekly, cash-based forecast built from the bank balance and receivables aging, not EBITDA. Rolled weekly and tested against a downside, it shows a slow-paying customer hurting you twice, in cash and in the borrowing base, early enough to act.",
+        "As COO and General Counsel, supply the inputs from every function, know the definitions and draw conditions, keep the revolver for working capital rather than permanent needs, and go to the sponsor and lenders early with a plan."
+      ],
+      "tts": "openai:default"
     }
   ]
 }
