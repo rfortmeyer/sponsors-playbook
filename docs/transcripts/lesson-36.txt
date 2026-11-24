@@ -1,0 +1,79 @@
+The Sponsor's Playbook
+Lesson 36: Preferred and structured equity
+
+Welcome to The Sponsor's Playbook. This is lesson 36: Preferred and structured equity.
+
+Picture this. Your company has a chance to buy a regional brokerage. It's a good one, with strong shippers and a producer team you'd love to keep. The price needs about thirty million dollars of new money. You call your lenders, and the answer is no. The leverage test from lesson 32 would put you over the incurrence limit. Adding debt won't work.
+
+So the sponsor says, "What if we put in thirty million dollars of preferred?" The deal is now possible. But you've just agreed to something that will shape every payout at exit, and some of your decisions along the way. Today we're going to understand what that something is.
+
+Start with the basics. Your capital structure is a ranking of claims. At the top is senior debt, then maybe second lien or mezzanine, which we covered in lesson 31. Below all debt sits equity. Preferred equity slots into the equity layer, but at the front of the line. It gets paid before common equity, and after every lender.
+
+Structured equity is the broader family. It means equity-like capital with customized terms, designed to sit between debt and plain common stock. Preferred stock is the most common form. You may also see it with warrants, or as convertible preferred. The idea is the same. The investor wants more protection than common holders get, and a return that doesn't depend entirely on a great outcome. In exchange, the company gets capital without adding debt that would trip a covenant.
+
+Let's walk through the terms, because the terms are the whole story.
+
+First, the liquidation preference. This says that when the company is sold or liquidated, the preferred holder is paid first, before common holders see a dollar. It's usually stated as a multiple of the original investment. One times is common, which means you get your money back first. Some deals use one point five times or more, though that is more aggressive and varies by market and by how much leverage the investor has.
+
+Second, the dividend. Preferred usually carries a stated return, often somewhere in the range of eight to fourteen percent a year. The range moves with the credit cycle and the risk of the company. The dividend can be paid in cash, or it can be PIK, which stands for paid in kind. PIK means it isn't paid in cash. It accrues and adds to the preferred balance, and it compounds. Most credit agreements push companies toward PIK, because lenders don't want cash leaving the business to pay equity holders.
+
+Third, conversion. Many preferred securities can convert into common stock at a set price or percentage. That gives the holder a choice at exit. Take the preference and the accrued dividend, or convert and share in the upside. The holder takes whichever is bigger.
+
+Fourth, participation. A participating preferred gets its preference back and also shares in the remaining proceeds alongside common. That's the most investor-friendly version. Non-participating preferred makes the holder choose one or the other. Participation is a major negotiating point.
+
+Fifth, control rights. Preferred holders often get consent rights, meaning they must approve certain actions. Typical examples: new debt, new equity, acquisitions above a size, sale of the company, dividends, changes to the budget, hiring or firing the CEO. They may also get a board seat or observer and information rights.
+
+Sixth, redemption. Some preferred can be forced back on the company after a number of years, which makes it look more like debt. Lenders care a lot about this term. We'll come back to it.
+
+Now the worked example, and I'll keep the numbers simple.
+
+Your freight brokerage earns thirty million dollars of EBITDA. The sponsor bought it at ten times, so enterprise value at the start is three hundred million. You carry one hundred twenty million of debt, which is four times EBITDA. You want the add-on, you need thirty million, and the lenders won't give you more debt.
+
+The sponsor offers thirty million of preferred on these terms. Ten percent PIK dividend. A one times liquidation preference, plus accrued dividends. And it's convertible into fifteen percent of the common equity. The holder will take the greater of the preference or the converted value.
+
+First, what does the preferred grow into? Thirty million at ten percent compounding for five years becomes about forty-eight point three million. No cash left the company along the way. But the claim in front of the common holders grew by eighteen million dollars.
+
+Now, three exits at year five.
+
+Scenario one, a flat outcome. The company is worth three hundred million, debt is still one hundred twenty million, so equity value is one hundred eighty million. The preferred has two choices. Take the preference of forty-eight point three million, or convert to fifteen percent of one hundred eighty million, which is twenty-seven million. It takes the preference. The common holders, the sponsor's original equity and management's equity, split what's left: about one hundred thirty-one point seven million.
+
+Notice what happened. The company didn't grow in value, yet the preferred holder earned about ten percent a year, and the common holders absorbed the cost.
+
+Scenario two, the good outcome. The add-on works, integration goes well, and the company is now worth five hundred million. Debt was paid down to one hundred million. Equity value is four hundred million. Fifteen percent of that is sixty million, which beats forty-eight point three. The preferred converts. Common holders keep eighty-five percent, or three hundred forty million. So in the good outcome, the preferred took a bit of the upside, but you still did very well.
+
+Scenario three, the downside. A freight recession hits, your EBITDA falls, and the company is worth two hundred million with debt still at one hundred twenty million. Equity is only eighty million. The preferred still takes its forty-eight point three million first. Common holders get about thirty-one point seven. That's the protection the preferred holder bought. The company's equity fell by more than half, but the preferred barely noticed.
+
+Look at that last point from management's seat. Your option pool or profits interests sit in the common layer, behind the preferred. In the downside, the preferred absorbs a big share of the value before your equity gets anything. That affects retention, and it's something you'll need to think about with the sponsor.
+
+Compare that to the alternative. If the sponsor had put in thirty million of common instead, the company would simply have more owners, with no accruing claim ahead of them. Common is more expensive in the upside, because those owners share in all of it. Preferred is cheaper in the upside, but heavier in the flat and downside cases. That's the trade-off. The preferred is a bet that the company will do fine, with protection if it doesn't.
+
+Now, what does this mean for you as COO and General Counsel?
+
+Start with the documents. Preferred is created by a charter amendment or a certificate of designation, plus an investor rights agreement. You'll read these the way you read the credit agreement in lesson 34. Look for the consent list. A consent right sounds like a board-level matter, but many of them reach into operations. Does a budget variance need approval? Does a new branch launch above a certain spend? Does hiring a senior sales leader or settling a large claim need sign-off? If your startup branch unit plans to burn cash faster than the approved budget, you may need the preferred holder's blessing, and you'll want to know that on day one, not day ninety.
+
+Next, the interaction with the credit agreement. Lenders care a great deal about how preferred is defined. Generally, preferred that pays no cash dividends, has no mandatory redemption before the debt matures, and doesn't give the holder debt-like remedies is treated as equity, sometimes called qualified preferred. Preferred with cash pay or early redemption is often treated as debt, and it can count toward leverage. Market terms vary, so read your own agreement. If the preferred is poorly structured, it can break the very covenant it was meant to avoid. Lenders also often restrict how you can use the proceeds, so confirm the permitted use for the add-on.
+
+Third, think about the three audiences. The sponsor sees preferred as a way to protect downside and to fund something debt can't. They'll want to know the preferred will be used to create value, not just to patch a gap. The board sees it as a priority claim that changes who gets paid in each scenario. Directors will want to see the waterfall, meaning the step-by-step flow of exit dollars, under several valuations, and they'll care about conflicts, since a preferred holder and a common holder may want different things in a bad year. Lenders see it as a cushion. They like equity beneath them. They'll check that it really is equity, that nothing is leaking cash out, and that no redemption date sits inside their maturity.
+
+And fourth, your own people. If your management team holds options or profits interests, ask how the preferred sits in the waterfall, what the strike or participation threshold is, and whether the incentive plan still motivates people in a flat outcome. In freight, where cycles swing hard, a flat outcome isn't hypothetical.
+
+Now, common mistakes.
+
+Mistake one: treating PIK preferred as free money because no cash goes out. It isn't free. It compounds, and in our example it added about eighteen million dollars to the claim ahead of common. Run the waterfall at flat and down exits, not only the good one.
+
+Mistake two: skipping the consent rights. Executives often skim them, because they look like governance. Then a branch expansion or a settlement needs approval that nobody planned for. Map each consent right to an operating decision, with an owner and a lead time.
+
+Mistake three: assuming the credit agreement and the preferred terms fit together. They're negotiated by different teams, sometimes at different times. A single term, like a redemption right or a cash dividend step-up after year four, can change how lenders treat the whole instrument. Have counsel check the two documents against each other before signing, not after.
+
+Let's recap.
+
+Preferred and structured equity sit between debt and common stock. They rank ahead of common and behind lenders. The key terms are the liquidation preference, the dividend, whether it's cash or PIK, conversion, participation, control rights, and redemption. In our example, thirty million of ten percent PIK preferred grew to about forty-eight million in five years. In a flat exit it took that full amount, in a strong exit it converted and took fifteen percent, and in a downside it still got paid first. The cost shows up in the common layer, including management's equity. As COO and General Counsel, you read the consent rights as operating constraints, check how lenders will classify the instrument, and understand how the waterfall treats your people. The sponsor, the board, and the lenders will each look at it differently, so be ready for all three.
+
+Here's your question for today. If the preferred holder had a consent right over your next branch launch, and your best expansion opportunity came up in a quarter when the budget was already tight, how quickly could you get a clear yes or no, and what would you need to show to get it?
+
+Next time, in lesson 37, we'll look at dividend recapitalizations, and how a sponsor can take cash out of a company by borrowing against its earnings.
+
+Key takeaways:
+- Preferred equity ranks behind all debt but ahead of common, and its key terms are the liquidation preference, dividend (cash or PIK), conversion, participation, control rights, and redemption.
+- PIK preferred isn't free: in our example, thirty million at ten percent became about forty-eight million in five years, taking the preference in flat and downside exits and converting only when the upside is larger, with the cost falling on common holders and management equity.
+- As COO and General Counsel, map consent rights to real operating decisions, check that the preferred is treated as equity under the credit agreement, and run the exit waterfall at flat and downside values for the sponsor, board, and lenders.

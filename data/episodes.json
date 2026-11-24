@@ -559,6 +559,22 @@
         "As COO and General Counsel, supply the inputs from every function, know the definitions and draw conditions, keep the revolver for working capital rather than permanent needs, and go to the sponsor and lenders early with a plan."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 35,
+      "title": "Preferred and structured equity",
+      "file": "lesson-36.mp3",
+      "bytes": 5339889,
+      "duration": "0:11:07",
+      "pub_date": "Tue, 24 Nov 2026 20:03:38 +0000",
+      "generated": "20261124200338",
+      "words": 1937,
+      "takeaways": [
+        "Preferred equity ranks behind all debt but ahead of common, and its key terms are the liquidation preference, dividend (cash or PIK), conversion, participation, control rights, and redemption.",
+        "PIK preferred isn't free: in our example, thirty million at ten percent became about forty-eight million in five years, taking the preference in flat and downside exits and converting only when the upside is larger, with the cost falling on common holders and management equity.",
+        "As COO and General Counsel, map consent rights to real operating decisions, check that the preferred is treated as equity under the credit agreement, and run the exit waterfall at flat and downside values for the sponsor, board, and lenders."
+      ],
+      "tts": "openai:default"
     }
   ]
 }
