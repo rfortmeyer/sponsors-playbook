@@ -575,6 +575,22 @@
         "As COO and General Counsel, map consent rights to real operating decisions, check that the preferred is treated as equity under the credit agreement, and run the exit waterfall at flat and downside values for the sponsor, board, and lenders."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 36,
+      "title": "Dividend recapitalizations",
+      "file": "lesson-37.mp3",
+      "bytes": 5562034,
+      "duration": "0:11:35",
+      "pub_date": "Wed, 25 Nov 2026 19:03:44 +0000",
+      "generated": "20261125190344",
+      "words": 2044,
+      "takeaways": [
+        "A dividend recap uses new debt to pay equity holders, which speeds up sponsor returns but raises leverage and interest and uses up capacity for add-ons and growth.",
+        "Permission comes from the credit agreement's restricted payment baskets and incremental debt tests, but whether it is wise depends on state dividend law, solvency, and the downside case. In our example, leverage of five times became a six point two five times breach after a twenty percent EBITDA decline.",
+        "As COO and General Counsel, supply defensible EBITDA and cash forecasts, document the board's solvency review, handle management equity and option adjustments, and size the dividend to the downside, not to the covenant limit."
+      ],
+      "tts": "openai:default"
     }
   ]
 }
