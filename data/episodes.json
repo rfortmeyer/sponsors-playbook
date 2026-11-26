@@ -591,6 +591,22 @@
         "As COO and General Counsel, supply defensible EBITDA and cash forecasts, document the board's solvency review, handle management equity and option adjustments, and size the dividend to the downside, not to the covenant limit."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 37,
+      "title": "Refinancing, repricing, and amend-and-extend",
+      "file": "lesson-38.mp3",
+      "bytes": 5176885,
+      "duration": "0:10:47",
+      "pub_date": "Thu, 26 Nov 2026 18:55:37 +0000",
+      "generated": "20261126185537",
+      "words": 1887,
+      "takeaways": [
+        "Refinancing replaces the debt for a full reset, repricing lowers the margin on the existing loan, and amend-and-extend pushes out maturity with existing lenders, usually needing each affected lender's consent and leaving holdouts as a stub to be repaid.",
+        "Compare options on all-in cost and flexibility, including fees, OID, call protection, covenant and addback changes, and downside leverage, not just the headline spread. In our example, an A and E cost about one point five million dollars in year one against a refinancing's two million or more, but the refinancing offered more room to reset terms.",
+        "Start eighteen months before maturity, well before the going-concern window. As COO and General Counsel, supply the operating story and forecasts, map consents and documents, read the actual redline, and check liquidity after closing."
+      ],
+      "tts": "openai:default"
     }
   ]
 }

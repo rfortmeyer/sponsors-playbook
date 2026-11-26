@@ -1,0 +1,79 @@
+The Sponsor's Playbook
+Lesson 38: Refinancing, repricing, and amend-and-extend
+
+Welcome to The Sponsor's Playbook. This is lesson 38: Refinancing, repricing, and amend-and-extend.
+
+Picture this. You're the COO and General Counsel of a freight brokerage. Business is decent. Your term loan has fourteen months left, and your CFO walks in and says, "The auditors want to talk about the maturity date."
+
+Here's why. When debt comes due within twelve months of the date your financial statements are issued, auditors start asking whether you can actually repay it. If the answer isn't clearly yes, that can turn into a going-concern warning. A going-concern warning can spook customers, carriers, insurers, and the lenders you're about to negotiate with.
+
+So you have about two months before the loan hits that twelve-month window, and a lot of decisions to make. Today is about those decisions. There are three tools: refinancing, repricing, and amend-and-extend. They sound alike, but they solve different problems and carry different costs.
+
+Let's define them, then walk through a real example.
+
+A refinancing means you replace the existing debt with new debt. You sign new documents, often with new lenders, and use the proceeds to pay off the old loan. Everything is on the table again: size, rate, maturity, covenants, collateral, and fees. That's the strength of a refinancing, and the cost. You get a clean reset, but you pay for the full process.
+
+A repricing is narrower. You keep the same loan and the same lenders, or lenders who take them out, and you lower the interest margin. Say the loan pays five percent over SOFR, and you negotiate it down to four and a half. Repricings tend to happen when the credit has improved, or when market spreads have tightened since you borrowed. They're common in broadly syndicated term loans and less common in smaller private credit deals, where the lender may simply have no appetite to cut its own price. Many loans have soft call protection, typically a one percent premium if you reprice in the first six months or so. Terms vary, so read yours.
+
+An amend-and-extend, or A and E, is the one most relevant to your fourteen months. You ask existing lenders to push the maturity date out, usually in exchange for a fee, a higher margin, or both. Lenders who agree get the new terms. Lenders who don't agree stay in the loan at the old maturity, and you still have to repay them on the original date. That detail matters, and we'll come back to it.
+
+Here's a mechanical point for the General Counsel in you. Most amendments need only the required lenders, usually more than half by dollar amount. But extending a maturity date, cutting the rate, or reducing the principal usually requires consent from each lender affected. This is often called a sacred right. So an A and E can't be forced through by a majority. Each lender decides for itself whether to extend.
+
+Now the example. Keep the numbers simple.
+
+Your company has a one hundred million dollar term loan at SOFR plus five percent. EBITDA is twenty-five million dollars, so leverage is four times. Maturity is in fourteen months.
+
+Option one is an A and E. Your sponsor and your banker talk to the lender group. They propose extending the maturity by about three years, to roughly four years from today. The lenders ask for an extension fee of one percent and a margin increase of half a point, from five percent to five and a half.
+
+Say ninety percent of the lenders agree. That's ninety million dollars of the loan. Ten million dollars of lenders decline.
+
+Let's price it. The extension fee is one percent of ninety million, which is nine hundred thousand dollars. It's paid only to the lenders who extend. The higher margin is half a point on ninety million, which is about four hundred fifty thousand dollars of extra interest per year. Add legal and administrative costs, say a couple hundred thousand. So in year one you're out roughly one point five million dollars, then about four hundred fifty thousand a year after that.
+
+Now the stub. You still owe ten million dollars to the lenders who said no, and it comes due in fourteen months. You need a plan for that. Maybe you repay it from the revolver. But remember lesson 35: the revolver is for working capital, and usable capacity is availability, not commitment. If you use ten million dollars of availability to pay off a term loan stub, you've cut the cushion that protects you when a big customer pays slowly. Many A and E deals address this by having the extended lenders agree that if the stub isn't refinanced by a set date, the new maturity springs forward. That's called a springing maturity. It protects the extended lenders, but it also means the clock hasn't fully gone away. Another way to handle the stub is to bring in a new lender to buy out the holdouts. That's often cleaner.
+
+Option two is a full refinancing. A new lender, maybe a unitranche provider as we discussed in lesson 31, offers a new loan at the same five percent margin, but with a two percent upfront discount, called original issue discount, or OID. On one hundred million dollars, that's two million dollars of cost on day one. Add legal fees, new security documents, possibly new field exams and a quality-of-earnings report, and the bill grows. The process takes sixty to ninety days or more. Market conditions can change while you're in it.
+
+So the A and E looks cheaper here, about one point five million versus well over two million. And it's faster, because you're working with lenders who already know you.
+
+But a refinancing gives you something the A and E might not. You can reset the covenants. You can negotiate a bigger revolver. You can change the EBITDA definition and the addback caps from lesson 32, create room for add-ons, or swap out lenders you don't want to keep. In an A and E, the existing lenders hold the leverage, and they often ask for tighter terms in return. They might want a lower leverage test, mandatory amortization, a higher minimum liquidity requirement, or a tighter cap on your startup-loss addbacks. If EBITDA fell twenty percent to twenty million dollars, leverage would go from four times to five. The lenders know that, and they'll price it into what they ask for.
+
+So the trade-off is cost and speed against flexibility and control. Neither is always better. It depends on how the business is doing, how the lenders feel, and what the market looks like.
+
+Now, what does this mean for you, as the operating executive?
+
+Start with timing. The best time to deal with a maturity is early, ideally twelve to eighteen months before it comes due, and well before the going-concern window. If you start when you're already inside that window, you negotiate from weakness. Lenders can see that. They'll ask for more, and you'll have fewer alternatives.
+
+Next, timing around performance. Lenders look at trailing twelve-month EBITDA, and in freight, that can swing a lot with the spot market, contract rates, and gross profit per load. If you're coming off a soft stretch, you want to show the trend line, the margin recovery, and the plan. If you're at a good stretch, move quickly. Your job as COO is to build the story with real numbers: customer concentration, carrier capacity, gross margin by lane, receivables quality, and how your new branch startups are tracking against their plan. Lenders will test all of it.
+
+As General Counsel, you own the documentation and the consent map. Who needs to approve? Is this a required-lender amendment or does it need each affected lender? What guarantees and liens need to be reaffirmed or re-filed? What does the intercreditor agreement say if you have a second lien? Are there hedges, like an interest rate swap, that have to be adjusted or terminated? Does the amendment trigger any notice requirements or call premiums? Do you need board approval and a solvency analysis, as we discussed with dividend recaps? Treat these as a checklist and start early.
+
+Now think about how each party looks at this.
+
+The sponsor wants the lowest all-in cost and the most flexibility. The sponsor may also want to combine the transaction with something else, like adding incremental debt for an acquisition or doing a dividend. That can work, but it makes the lenders look harder at your downside case.
+
+The board wants a clear picture of cost, risk, and liquidity. They'll ask: What's the total cost, including fees? What happens to our covenant headroom? What's our liquidity after closing? What happens if EBITDA drops twenty percent? Have those answers ready.
+
+Lenders look at two things: whether you can repay them, and what they're being paid for the risk. Existing lenders see an A and E as a chance to get paid more for extending. New lenders have to underwrite you from scratch, so they'll ask for more diligence, but they might offer better terms if you're a strong credit.
+
+Now, common mistakes.
+
+First, waiting too long. Many companies treat a maturity as a distant item until it's inside a year. By then you've got auditors, lenders, and a shrinking set of choices. Put the maturity date on the board calendar eighteen months out.
+
+Second, comparing deals on headline spread alone. A lower margin can come with a bigger upfront fee, call protection, tighter covenants, or a shorter maturity. Compare all-in cost over the life of the loan, and compare flexibility, not just price. And remember the stub. If ten percent of lenders don't extend, what's your plan for them?
+
+Third, treating an amendment as a purely financial exercise. Every time you open the credit agreement, other terms can move. Definitions change. Baskets change. Reporting requirements change. A lender might sneak in a tighter addback cap that doesn't show up in the term sheet headline. Read the actual redline, not the summary, which is the lesson 34 point. And make sure the operating team understands any new restrictions before they sign, because the people who'll live with those restrictions are the ones running branches, hiring, and signing deals.
+
+Let's recap.
+
+Refinancing replaces the debt and gives you a full reset. Repricing lowers the margin on the existing loan, and may be limited by call protection. Amend-and-extend pushes the maturity out with existing lenders, usually for a fee and a higher margin, and it normally needs each affected lender's consent. In our example, an A and E cost roughly one point five million dollars in year one and left a ten million dollar stub to deal with, while a full refinance cost more upfront but offered a chance to reset terms.
+
+Start early, compare all-in cost and flexibility, and run the downside case. Make sure the operating story, the legal map, and the liquidity plan are ready before you walk into the lender meeting.
+
+Here's your question for today. If your maturity date were fourteen months away starting this morning, what would a lender find in your numbers, your reporting, and your documents that would make them ask for more, and what could you fix this quarter to change that?
+
+Next time, we'll look at managing through a covenant breach.
+
+Key takeaways:
+- Refinancing replaces the debt for a full reset, repricing lowers the margin on the existing loan, and amend-and-extend pushes out maturity with existing lenders, usually needing each affected lender's consent and leaving holdouts as a stub to be repaid.
+- Compare options on all-in cost and flexibility, including fees, OID, call protection, covenant and addback changes, and downside leverage, not just the headline spread. In our example, an A and E cost about one point five million dollars in year one against a refinancing's two million or more, but the refinancing offered more room to reset terms.
+- Start eighteen months before maturity, well before the going-concern window. As COO and General Counsel, supply the operating story and forecasts, map consents and documents, read the actual redline, and check liquidity after closing.
