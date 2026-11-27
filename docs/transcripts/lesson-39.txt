@@ -1,0 +1,75 @@
+The Sponsor's Playbook
+Lesson 39: Managing through a covenant breach
+
+Welcome to The Sponsor's Playbook. This is lesson 39: Managing through a covenant breach.
+
+It's the Thursday after quarter end. Your controller walks into your office and closes the door. The preliminary numbers are in, and trailing EBITDA came in about four and a half percent below where the leverage covenant needs it. Spot rates fell faster than your contract pricing could adjust, and a couple of big shippers moved volume to a competitor. The compliance certificate is due in about three weeks. Your CFO is on a plane. And the first question in your head isn't about EBITDA. It's whether you can still draw on the revolver Monday to pay carriers.
+
+That's the right question, and today is about how to handle that moment.
+
+Let's start with vocabulary, because the words matter. A covenant breach is a failure to meet a promise in the credit agreement. For financial covenants, that's usually a leverage or fixed charge test. A default is the breach itself. An event of default is the point where the lenders gain remedies. For most non-financial covenants, there's a grace period first. For financial covenants, there usually isn't one. The breach is an event of default when the test is missed, though many agreements give the sponsor a short window to cure it. Terms vary, so read yours.
+
+What can lenders do once there's an event of default? On paper, a lot. They can stop funding the revolver, charge default interest, often an extra two percentage points, block certain payments, and ultimately accelerate the debt and go after collateral. In practice, lenders almost never lead with acceleration. Calling a loan on a going business usually destroys value for everyone. What they do immediately is use the leverage they've just gained. And the most immediate leverage is the draw stop.
+
+Remember from lesson 35 that every revolver borrowing carries conditions. Typically, no default exists and your representations are true. During a breach, you may not be able to satisfy those conditions. For a freight brokerage, that's the real danger. You pay carriers in days, often through quick pay, and customers pay you in thirty, forty-five, sometimes sixty days. The revolver bridges that gap. So a covenant breach is not just a leverage problem. It can become a liquidity emergency within a week, even if the business is fundamentally fine.
+
+So there are really four paths out of a breach. Let me walk through them.
+
+First, avoid it. Lesson 32 told you that maintenance covenants are an early warning system. The best time to manage a breach is two quarters before it happens, using your forecast. If you see it coming, you can negotiate a reset or an amendment while you still look like a thoughtful borrower, not a defaulting one.
+
+Second, cure it. Many sponsor-backed credit agreements include an equity cure right. The sponsor puts in new equity, and that cash is treated as if it improved the covenant calculation. Details matter. In many deals, the cure amount is counted as additional EBITDA for the test. In others, it's applied to reduce debt. There are usually limits: a cap on the number of cures, often something like two in any four quarters and four or five over the life of the loan; a deadline, commonly ten to fifteen business days after the compliance certificate is due; and a rule against over-curing, meaning the sponsor can only contribute what's needed to pass. Sometimes there are restrictions on how the cash can be used. Market practice varies by deal size and by who has leverage. Larger sponsor deals tend to have friendlier cure rights.
+
+Third, get a waiver or an amendment. A waiver forgives this specific breach, once. An amendment changes the covenant itself, resetting levels or the EBITDA definition going forward. Lenders will want something for either one, and we'll see what in a moment.
+
+Fourth, a forbearance. That's when lenders agree not to exercise remedies for a limited period while you work on a fix. It's a signal of more serious distress, and it usually comes with a reservation of rights, tight reporting, and sometimes a financial advisor hired at your expense. It's a bridge, not a solution. Often it leads to a restructuring or a refinancing, like those we discussed in lesson 38.
+
+Now an example. Keep it simple.
+
+Your brokerage has a term loan of one hundred fifty million dollars and no revolver borrowings, to keep the math clean. Trailing twelve-month covenant EBITDA was thirty million, so leverage was five times. The covenant allows a maximum of five and a half times. That's headroom of ten percent, which sounds comfortable until freight turns.
+
+Then the market softens. Covenant EBITDA drops to twenty-six million. Divide one hundred fifty by twenty-six and you get about five point seven seven times. That's over the five and a half limit. To pass, you'd need EBITDA of about twenty-seven point three million, or debt of about one hundred forty-three million. So you're short by roughly one point three million of EBITDA, or about seven million of debt.
+
+Option one: equity cure counted as EBITDA. The sponsor contributes one and a half million dollars. Add that to twenty-six million, and EBITDA for the test is twenty-seven and a half. One hundred fifty over twenty-seven and a half is about five point four five times. You pass. Cost to the sponsor: one and a half million.
+
+Option two: if the agreement only lets the cure reduce debt, the sponsor has to put in about seven million to get leverage down to five and a half. Same breach, nearly five times the check. This is why the cure mechanics matter long before you need them. And remember, if the cure counts as EBITDA, it typically stays in the calculation for the next three quarters of trailing results. That helps with the next tests, but it doesn't fix the underlying business. If EBITDA stays at twenty-six, you'll face the same problem when the cure rolls out.
+
+Now suppose the sponsor says, "I'm not writing a check to fund a cyclical dip." Then you go to lenders for a waiver. A realistic package might be a fee of twenty-five basis points on the loan, which is about three hundred seventy-five thousand dollars. Add a margin increase of fifty basis points, which is about seven hundred fifty thousand a year. Add a reset of the covenant to six and a half times for a few quarters, a tighter EBITDA definition with fewer addbacks, a minimum liquidity requirement, and a weekly thirteen-week cash flow. Total cost in year one is over one million dollars, plus real operating constraints. Compare that to a one-and-a-half-million-dollar equity cure that doesn't change the terms. Sometimes the sponsor does both: a smaller cure to show commitment, in exchange for lighter amendment terms. That's a negotiation, and your numbers shape it.
+
+Notice what drove everything: the quality of the EBITDA number. If one million dollars of your addbacks, say branch startup losses or a one-time legal cost, is challenged, your breach gets bigger. Lesson 33 said every ratio depends on the definitions, and nowhere is that truer than here.
+
+Now, what does this mean for you as COO and General Counsel?
+
+First, you become the process owner of the first forty-eight hours. Pull the credit agreement and read the actual text, as we said in lesson 34. Identify the test date, the compliance certificate deadline, the cure period, notice requirements, and the cross-default provisions. Many agreements require notice to the agent within a few business days of knowing about a default. That's a legal obligation, not a courtesy. Missing it creates a second default on top of the first.
+
+Second, freeze and review anything that default could block. In many agreements, an event of default stops restricted payments. That can include sponsor management fees, payments on seller notes or earnouts, and equity repurchases from departing executives. If you have a payment due to a founder under an earnout, check whether it's subordinated. Paying something you were prohibited from paying can cause a second default and expose officers to uncomfortable questions.
+
+Third, treat the revolver draw decision as a legal decision. When you submit a borrowing request, you're often representing that no default exists. If one does, and you draw anyway, that's a misrepresentation. So work with the CFO and outside counsel before the next draw. Sometimes the answer is to draw before the test date, but only if the conditions are truly met and you're not just hoarding cash in a way that damages credibility. Talk to counsel about that line.
+
+Fourth, understand how each audience reads this. The sponsor wants to know if the breach is temporary or structural. A temporary dip in the freight cycle may justify a cure or a bridge. A structural loss of customers or margin may not. Expect questions about the forecast, about the cost of waiver versus cure, and about whether the sponsor's capital is better spent here or elsewhere in the portfolio.
+
+The board wants process. They'll want a meeting, a record of what management knew and when, advice from counsel, and clear minutes. When a company is under financial stress, directors become more careful about their duties, and you should help them be. Lesson 37 talked about documenting solvency reviews. The same discipline applies here.
+
+The lenders want three things: honesty, a plan, and control. They want one consistent set of numbers, a credible operating story, and visibility into cash. Lenders hate surprises far more than they hate bad news. If the first time they hear about a breach is when the certificate arrives, you've lost most of your credibility. If they hear about a likely miss six weeks early, with a forecast, a mitigation plan, and sponsor support on the table, you're negotiating from a much better place.
+
+Also check how your agreement treats breaches. In many cov-lite term loans, the only financial covenant is a springing one that protects the revolver lenders. A breach there may give the revolver lenders remedies, while term lenders can act only if the revolver lenders accelerate. That changes who you negotiate with. Again, it depends on the document.
+
+Now, common mistakes.
+
+Mistake one: waiting until after the test date. By then, your options are narrower, your leverage is gone, and the lenders feel ambushed. Start the conversation when your forecast shows headroom below about ten percent, and certainly if a downside case shows a miss.
+
+Mistake two: treating the cure as the solution. A cure fixes a test, not a business. If the underlying EBITDA isn't recovering, you've bought a quarter or two. Use that time to fix pricing, cut cost, or reset terms, not to hope.
+
+Mistake three: inconsistent numbers. The covenant calculation says one thing, the board deck says another, and the lender presentation says a third. Each difference becomes a question about whether management is in control. Reconcile everything to one bridge, as we said in lesson 33.
+
+A bonus mistake: cross-default blind spots. Check equipment leases, insurance premium financing, surety, and any material contract. A breach in one document can quietly trigger problems in others.
+
+Let me recap. A breach is a default; an event of default is where lenders gain remedies, and financial covenants often have no grace period beyond an equity cure window. The real near-term risk is the revolver draw stop. Your paths are avoidance, equity cure, waiver or amendment, or forbearance, and cure mechanics, EBITDA versus debt paydown, can change the sponsor's check by several times. Waivers cost fees, margin, and tighter terms. As COO and General Counsel, you own the process: read the document, track notices and blocked payments, handle draws carefully, align the numbers, and bring lenders and the sponsor in early.
+
+Here's your question for today. If your EBITDA fell fifteen percent next quarter, what would be the first date you'd breach, who would you call first, and do you already know what the cure mechanics in your credit agreement say?
+
+Next time, in lesson 40, we'll look at the rise of private credit and what it changes about lenders, terms, and how you negotiate through situations like this one.
+
+Key takeaways:
+- A covenant breach is usually an immediate event of default for financial covenants, and the biggest near-term risk is losing revolver access, so liquidity and draw conditions matter as much as the ratio.
+- Equity cure mechanics decide the cost: in our example, a cure counted as EBITDA cost about one and a half million dollars, while a debt-paydown cure cost about seven million, and a waiver cost over a million in year one plus tighter terms.
+- As COO and General Counsel, read the agreement before the test date, track notice deadlines and blocked payments, handle draw requests with counsel, and give sponsor, board, and lenders one consistent set of numbers early.

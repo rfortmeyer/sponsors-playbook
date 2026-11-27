@@ -607,6 +607,22 @@
         "Start eighteen months before maturity, well before the going-concern window. As COO and General Counsel, supply the operating story and forecasts, map consents and documents, read the actual redline, and check liquidity after closing."
       ],
       "tts": "openai:default"
+    },
+    {
+      "lesson_idx": 38,
+      "title": "Managing through a covenant breach",
+      "file": "lesson-39.mp3",
+      "bytes": 5712082,
+      "duration": "0:11:54",
+      "pub_date": "Fri, 27 Nov 2026 18:47:45 +0000",
+      "generated": "20261127184745",
+      "words": 2034,
+      "takeaways": [
+        "A covenant breach is usually an immediate event of default for financial covenants, and the biggest near-term risk is losing revolver access, so liquidity and draw conditions matter as much as the ratio.",
+        "Equity cure mechanics decide the cost: in our example, a cure counted as EBITDA cost about one and a half million dollars, while a debt-paydown cure cost about seven million, and a waiver cost over a million in year one plus tighter terms.",
+        "As COO and General Counsel, read the agreement before the test date, track notice deadlines and blocked payments, handle draw requests with counsel, and give sponsor, board, and lenders one consistent set of numbers early."
+      ],
+      "tts": "openai:default"
     }
   ]
 }
